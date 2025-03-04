@@ -90,7 +90,7 @@ class mT5:
         result = {k: round(v, 4) for k, v in result.items()}
         return result
 
-    def train_mT5(self, train_file, val_file, test_file):
+    def _train(self, train_file, val_file, test_file):
         
         tokenized_train, tokenized_eval, tokenized_test = self.load_data(train_file, val_file, test_file)
 
@@ -130,9 +130,11 @@ if __name__ == "__main__":
     train_file = "path to train file"
     val_file = "path to val file"
     test_file = "path to test file"
+    source = "code for source language i.e., en"
+    target = "code for target language i.e., af, cs, cy, es, ro"
     
-    mT5_trainer = mT5()
+    mT5_trainer = mT5(source = source, target = target)
     
-    results = mT5_trainer.train_mT5(train_file, val_file, test_file)
+    results = mT5_trainer._train(train_file, val_file, test_file)
     
     print(results)

@@ -98,7 +98,7 @@ class BERT:
         
         return self.tokenizer(examples["review"], truncation = True)
 
-    def train_bert(self, train_file, val_file, test_file):
+    def _train(self, train_file, val_file, test_file):
 
         tokenized_train, tokenized_eval, tokenized_test = self.load_data(train_file, val_file, test_file)
 
@@ -137,9 +137,10 @@ if __name__ == "__main__":
     train_file = "path to train file"
     val_file = "path to val file"
     test_file = "path to test file"
+    dataset = "name of the classification dataset i.e., SST2, SST5, IMDB, AGNEWS"
     
-    bert_trainer = BERT()
+    bert_trainer = BERT(dataset = dataset)
     
-    results = bert_trainer.train_mT5(train_file, val_file, test_file)
+    results = bert_trainer._train(train_file, val_file, test_file)
     
     print(results)
