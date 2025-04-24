@@ -48,12 +48,12 @@ def backtranslate(text, model1, tokenizer1, model2, tokenizer2, device):
     
     # translate from englis to french
     inputs = tokenizer1(text, return_tensors = "pt", padding = True, truncation = True).to(device)
-    outputs = model1.module.generate(**inputs)
+    outputs = model1.generate(**inputs)
     translated_text = tokenizer1.decode(outputs[0], skip_special_tokens = True)
     
     # translate back to english
     inputs_back = tokenizer2(translated_text, return_tensors = "pt", padding = True, truncation = True).to(device)
-    outputs_back = model2.module.generate(**inputs_back)
+    outputs_back = model2.generate(**inputs_back)
     backtranslated_text = tokenizer2.decode(outputs_back[0], skip_special_tokens = True)
     
     return backtranslated_text
