@@ -43,6 +43,11 @@ class BERT:
             label2id = {"Worlds": 0, "Sports": 1, "Business": 2, "Science": 3}
             id2label = {0: "Worlds", 1: "Sports", 2: "Business", 3: "Science"}
             num_labels = 4
+            
+        elif self.dataset == "IRONY":
+            label2id = {"Not Ironic": 0, "Ironic": 1}
+            id2label = {0: "Not Ironic", 1: "Ironic"}
+            num_labels = 2
         
         else:
             return 0, 0, 0 
@@ -55,13 +60,13 @@ class BERT:
         dev = pd.read_csv(val_file)
         test = pd.read_csv(test_file)
 
-        train['review'] = train.apply(lambda x: self.clean_text(x['review']), axis = 1)
-        test['review'] = test.apply(lambda x: self.clean_text(x['review']), axis = 1)
-        dev['review'] = dev.apply(lambda x: self.clean_text(x['review']), axis = 1)
+        train['text'] = train.apply(lambda x: self.clean_text(x['text']), axis = 1)
+        test['text'] = test.apply(lambda x: self.clean_text(x['text']), axis = 1)
+        dev['text'] = dev.apply(lambda x: self.clean_text(x['text']), axis = 1)
         
-        train['review'] = train['review'].astype("string")
-        test['review'] = test['review'].astype("string")
-        dev['review'] = dev['review'].astype("string")
+        train['text'] = train['text'].astype("string")
+        test['text'] = test['text'].astype("string")
+        dev['text'] = dev['text'].astype("string")
 
         train_dataset = Dataset.from_pandas(train)
         test_dataset = Dataset.from_pandas(test)
@@ -137,7 +142,7 @@ if __name__ == "__main__":
     train_file = "path to train file"
     val_file = "path to val file"
     test_file = "path to test file"
-    dataset = "name of the classification dataset i.e., SST2, SST5, IMDB, AGNEWS"
+    dataset = "name of the classification dataset i.e., SST2, SST5, IMDB, AGNEWS, IRONY"
     
     bert_trainer = BERT(dataset = dataset)
     
