@@ -8,8 +8,9 @@ from captum.attr import LayerIntegratedGradients
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 class LIG:
-    def __init__(self, checkpoint = "bert-base-uncased"):
+    def __init__(self, checkpoint = "bert-base-uncased", normalize = True):
         self.checkpoint = checkpoint
+        self.normalize = normalize
         self.tokenizer = AutoTokenizer.from_pretrained(checkpoint)
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model = AutoModelForSequenceClassification.from_pretrained(self.checkpoint).to(self.device)
@@ -44,7 +45,7 @@ class LIG:
 
             attributions, _ = self.calculate_attributions(text, label)
             
-            attribution_scores.append(sum(attributions.tolist()) / len(attributions.tolist()))
+            attribution_scores.append(sum(attributions.tolist()) / len(attributions.tolist()) if self.normalize else sum(attributions.tolist()))
               
         return attribution_scores
     
