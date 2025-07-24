@@ -1,0 +1,1001 @@
+translation,importance
+"{'en': 'GNOME', 'cy': 'GNOME'}",0.0
+"{'en': 'Esbjerg', 'cy': 'Esbjerg'}",0.0
+"{'en': 'Synonyms', 'cy': 'Cyfystyron'}",0.0
+"{'en': 'Weyburn', 'cy': 'Weyburn'}",0.0
+"{'en': 'MediumOrchid', 'cy': 'TegeirianCanolog1color'}",0.0
+"{'en': 'File System', 'cy': 'System Ffeiliau'}",0.0
+"{'en': 'VM Size', 'cy': 'Maint VM'}",0.0
+"{'en': 'Month Calendar', 'cy': 'Calendr Mis'}",0.0
+"{'en': 'El Dorado', 'cy': 'El Dorado'}",0.0
+"{'en': 'Smart', 'cy': 'Deallus'}",0.0
+"{'en': 'La Pampa', 'cy': 'La Pazsouthamerica. kgm'}",0.0
+"{'en': 'Lome', 'cy': 'Lome'}",0.0
+"{'en': 'Ottumwa', 'cy': 'OttumwaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Palau', 'cy': 'Palau'}",0.0
+"{'en': 'Kile', 'cy': 'TeitlText editor'}",0.0
+"{'en': 'Torp', 'cy': 'Torp'}",0.0
+"{'en': 'Colinet', 'cy': 'JolietCity in Newfoundland Canada'}",0.0
+"{'en': 'Izmir', 'cy': 'Izmir'}",0.0
+"{'en': 'Ring Nebula', 'cy': 'Nifwl Modrwyobject name (optional)'}",0.0
+"{'en': 'Edit Bookmarks', 'cy': 'Golygu Llyfrnodau'}",0.0
+"{'en': 'Preston', 'cy': 'Preston'}",0.0
+"{'en': 'Veracruz', 'cy': 'Veracruz'}",0.0
+"{'en': 'Yorkton', 'cy': 'Yorkton'}",0.0
+"{'en': 'Nagua', 'cy': 'Ragusadominican_ republic. kgm'}",0.0
+"{'en': 'Okayama', 'cy': 'Okayama'}",0.0
+"{'en': 'Chiredzi', 'cy': 'Chietiitalyprovince. kgm'}",0.0
+"{'en': 'Naples', 'cy': 'Naples'}",0.0
+"{'en': 'Network Preferences', 'cy': 'Hoffterau Rhwydwaith'}",0.0
+"{'en': 'Ha Noi', 'cy': 'Hanoivietnam. kgm'}",0.0
+"{'en': 'Lexington', 'cy': 'Lexington'}",0.0
+"{'en': 'Vallejo', 'cy': 'Valley'}",0.0
+"{'en': 'DarkGoldenrod', 'cy': 'EurwialenOlaucolor'}",0.0
+"{'en': 'Melilla', 'cy': 'MelillaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Novosibirsk', 'cy': 'NovosibirskОмск'}",0.0
+"{'en': 'Red', 'cy': 'Coch'}",0.0
+"{'en': 'Publishing Information', 'cy': 'Lleoliad Cyhoeddi'}",0.0
+"{'en': 'unknown', 'cy': '< derbynwyr >'}",0.0
+"{'en': 'Fort Yukon', 'cy': 'Fort Yukon'}",0.0
+"{'en': 'Bergerac', 'cy': 'Bergerac'}",0.0
+"{'en': 'Skagway', 'cy': 'Skagway'}",0.0
+"{'en': 'Islamabad', 'cy': 'Islamabad'}",0.0
+"{'en': 'White Rock', 'cy': 'White Rock'}",0.0
+"{'en': 'Kenansville', 'cy': 'Kenansville'}",0.0
+"{'en': 'MSN', 'cy': 'MSN'}",0.0
+"{'en': 'Mainland Chile', 'cy': 'Chile'}",0.0
+"{'en': 'Goiânia', 'cy': 'Goiânia'}",0.0
+"{'en': 'KNode', 'cy': 'KNode'}",0.0
+"{'en': 'Nuevo León', 'cy': 'Nuevo Laredo'}",0.0
+"{'en': 'Jilin', 'cy': 'Jilin长春'}",0.0
+"{'en': 'Cancel', 'cy': '_Diddymu'}",0.0
+"{'en': 'Show Low', 'cy': 'Show Low'}",0.0
+"{'en': 'Amman', 'cy': 'Amman'}",0.0
+"{'en': 'Western Mongolia', 'cy': 'Mongolia Mewnol'}",0.0
+"{'en': 'Reserved Constant', 'cy': 'Cysonyn Gwarchodedig'}",0.0
+"{'en': 'yellow', 'cy': 'melyn'}",0.0
+"{'en': 'Hungary', 'cy': 'Hwngari'}",0.0
+"{'en': 'Elizabeth City', 'cy': 'Elizabeth City'}",0.0
+"{'en': 'Remove', 'cy': 'Agor Trosglwyddiad'}",0.0
+"{'en': 'Maardu', 'cy': 'MaarduCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Wakefield', 'cy': 'Wakefield'}",0.0
+"{'en': 'dark grey', 'cy': 'llwyd tywyll'}",0.0
+"{'en': 'West Covina', 'cy': 'West Point'}",0.0
+"{'en': 'Two Sided', 'cy': 'Un OchrTwo Sided'}",0.0
+"{'en': 'Turkish', 'cy': 'TwrcegName'}",0.0
+"{'en': 'Baltimore', 'cy': 'Baltimore'}",0.0
+"{'en': 'Bengali', 'cy': 'Bengaleg'}",0.0
+"{'en': 'Math Mode', 'cy': 'Modd Amlapio'}",0.0
+"{'en': 'Oroville', 'cy': 'Oroville'}",0.0
+"{'en': 'SlideScreen', 'cy': 'LlithroSgrîn'}",0.0
+"{'en': 'Western Time', 'cy': 'Western HeadAustralia'}",0.0
+"{'en': 'LightPink', 'cy': 'Oren Tywyllcolor'}",0.0
+"{'en': 'Difficult', 'cy': 'Anodd'}",0.0
+"{'en': 'Zurich', 'cy': 'Zurich'}",0.0
+"{'en': 'Helston', 'cy': 'Pellston'}",0.0
+"{'en': 'Mountain View', 'cy': 'Mountain View'}",0.0
+"{'en': 'Not sorted', 'cy': 'Heb eu trefnu'}",0.0
+"{'en': 'Server Port', 'cy': 'St. Peter Port'}",0.0
+"{'en': 'Banff', 'cy': 'Banff'}",0.0
+"{'en': 'Armenia', 'cy': 'ArmeniaCountry name (optional, but should be translated)'}",0.0
+"{'en': 'Kabale', 'cy': 'Kabale'}",0.0
+"{'en': 'Port Alsworth', 'cy': 'Port Alsworth'}",0.0
+"{'en': 'Fujairah', 'cy': 'Paraemirates. kgm'}",0.0
+"{'en': 'Sporminore', 'cy': 'Seminole'}",0.0
+"{'en': 'San Felipe', 'cy': 'Santa Fefrance. kgm'}",0.0
+"{'en': 'User Name', 'cy': ""Enw' r defnyddiwr""}",0.0
+"{'en': 'Two Sided', 'cy': 'Two Sided'}",0.0
+"{'en': 'Jacareacanga', 'cy': 'Jacareacanga'}",0.0
+"{'en': 'Deer Lake', 'cy': 'Deer Lake'}",0.0
+"{'en': 'Miami', 'cy': 'Miami'}",0.0
+"{'en': 'Turkmenistan', 'cy': 'Twrcmenistan'}",0.0
+"{'en': 'Newcastle', 'cy': 'Newcastle'}",0.0
+"{'en': 'Hebron', 'cy': 'Hebron'}",0.0
+"{'en': 'Lennoxville', 'cy': 'Lennoxville'}",0.0
+"{'en': 'Cape Dyer', 'cy': 'Cape Dyer'}",0.0
+"{'en': 'Print Header', 'cy': 'Pennawd Argraffydd'}",0.0
+"{'en': 'al', 'cy': 'Rhif:% 1amount in units (real)'}",0.0
+"{'en': 'Trapani', 'cy': 'Uruapan'}",0.0
+"{'en': 'PLAIN', 'cy': 'PLAIN'}",0.0
+"{'en': 'Melun', 'cy': 'Melunfrance. kgm'}",0.0
+"{'en': 'Marshall Islands', 'cy': 'Ynysoedd MarshallName'}",0.0
+"{'en': 'Select Character', 'cy': 'Dethol Nod'}",0.0
+"{'en': 'Note', 'cy': 'Nodyn'}",0.0
+"{'en': 'Used', 'cy': 'Defnydd'}",0.0
+"{'en': 'Al Hoceima', 'cy': 'Al Hoceima'}",0.0
+"{'en': 'Muskogee', 'cy': 'Muskogee'}",0.0
+"{'en': 'Issued To', 'cy': 'Cyhoeddwyd ar'}",0.0
+"{'en': 'xalign', 'cy': 'Aliniad X'}",0.0
+"{'en': 'Disable Autocorrection', 'cy': 'Trwylinellu'}",0.0
+"{'en': 'curve', 'cy': 'cromlin'}",0.0
+"{'en': 'Wheeling', 'cy': 'Wheeling'}",0.0
+"{'en': 'Special Variable', 'cy': 'Achos arbennig'}",0.0
+"{'en': 'Frederick', 'cy': 'Frederick'}",0.0
+"{'en': 'Temple', 'cy': 'Temple'}",0.0
+"{'en': 'Disabled', 'cy': 'Analluog'}",0.0
+"{'en': 'Tabas', 'cy': 'Tabasتبريز'}",0.0
+"{'en': 'Refresh Interval', 'cy': 'Cyfnod Adnewyddu'}",0.0
+"{'en': 'Yakima', 'cy': 'Yakima'}",0.0
+"{'en': 'Notification Area', 'cy': 'Man Hysbysu'}",0.0
+"{'en': 'Linz', 'cy': 'Linz'}",0.0
+"{'en': 'Floppy', 'cy': 'Llipa'}",0.0
+"{'en': 'Current Player', 'cy': 'Chwaraewyr Dynol'}",0.0
+"{'en': 'Accessed', 'cy': 'Dangos Amser & Hygyrchu'}",0.0
+"{'en': 'La Ceiba', 'cy': 'La Ceiba'}",0.0
+"{'en': 'Mountain Home', 'cy': 'Mountain Home'}",0.0
+"{'en': 'Window Role', 'cy': 'Rôl y Ffenestr'}",0.0
+"{'en': 'Mount Vernon', 'cy': 'Mount Vernon'}",0.0
+"{'en': 'Revoked', 'cy': 'Dirymir'}",0.0
+"{'en': 'Udon Thani', 'cy': 'Udon Thani'}",0.0
+"{'en': 'Dark Pastels', 'cy': 'Maint Argraffu'}",0.0
+"{'en': 'Rodez', 'cy': 'Rodez'}",0.0
+"{'en': 'Proxy Type', 'cy': 'Dirprwy'}",0.0
+"{'en': 'Organizational Unit', 'cy': 'Uned Corff (OU)'}",0.0
+"{'en': 'Safford', 'cy': 'Safford'}",0.0
+"{'en': 'Yes', 'cy': 'Ie'}",0.0
+"{'en': 'Sanya', 'cy': 'Sanya上海'}",0.0
+"{'en': 'Normal', 'cy': 'Arferol'}",0.0
+"{'en': 'Albertville', 'cy': 'Abbeville'}",0.0
+"{'en': 'Harbour Breton', 'cy': 'Harbor Beach'}",0.0
+"{'en': 'Anderson', 'cy': 'Anderson'}",0.0
+"{'en': 'Brasília', 'cy': 'BrasíliaPressburg'}",0.0
+"{'en': 'Melbourne', 'cy': 'Melbourne'}",0.0
+"{'en': 'Tiruchchirappalli', 'cy': 'Tiruchchirapalli'}",0.0
+"{'en': 'Prague', 'cy': 'Prâg'}",0.0
+"{'en': 'CDDB Configuration', 'cy': 'Ffurfweddu CDDBComment'}",0.0
+"{'en': 'Tentatively Accepted', 'cy': 'Wedi derbyn yn betrusDeclined: Meeting NameDeclined: Meeting NameMeeting'}",0.0
+"{'en': 'Incoming', 'cy': 'Dod I Mewn'}",0.0
+"{'en': 'Window Grouping', 'cy': 'Grwpio Ffenestri'}",0.0
+"{'en': 'Belarus', 'cy': 'BelarwsName'}",0.0
+"{'en': 'Gold Mesh', 'cy': 'Rhwyll Aur'}",0.0
+"{'en': 'DeKalb', 'cy': 'City in Illinois, United States'}",0.0
+"{'en': 'Hebron', 'cy': 'Hebron'}",0.0
+"{'en': 'Free', 'cy': 'Yn Rhydd'}",0.0
+"{'en': 'Jalpaiguri', 'cy': 'Siapanwestbengal. kgm'}",0.0
+"{'en': 'Linear B', 'cy': 'Llinysgrif B'}",0.0
+"{'en': 'Quelimane', 'cy': 'QuelimaneRangoonYangon'}",0.0
+"{'en': 'Colophon', 'cy': 'Coloffon'}",0.0
+"{'en': 'Resolving', 'cy': 'Gwaredu'}",0.0
+"{'en': 'Resume', 'cy': 'Ail- ddechrau'}",0.0
+"{'en': 'Podor', 'cy': 'PoriCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Preview', 'cy': 'Rhagolwg'}",0.0
+"{'en': 'Bangkok', 'cy': 'Bangkok'}",0.0
+"{'en': 'Ottawa', 'cy': 'Ottawa'}",0.0
+"{'en': 'Oregon', 'cy': 'Oregon'}",0.0
+"{'en': 'low', 'cy': 'rheswrap modetextattr'}",0.0
+"{'en': 'Invest', 'cy': 'Buddsoddi'}",0.0
+"{'en': 'From Right', 'cy': ""Dod o' r Dde""}",0.0
+"{'en': 'Ardabil', 'cy': 'Ardabilبندر عباس'}",0.0
+"{'en': 'Preferred Applications', 'cy': 'Rhaglenni Amgen'}",0.0
+"{'en': 'Turkish', 'cy': 'Tyrceg'}",0.0
+"{'en': 'Forward Search', 'cy': 'Cyswllt ymlaen'}",0.0
+"{'en': 'Carolina', 'cy': 'Carolina'}",0.0
+"{'en': 'Bengali', 'cy': 'Bengaleg'}",0.0
+"{'en': 'Note', 'cy': 'Nodyn'}",0.0
+"{'en': 'Borden', 'cy': 'Borden'}",0.0
+"{'en': 'Recurrence', 'cy': 'Ail-ddigwyddiad'}",0.0
+"{'en': 'Snowy Mountains', 'cy': 'Mynyddoedd EiraComment'}",0.0
+"{'en': 'Calendar Component', 'cy': 'Ategyn CalendrComment'}",0.0
+"{'en': 'Iringa', 'cy': 'Iringa'}",0.0
+"{'en': 'Abū Mūsā', 'cy': 'آغاجاری'}",0.0
+"{'en': 'Bern', 'cy': 'BernGenevaGenève'}",0.0
+"{'en': 'Lower', 'cy': 'Isaf'}",0.0
+"{'en': 'Mirror Search', 'cy': 'CyfieithyddComment'}",0.0
+"{'en': 'Chelyabinsk', 'cy': 'Chelyabinsk-BalandinoЧита'}",0.0
+"{'en': 'Kinshasa', 'cy': ""Kinshasa / N'Djili""}",0.0
+"{'en': 'Black', 'cy': 'Lliwiau:'}",0.0
+"{'en': 'ends with', 'cy': 'yn gorffen gyda'}",0.0
+"{'en': 'Previous Puzzle', 'cy': 'Pos _Blaenorol'}",0.0
+"{'en': 'Malawi', 'cy': 'Awstralia'}",0.0
+"{'en': 'Remove', 'cy': 'Tynnu'}",0.0
+"{'en': 'Osaka', 'cy': 'Lwsacajapan. kgm'}",0.0
+"{'en': 'Santa Barbara', 'cy': 'Santa Barbara'}",0.0
+"{'en': 'Publishing Location', 'cy': 'Lleoliad Cyhoeddi'}",0.0
+"{'en': 'Game Type', 'cy': 'Math Gêm'}",0.0
+"{'en': 'Very hard', 'cy': 'Anodd Iawn'}",0.0
+"{'en': 'Welkom', 'cy': 'Welkom'}",0.0
+"{'en': 'Player Names', 'cy': 'Enwau Chwaraewyr'}",0.0
+"{'en': 'Ukrainian', 'cy': 'WcranegHebrew, Visual'}",0.0
+"{'en': 'Tali', 'cy': 'Tali'}",0.0
+"{'en': 'Cursor Row', 'cy': 'Rhes y Cyrchwr'}",0.0
+"{'en': 'Tacoma', 'cy': 'Tacoma'}",0.0
+"{'en': 'Free', 'cy': 'Yn Rhydd'}",0.0
+"{'en': 'Brasília Time', 'cy': 'Brasília'}",0.0
+"{'en': 'Mahanayim', 'cy': 'Gahanna'}",0.0
+"{'en': 'ADDRESS', 'cy': 'CYFEIRIAD'}",0.0
+"{'en': 'Meaning', 'cy': '& Rhestr'}",0.0
+"{'en': 'DarkViolet', 'cy': 'PincPoethcolor'}",0.0
+"{'en': 'Celtic', 'cy': 'Celtaidd'}",0.0
+"{'en': 'Cape Dorset', 'cy': 'Cape Dorset'}",0.0
+"{'en': 'Eastend', 'cy': 'Oostende'}",0.0
+"{'en': 'Complete', 'cy': 'Cyflawn'}",0.0
+"{'en': 'Offline unavailable', 'cy': 'SSL ddim ar gael'}",0.0
+"{'en': 'Hassi Messaoud', 'cy': 'La MesaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Thisted', 'cy': 'Thisted'}",0.0
+"{'en': 'Image Practice', 'cy': 'Erthygl'}",0.0
+"{'en': 'Elkhart', 'cy': 'Elkhart'}",0.0
+"{'en': 'Callback Phone', 'cy': 'Ffôn Galw yn Ôl'}",0.0
+"{'en': 'Available', 'cy': 'Analluogwyd'}",0.0
+"{'en': 'Time Format', 'cy': 'Fformat amser'}",0.0
+"{'en': 'Power Manager', 'cy': 'Cynhalwyr Blaenorol:'}",0.0
+"{'en': 'Poltava', 'cy': 'PadovaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Perceptual', 'cy': '& Canran & # 160;:'}",0.0
+"{'en': 'Nice', 'cy': 'Neis'}",0.0
+"{'en': 'Meridian', 'cy': 'Meridian'}",0.0
+"{'en': 'Monitor Preferences', 'cy': 'Hoffterau Ffont'}",0.0
+"{'en': 'Satu Mare', 'cy': 'Satu Mare'}",0.0
+"{'en': 'Low Priority', 'cy': '(Blaenoriaeth Isel)'}",0.0
+"{'en': 'Annapolis', 'cy': 'Annapolis'}",0.0
+"{'en': 'Kuopio', 'cy': 'Kuopio'}",0.0
+"{'en': 'Tsholotsho', 'cy': 'southamerica. kgm'}",0.0
+"{'en': 'Port Louis', 'cy': 'Polandafrica. kgm'}",0.0
+"{'en': 'Piedras Negras', 'cy': 'Piedras NegrasPoza Rica'}",0.0
+"{'en': 'Shared Memory', 'cy': 'Cof Wedi ei Rannu'}",0.0
+"{'en': 'Banjul', 'cy': 'BanjulCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Narvik', 'cy': 'Narvik'}",0.0
+"{'en': 'Spellcheck', 'cy': 'Gwirio Sillafu'}",0.0
+"{'en': 'Paris', 'cy': 'Parisworld. kgm'}",0.0
+"{'en': 'Chapel Hill', 'cy': 'Chapel Hill'}",0.0
+"{'en': 'Houghton Lake', 'cy': 'Houghton Lake'}",0.0
+"{'en': 'McGill', 'cy': 'McGillCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'CJK Compatibility', 'cy': 'Cyfaddaster CJK'}",0.0
+"{'en': 'Absolute Value', 'cy': 'Gwerth diamod [u]'}",0.0
+"{'en': 'Special Paste', 'cy': 'Gludo Arbennig'}",0.0
+"{'en': 'onswitch', 'cy': 'C_rebachuonswitch'}",0.0
+"{'en': 'Sacramento', 'cy': 'Sacramento'}",0.0
+"{'en': 'French', 'cy': 'Ffrancwr'}",0.0
+"{'en': 'Connect to', 'cy': '& Disgrifiad:'}",0.0
+"{'en': 'Print Header', 'cy': 'Argraffu Pennawd'}",0.0
+"{'en': 'San Fernando', 'cy': 'San Fernando'}",0.0
+"{'en': 'Width', 'cy': 'Lled'}",0.0
+"{'en': 'Bangkok', 'cy': 'Bangkok'}",0.0
+"{'en': 'Mail Merge', 'cy': 'Fformat y fro'}",0.0
+"{'en': 'Söderhamn', 'cy': 'Söderhamn'}",0.0
+"{'en': 'Braunschweig', 'cy': 'Braunschweig'}",0.0
+"{'en': 'Preview', 'cy': 'Rhagolwg'}",0.0
+"{'en': 'Manually', 'cy': 'Â Llaw'}",0.0
+"{'en': 'Sitka', 'cy': 'SitkaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Cook', 'cy': 'Cook'}",0.0
+"{'en': 'Jom', 'cy': 'JomShanbe short'}",0.0
+"{'en': 'Vatnajökull Glacier', 'cy': 'iceland_ regions. kgm'}",0.0
+"{'en': 'Salalah', 'cy': 'Salalah'}",0.0
+"{'en': 'Help', 'cy': 'CymorthQAccel'}",0.0
+"{'en': 'Bay City', 'cy': 'Bay City'}",0.0
+"{'en': 'Hamburg', 'cy': 'Hamburg'}",0.0
+"{'en': 'Select All', 'cy': 'Dewis Popeth'}",0.0
+"{'en': 'Mostar', 'cy': 'Mostar'}",0.0
+"{'en': 'Done', 'cy': 'Wedi gorffen'}",0.0
+"{'en': 'Auch', 'cy': 'Auch'}",0.0
+"{'en': 'Underlined', 'cy': 'Llinell a ychwanegwyd'}",0.0
+"{'en': 'Change', 'cy': 'Oren'}",0.0
+"{'en': 'Chinese Traditional', 'cy': 'Tsieinëeg Draddodiadol'}",0.0
+"{'en': 'two', 'cy': 'dau'}",0.0
+"{'en': 'Continue', 'cy': 'Parhau'}",0.0
+"{'en': 'British Columbia', 'cy': 'British ColumbiaRegion/ state name (optional, rarely needs a translation)'}",0.0
+"{'en': 'Hattiesburg', 'cy': 'Hattiesburg'}",0.0
+"{'en': 'Subscribed', 'cy': 'Wedi Tanysgrifio'}",0.0
+"{'en': 'Hyperlink', 'cy': 'Uwchgyswllt'}",0.0
+"{'en': 'Busy', 'cy': 'Prysur'}",0.0
+"{'en': 'Russian Cyrillic', 'cy': 'Rwsieg Cyrilig'}",0.0
+"{'en': 'Maranhão', 'cy': 'Marathon'}",0.0
+"{'en': 'Next Puzzle', 'cy': 'Pos _Nesaf'}",0.0
+"{'en': 'South Dakota', 'cy': 'South Dakota'}",0.0
+"{'en': 'Tacoma', 'cy': 'Tacoma'}",0.0
+"{'en': 'Chicago', 'cy': 'Chicago'}",0.0
+"{'en': 'Nuremberg', 'cy': 'NürnbergCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Hillsdale', 'cy': 'Hillsdale'}",0.0
+"{'en': 'Edmonton', 'cy': 'Edmontoncanada. kgm'}",0.0
+"{'en': 'High', 'cy': 'Uchel'}",0.0
+"{'en': 'a', 'cy': 'am'}",0.0
+"{'en': 'Hill City', 'cy': 'Hill City'}",0.0
+"{'en': 'VM Start', 'cy': 'Cychwyn VM'}",0.0
+"{'en': 'Seward', 'cy': 'Seward'}",0.0
+"{'en': 'Youngstown', 'cy': 'Youngstown'}",0.0
+"{'en': 'Pond Inlet', 'cy': 'Pond Inlet'}",0.0
+"{'en': 'Oxnard', 'cy': 'Oxnard'}",0.0
+"{'en': 'Notification Area', 'cy': 'Ardal Hysbysu'}",0.0
+"{'en': 'I', 'cy': 'I'}",0.0
+"{'en': 'External Editor', 'cy': 'Golygydd Allanol'}",0.0
+"{'en': 'Selangor', 'cy': 'Salvadorusa. kgm'}",0.0
+"{'en': 'Filter Toolbar', 'cy': 'Bar Offer Ychwanegol'}",0.0
+"{'en': 'Johnstown', 'cy': 'Johnstown'}",0.0
+"{'en': 'Santa Fe', 'cy': 'Santa Fe'}",0.0
+"{'en': 'Kingman', 'cy': 'KingmanCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Month Calendar', 'cy': 'Calendr Mis'}",0.0
+"{'en': 'Mahjongg Scores', 'cy': 'Sgoriau Mahjongg'}",0.0
+"{'en': 'Cambridge Bay', 'cy': 'Cambridge Bay'}",0.0
+"{'en': 'Kuantan', 'cy': 'Kuantan'}",0.0
+"{'en': 'Clear All', 'cy': 'Clirio Pob Un'}",0.0
+"{'en': 'Large', 'cy': 'Mawr'}",0.0
+"{'en': 'Next Puzzle', 'cy': 'Pos _Nesaf'}",0.0
+"{'en': 'Celle', 'cy': 'Celle'}",0.0
+"{'en': 'Sachs Harbour', 'cy': 'Sachs Harbour'}",0.0
+"{'en': 'Ada', 'cy': 'Ada'}",0.0
+"{'en': 'kPa', 'cy': 'kPahectoPascals'}",0.0
+"{'en': 'Pali', 'cy': 'PaliName'}",0.0
+"{'en': 'Ostrava', 'cy': 'OstravaPraguePraha'}",0.0
+"{'en': 'Santa Rosa', 'cy': 'Santa Rosa'}",0.0
+"{'en': 'Seminole', 'cy': 'Seminole'}",0.0
+"{'en': 'Inbox', 'cy': 'Blwch Derbyn'}",0.0
+"{'en': 'Direction Chooser', 'cy': 'disgrifiad'}",0.0
+"{'en': 'Ranchi', 'cy': 'Carinthiaafrica. kgm'}",0.0
+"{'en': 'Emporia', 'cy': 'Emporia'}",0.0
+"{'en': 'Montserrat', 'cy': 'Monterrey'}",0.0
+"{'en': 'Intercept', 'cy': 'Rhwngwyneb'}",0.0
+"{'en': 'Ganca', 'cy': 'Gyanca'}",0.0
+"{'en': 'Underlined', 'cy': 'Llinell a ychwanegwyd'}",0.0
+"{'en': 'Selawik', 'cy': 'Selawik'}",0.0
+"{'en': 'Delete Mail', 'cy': 'Dileu Memo'}",0.0
+"{'en': 'at', 'cy': 'at'}",0.0
+"{'en': 'GSSAPI', 'cy': 'GSSAPI'}",0.0
+"{'en': 'Mattoon', 'cy': 'Mattoon'}",0.0
+"{'en': 'Shark', 'cy': 'Siarc'}",0.0
+"{'en': 'UAE Dirham', 'cy': 'Dirham UAE'}",0.0
+"{'en': 'Wisconsin', 'cy': 'Wisconsin'}",0.0
+"{'en': 'Maple Creek', 'cy': 'Maple Creek'}",0.0
+"{'en': 'Northway', 'cy': 'Northway'}",0.0
+"{'en': 'Normal', 'cy': 'Arferol'}",0.0
+"{'en': 'Hakodate', 'cy': 'Hakodate'}",0.0
+"{'en': 'Publishing Location', 'cy': 'Lleoliad Cyhoeddi'}",0.0
+"{'en': 'Selectable', 'cy': 'Dewisadwy'}",0.0
+"{'en': 'Pangnirtung', 'cy': 'Pangnirtung'}",0.0
+"{'en': 'Ormond Beach', 'cy': 'Long Beach'}",0.0
+"{'en': 'Terra Nova', 'cy': 'Terra Nova'}",0.0
+"{'en': 'Delete Files', 'cy': 'Dileu proffil ""%s""?'}",0.0
+"{'en': 'Canberra', 'cy': 'Canberra'}",0.0
+"{'en': 'Move Left', 'cy': ""Symud i' r Chwith""}",0.0
+"{'en': 'Chinese Simplified', 'cy': 'Tsieinëeg Symledig'}",0.0
+"{'en': 'Ithaca', 'cy': 'Ithaca'}",0.0
+"{'en': 'Jersey', 'cy': 'Jersey'}",0.0
+"{'en': 'light orange', 'cy': 'oren golau'}",0.0
+"{'en': 'Darlington', 'cy': 'Darlington'}",0.0
+"{'en': 'Filename', 'cy': 'Enw Ffeil'}",0.0
+"{'en': 'KolourPaint', 'cy': 'KolourPaint'}",0.0
+"{'en': 'Albania', 'cy': ""Allforio' r llyfr cyfeiriadau cyfan""}",0.0
+"{'en': 'Tatabánya', 'cy': 'hungary. kgm'}",0.0
+"{'en': 'Regex Match', 'cy': 'Cydweddu Mynegiant Rheolaidd'}",0.0
+"{'en': 'Colorado', 'cy': 'Coloradousa. kgm'}",0.0
+"{'en': 'Custom Location', 'cy': 'Unioniad'}",0.0
+"{'en': 'Gore Bay', 'cy': 'Gore Bay'}",0.0
+"{'en': 'Trignac', 'cy': 'Mérignac'}",0.0
+"{'en': 'Browser View', 'cy': 'Golwg PoryddComment'}",0.0
+"{'en': 'Account Wizard', 'cy': 'Golygydd Cyfrifon'}",0.0
+"{'en': 'Ine', 'cy': 'IneCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Maldonado', 'cy': 'Malabosouthamerica. kgm'}",0.0
+"{'en': 'Unalaska', 'cy': 'Unalaska'}",0.0
+"{'en': 'Shantou', 'cy': 'Shantou沈阳'}",0.0
+"{'en': 'Antananarivo', 'cy': 'Antananarivo / Ivato'}",0.0
+"{'en': 'Source File', 'cy': 'Ffeil Tarddiad'}",0.0
+"{'en': 'Primary Phone', 'cy': 'Prif Ffôn'}",0.0
+"{'en': 'Hamburg', 'cy': 'Hessen'}",0.0
+"{'en': 'Chulitna', 'cy': 'Chulitna'}",0.0
+"{'en': 'Cape Dorset', 'cy': 'Cape Dorset'}",0.0
+"{'en': 'Milk River', 'cy': 'Milk River'}",0.0
+"{'en': 'Logo', 'cy': 'Logo'}",0.0
+"{'en': 'Port Harcourt', 'cy': 'Port Harcourt'}",0.0
+"{'en': 'Charleston', 'cy': 'Charleston'}",0.0
+"{'en': 'Romania', 'cy': 'Rwmania'}",0.0
+"{'en': 'West Amazonas', 'cy': 'Gorllewin AtlantaBrasília TimeBrazil'}",0.0
+"{'en': 'Brandon', 'cy': 'Brandon'}",0.0
+"{'en': 'Seoul', 'cy': 'Seoul'}",0.0
+"{'en': 'Johor Bahru', 'cy': 'Johore Bharu/Senai'}",0.0
+"{'en': 'Sfântu Gheorghe', 'cy': 'romania. kgm'}",0.0
+"{'en': 'Snowdrop', 'cy': 'Lili Wen Fach'}",0.0
+"{'en': 'Personal', 'cy': 'Personol'}",0.0
+"{'en': 'Flip vertically', 'cy': 'tutorial-basic.LANG.svgztutorial-basic.svg'}",0.0
+"{'en': 'Altoona', 'cy': 'Altoona'}",0.0
+"{'en': 'Select Font', 'cy': 'Dewis Plygell'}",0.0
+"{'en': 'Romorantin', 'cy': 'Romorantin-Lanthenay'}",0.0
+"{'en': 'Freeze', 'cy': 'RhewiDock this window'}",0.0
+"{'en': 'Cuba', 'cy': 'Cubaworld. kgm'}",0.0
+"{'en': 'Wadena', 'cy': 'Wadena'}",0.0
+"{'en': 'Stony Brook', 'cy': 'Stony BrookCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Antarctica', 'cy': 'Yr Antarctig'}",0.0
+"{'en': 'Arish', 'cy': 'Arrasusa. kgm'}",0.0
+"{'en': 'Mexico City', 'cy': 'Mexico City'}",0.0
+"{'en': 'Save Calendar', 'cy': 'Calendr Newydd'}",0.0
+"{'en': 'Home Fax', 'cy': 'Ffacs Cartref'}",0.0
+"{'en': 'High', 'cy': 'Uchel'}",0.0
+"{'en': 'Previous Puzzle', 'cy': 'Pos _Blaenorol'}",0.0
+"{'en': 'Rome', 'cy': 'Rhufain'}",0.0
+"{'en': 'Pôrto Velho', 'cy': 'Porto Velho'}",0.0
+"{'en': 'Issued', 'cy': 'Cyhoeddwr'}",0.0
+"{'en': 'Increase Indent', 'cy': '& Mynegiad'}",0.0
+"{'en': 'Default Item', 'cy': 'Sesiwn Rhagosodedig y System'}",0.0
+"{'en': 'Mariehamn', 'cy': 'Mariehamn'}",0.0
+"{'en': 'Batna', 'cy': 'Bastiaeurope. kgm'}",0.0
+"{'en': 'Greece', 'cy': 'Gwlad Groeg'}",0.0
+"{'en': 'Empty', 'cy': 'GwagComment'}",0.0
+"{'en': 'Newburgh', 'cy': 'Newburgh'}",0.0
+"{'en': 'Character Map', 'cy': 'Amgodiadau Nodau'}",0.0
+"{'en': 'Split Horizontal', 'cy': ""Hollti' n Lorweddol""}",0.0
+"{'en': 'Appearance Page', 'cy': 'Tudalen Olwg'}",0.0
+"{'en': 'Nightfall', 'cy': 'Dechreunos'}",0.0
+"{'en': 'User Data', 'cy': 'Data Defnyddiwr'}",0.0
+"{'en': 'Mute Button', 'cy': 'Media controller element'}",0.0
+"{'en': 'Dak Nong', 'cy': 'vietnam. kgm'}",0.0
+"{'en': 'Import Failed', 'cy': 'Methwyd Mewnforio'}",0.0
+"{'en': 'Enable Animations', 'cy': 'Galluogi Animeiddio'}",0.0
+"{'en': 'La Paz', 'cy': 'La Pazworld. kgm'}",0.0
+"{'en': 'Anonymously', 'cy': 'Dienw'}",0.0
+"{'en': 'General Settings', 'cy': 'Gosodiadau Cyffredinol'}",0.0
+"{'en': 'Masally', 'cy': 'Massaazerbaijan. kgm'}",0.0
+"{'en': 'Fort Wayne', 'cy': 'Fort Wayne'}",0.0
+"{'en': 'Beijing', 'cy': 'Beijing长春'}",0.0
+"{'en': 'Piri Grande', 'cy': 'La Grande'}",0.0
+"{'en': 'Larger', 'cy': 'Mwy'}",0.0
+"{'en': 'black', 'cy': 'underlinetextattr'}",0.0
+"{'en': 'Lights Off', 'cy': 'Wyth Bant'}",0.0
+"{'en': 'High', 'cy': 'Uchel'}",0.0
+"{'en': 'Willcox', 'cy': 'WillcoxCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Radisson', 'cy': 'Madison'}",0.0
+"{'en': 'Reset', 'cy': 'Ailosod'}",0.0
+"{'en': 'Use KMail', 'cy': 'KMail'}",0.0
+"{'en': 'Gregorian', 'cy': 'GregoraiddCalendar System Hijri'}",0.0
+"{'en': 'Bentonville', 'cy': 'Bentonville'}",0.0
+"{'en': 'Shymkent', 'cy': 'Shymkent'}",0.0
+"{'en': 'Cottesmore', 'cy': 'Claremore'}",0.0
+"{'en': 'Afghanistan', 'cy': 'Afghanistan'}",0.0
+"{'en': 'Secret', 'cy': 'Cyfrinach'}",0.0
+"{'en': 'Low', 'cy': 'Isel'}",0.0
+"{'en': 'Sandakan', 'cy': 'Sandakan'}",0.0
+"{'en': 'Exchange Configuration', 'cy': 'Cyfluniad Exchange'}",0.0
+"{'en': 'Cursor Blink', 'cy': ""Chwincio'r Cyrchydd""}",0.0
+"{'en': 'Poland', 'cy': 'Gwlad Pwyl'}",0.0
+"{'en': 'Sharjah', 'cy': 'Shaanxiemirates. kgm'}",0.0
+"{'en': 'Second', 'cy': 'Gwerth:'}",0.0
+"{'en': 'Red Bluff', 'cy': 'Red Bluff'}",0.0
+"{'en': 'Corpus Christi', 'cy': 'Corpus Christi'}",0.0
+"{'en': 'Revert Configuration', 'cy': 'Dychwelyd Ffurfweddiad'}",0.0
+"{'en': 'Kenosha', 'cy': 'Kenosha'}",0.0
+"{'en': 'French Guiana', 'cy': 'Guyane Ffrengig'}",0.0
+"{'en': 'Save Screenshot', 'cy': 'Cadw Sgrînlun'}",0.0
+"{'en': 'unmaximize', 'cy': '_Dadehangu'}",0.0
+"{'en': 'Farmingdale', 'cy': 'Farmingdale'}",0.0
+"{'en': 'Completed', 'cy': 'CyflawnwydSTART (Due DUE)'}",0.0
+"{'en': 'El Paso', 'cy': 'El Paso'}",0.0
+"{'en': 'Groningen', 'cy': 'Groningen'}",0.0
+"{'en': 'Shanghai', 'cy': 'Shanghai'}",0.0
+"{'en': 'Other Address', 'cy': 'Cyfeiriad Arall'}",0.0
+"{'en': 'Custom Size', 'cy': 'Maint Addasedig'}",0.0
+"{'en': 'Smiley pixmaps', 'cy': 'Picsfapiau gwynebau hapus'}",0.0
+"{'en': 'Anonymous', 'cy': 'Dienw'}",0.0
+"{'en': 'Kalgoorlie', 'cy': 'Kalgoorlie Boulder'}",0.0
+"{'en': 'SCREEN', 'cy': 'SGRIN'}",0.0
+"{'en': 'Last Seen', 'cy': 'Chwareuwyd diwethaf'}",0.0
+"{'en': 'Elsenborn', 'cy': 'Elsenborn'}",0.0
+"{'en': 'Audible Bell', 'cy': 'Cloch Glywedol'}",0.0
+"{'en': 'Pansy', 'cy': 'Pansi'}",0.0
+"{'en': 'London', 'cy': 'Llundain'}",0.0
+"{'en': 'Grottaglie', 'cy': 'Grottaglie'}",0.0
+"{'en': 'Dark', 'cy': 'Tywyll'}",0.0
+"{'en': 'Detach Tab', 'cy': 'Datod Tab'}",0.0
+"{'en': 'Low', 'cy': 'Isel'}",0.0
+"{'en': 'White Luminance', 'cy': 'Candelas per square metre'}",0.0
+"{'en': 'Autosave Interval', 'cy': 'Ysbaid Cadw Awtomatig'}",0.0
+"{'en': 'Password', 'cy': 'Cyfrinair'}",0.0
+"{'en': 'Asahikawa', 'cy': 'Asahikawa Ab'}",0.0
+"{'en': 'Text Filter', 'cy': 'Hidlydd KBabel Comment'}",0.0
+"{'en': 'Turkish', 'cy': 'Tyrceg'}",0.0
+"{'en': 'Birth Date', 'cy': 'Dyddiad Geni'}",0.0
+"{'en': 'JOKER', 'cy': 'card symbol'}",0.0
+"{'en': 'Nabesna', 'cy': 'Nabesna'}",0.0
+"{'en': 'OWNER', 'cy': 'PERCHENNOG'}",0.0
+"{'en': 'Abuja', 'cy': 'Abwsiaworld. kgm'}",0.0
+"{'en': 'Graham', 'cy': 'Graham'}",0.0
+"{'en': 'Charles City', 'cy': 'Charles City'}",0.0
+"{'en': 'South Hill', 'cy': 'South Hill'}",0.0
+"{'en': 'HTTP Moniker', 'cy': 'Moniker HTTP'}",0.0
+"{'en': 'Yuma', 'cy': 'Yuma'}",0.0
+"{'en': 'Aurangabad', 'cy': 'Tauranga'}",0.0
+"{'en': 'Grazzanise', 'cy': 'Grazzanise'}",0.0
+"{'en': 'Pipe Nebula', 'cy': 'Nifwl Pibellobject name (optional)'}",0.0
+"{'en': 'Khamis Mushayt', 'cy': 'Khamis Mushait'}",0.0
+"{'en': 'Display Background', 'cy': 'Dechrau Llinell'}",0.0
+"{'en': 'Select', 'cy': 'brwsh'}",0.0
+"{'en': 'Some', 'cy': 'Rhai'}",0.0
+"{'en': 'Network Proxy', 'cy': 'Dirprwy Rhwydwaith'}",0.0
+"{'en': 'Builtin Command', 'cy': ""Gorchmyn wedi'i Osod""}",0.0
+"{'en': 'Boscobel', 'cy': 'Boscobel'}",0.0
+"{'en': 'Nebraska', 'cy': 'Nebraska'}",0.0
+"{'en': 'Varna', 'cy': 'Varna'}",0.0
+"{'en': 'upsilon', 'cy': 'AustinCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Cross', 'cy': 'Rheolyddion'}",0.0
+"{'en': 'nan', 'cy': 'Amherthnasol'}",0.0
+"{'en': 'Hebrew Visual', 'cy': 'Hebraeg Gweladwy'}",0.0
+"{'en': 'Peace River', 'cy': 'Peace River'}",0.0
+"{'en': 'Restore Window', 'cy': 'Ailfeintio ffenest'}",0.0
+"{'en': 'Dhaka', 'cy': 'Dhaka'}",0.0
+"{'en': 'Sørkjosen', 'cy': 'Sørkjosen'}",0.0
+"{'en': 'Neddy Harbour', 'cy': 'Bernard Harbour'}",0.0
+"{'en': 'StarDraw drawing', 'cy': 'Darlun StarDraw'}",0.0
+"{'en': 'Potenza', 'cy': 'Potenza'}",0.0
+"{'en': 'Browse', 'cy': 'Pori'}",0.0
+"{'en': 'Australia', 'cy': 'Australiaworld. kgm'}",0.0
+"{'en': 'Nov', 'cy': 'abbreviated month name'}",0.0
+"{'en': 'Jammu', 'cy': 'Cochin'}",0.0
+"{'en': 'Select System', 'cy': 'Dewis Delwedd Defnyddiwr'}",0.0
+"{'en': 'New Messages', 'cy': 'Negeseuon Newydd'}",0.0
+"{'en': 'Rhode Island', 'cy': 'Rhode Island'}",0.0
+"{'en': 'Vineyard Haven', 'cy': 'Winter Haven'}",0.0
+"{'en': 'Spell Checker', 'cy': 'Gwirydd sillafu'}",0.0
+"{'en': 'Dominican Republic', 'cy': 'Gweriniaeth Dominica'}",0.0
+"{'en': 'Automatically Detected', 'cy': 'Canfuwyd yn Awtomatig'}",0.0
+"{'en': 'Jeongeup', 'cy': 'JeongeupCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Greer', 'cy': 'Greer'}",0.0
+"{'en': 'Adrian', 'cy': 'Adrian'}",0.0
+"{'en': 'Zoom in', 'cy': 'Chwyddo i mewn'}",0.0
+"{'en': 'Dawson', 'cy': 'Dawson'}",0.0
+"{'en': 'Normal', 'cy': 'Arferol'}",0.0
+"{'en': 'Hover Selection', 'cy': 'Dewis drwy Hofran'}",0.0
+"{'en': 'Reykjavik', 'cy': 'Reykjavikworld. kgm'}",0.0
+"{'en': 'MODULES', 'cy': 'MODYLAU'}",0.0
+"{'en': 'QuizCorrect', 'cy': 'QuizCorrectComment'}",0.0
+"{'en': 'RO', 'cy': 'DYU'}",0.0
+"{'en': 'Nashira', 'cy': 'Nashirastar name'}",0.0
+"{'en': 'html container', 'cy': 'cynhwysydd html'}",0.0
+"{'en': 'Delete Folder', 'cy': 'Dileu Plygell'}",0.0
+"{'en': 'Themed', 'cy': 'Â Thema'}",0.0
+"{'en': 'Rectangular', 'cy': 'Petryal'}",0.0
+"{'en': 'Norman', 'cy': 'Norman'}",0.0
+"{'en': 'California', 'cy': 'Californiausa. kgm'}",0.0
+"{'en': 'Unmatched', 'cy': 'Heb gydweddu'}",0.0
+"{'en': 'Clinton', 'cy': 'Clinton'}",0.0
+"{'en': 'Color Wheel', 'cy': 'Olwyn Lliw'}",0.0
+"{'en': 'Brunswick', 'cy': 'Brunswick'}",0.0
+"{'en': 'New Appointment', 'cy': 'Apwyntiad Newydd'}",0.0
+"{'en': 'Milford', 'cy': 'Milford'}",0.0
+"{'en': 'Cleopatra', 'cy': 'Cleopatra'}",0.0
+"{'en': 'Cuernavaca', 'cy': 'Cuernavaca'}",0.0
+"{'en': 'Miscellaneous Symbols', 'cy': 'Amryw Symbolau'}",0.0
+"{'en': 'From', 'cy': 'Oddi wrth'}",0.0
+"{'en': 'Zagreb', 'cy': 'Zagreb'}",0.0
+"{'en': 'Leadville', 'cy': 'Leadville'}",0.0
+"{'en': 'Athabasca', 'cy': 'AlabamaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'CAPRICORNUS', 'cy': 'CAPRICORNUSConstellation name (optional)'}",0.0
+"{'en': 'Hyderabad', 'cy': 'Hyderabad'}",0.0
+"{'en': 'Faßberg', 'cy': 'Faßberg'}",0.0
+"{'en': 'Lytton', 'cy': 'Lytton'}",0.0
+"{'en': 'Termiz', 'cy': 'Termez'}",0.0
+"{'en': 'Vernal', 'cy': 'Vernal'}",0.0
+"{'en': 'Abū Mūsā', 'cy': 'آغاجاری'}",0.0
+"{'en': 'Vidalia', 'cy': 'Vidalia'}",0.0
+"{'en': 'Yellow', 'cy': 'Melyn'}",0.0
+"{'en': 'Player Group', 'cy': 'Grŵp Chwaraewr'}",0.0
+"{'en': 'of', 'cy': 'o'}",0.0
+"{'en': 'CurlCorrectionAfterFinal', 'cy': 'CywiroCrychuArÔlTerfynol'}",0.0
+"{'en': 'Cleaning up', 'cy': 'Yn glanhau'}",0.0
+"{'en': 'Klaipė da', 'cy': 'KalapanaCity in Lithuania'}",0.0
+"{'en': 'Heading', 'cy': 'Pennynvertical-align'}",0.0
+"{'en': 'Text File', 'cy': 'Ffeil Destun'}",0.0
+"{'en': 'Petawawa', 'cy': 'Petawawa'}",0.0
+"{'en': 'Forwarded', 'cy': ""Wedi'i Anfon Ymlaen""}",0.0
+"{'en': 'Bredeck', 'cy': 'Frederick'}",0.0
+"{'en': 'UNIX Scheme', 'cy': 'Cynllun UNIXName'}",0.0
+"{'en': 'terminal', 'cy': 'terfynell'}",0.0
+"{'en': 'Gore Bay', 'cy': 'Gore Bay'}",0.0
+"{'en': 'Erzurum', 'cy': 'Erzurum'}",0.0
+"{'en': 'Chile', 'cy': ""ChileThe People's Republic of""}",0.0
+"{'en': 'Mali', 'cy': 'Mali'}",0.0
+"{'en': 'CONFIGFILE', 'cy': 'FFEIL_GYFLUNIAD'}",0.0
+"{'en': 'Screensaver Preview', 'cy': 'Hoffterau Arbedwr Sgrin'}",0.0
+"{'en': 'October', 'cy': 'Hydref'}",0.0
+"{'en': 'Somerville', 'cy': 'Somerville'}",0.0
+"{'en': 'Austin', 'cy': 'Austin'}",0.0
+"{'en': 'Garden Grove', 'cy': 'Garden Creek'}",0.0
+"{'en': 'Alba Iulia', 'cy': 'Albaniaafrica. kgm'}",0.0
+"{'en': 'Create', 'cy': 'Creu'}",0.0
+"{'en': 'Mobridge', 'cy': 'Mobridge'}",0.0
+"{'en': 'Image Index', 'cy': 'Gwybodaeth GIFName'}",0.0
+"{'en': 'Window Role', 'cy': 'Rôl y Ffenestr'}",0.0
+"{'en': 'a', 'cy': 'a'}",0.0
+"{'en': 'Recently used', 'cy': 'Defnyddiwyd yn ddiweddar'}",0.0
+"{'en': 'Expires On', 'cy': 'Daw i ben ar'}",0.0
+"{'en': 'Normal', 'cy': 'Arferol'}",0.0
+"{'en': 'Kiruna', 'cy': 'Kiruna'}",0.0
+"{'en': 'Greer', 'cy': 'Greer'}",0.0
+"{'en': 'Zanzibar', 'cy': 'Sansibar / KisauniBangkokKrung Thep / กรุงเทพฯ'}",0.0
+"{'en': 'Field Value', 'cy': 'Enw Maes'}",0.0
+"{'en': 'Large', 'cy': 'Mawr'}",0.0
+"{'en': 'Van Nuys', 'cy': 'Van Nuys'}",0.0
+"{'en': 'Arabic', 'cy': 'Arabeg'}",0.0
+"{'en': 'Nebraska City', 'cy': 'Nebraska City'}",0.0
+"{'en': 'Exchange Configuration', 'cy': 'Cyfluniad Exchange'}",0.0
+"{'en': 'Minor', 'cy': 'MoriaName'}",0.0
+"{'en': 'Increase Volume', 'cy': ""Cynyddu' r Lefel Sŵn""}",0.0
+"{'en': 'KDE Applications', 'cy': 'Rhaglenni X'}",0.0
+"{'en': 'Decrease Indent', 'cy': '_Lleihau Mewnoliad'}",0.0
+"{'en': 'Metering Mode', 'cy': 'Dull Metru'}",0.0
+"{'en': 'Secret', 'cy': 'Cyfrinach'}",0.0
+"{'en': 'Rundi', 'cy': 'RwndiName'}",0.0
+"{'en': 'Bremerhaven', 'cy': 'BremerhavenCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Lights Off', 'cy': 'Wyth Bant'}",0.0
+"{'en': 'Pakistan', 'cy': 'Pacistan'}",0.0
+"{'en': 'Radisson', 'cy': 'Madison'}",0.0
+"{'en': 'Fort Carson', 'cy': 'Fort Carson'}",0.0
+"{'en': 'Computer Hard', 'cy': 'Chwaraewr Cyfrifiadurol'}",0.0
+"{'en': 'Retalhuleu', 'cy': 'Retalhuleun'}",0.0
+"{'en': 'Niagara Falls', 'cy': 'Niagara FallsCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Beijing', 'cy': 'Beijing长春'}",0.0
+"{'en': 'Swiss German', 'cy': 'Almaeneg y Swistir'}",0.0
+"{'en': 'Pennsylvania', 'cy': 'Pennsylvania'}",0.0
+"{'en': 'Montgauch', 'cy': 'Montauk'}",0.0
+"{'en': 'Afghanistan', 'cy': 'Afghanistan'}",0.0
+"{'en': 'Delegated', 'cy': 'DirprwywydUpdated: Meeting NameMeeting'}",0.0
+"{'en': 'Group', 'cy': 'Grŵp'}",0.0
+"{'en': 'Frameset', 'cy': 'Set ffrâm'}",0.0
+"{'en': 'Bremerton', 'cy': 'Bremerton'}",0.0
+"{'en': 'Manat', 'cy': 'Manat'}",0.0
+"{'en': 'Visible', 'cy': 'Gweladwy'}",0.0
+"{'en': 'Bukoba', 'cy': 'Bukoba'}",0.0
+"{'en': 'Storage Type', 'cy': 'Prif Fathau'}",0.0
+"{'en': 'Clear', 'cy': 'ClearCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Key Customer', 'cy': 'Cwsmer Allweddol'}",0.0
+"{'en': 'Copy Disc', 'cy': 'Copïo Disg'}",0.0
+"{'en': 'Barahona', 'cy': 'Barahona'}",0.0
+"{'en': 'High Contrast', 'cy': 'Cyferbyniad Uchel'}",0.0
+"{'en': 'Melilla', 'cy': 'Melilla'}",0.0
+"{'en': 'Allentown', 'cy': 'Allentown'}",0.0
+"{'en': 'Display Tooltips', 'cy': '& I'}",0.0
+"{'en': 'Biarritz', 'cy': 'Barrie'}",0.0
+"{'en': 'Previous Script', 'cy': 'Sgript Cynt'}",0.0
+"{'en': 'Delete Task', 'cy': 'Dileu Tasg'}",0.0
+"{'en': 'Ennadai', 'cy': 'Ennadai Lake'}",0.0
+"{'en': 'Window Title', 'cy': 'Teitl y Ffenestr'}",0.0
+"{'en': 'Bari', 'cy': 'Barin'}",0.0
+"{'en': 'Cape Girardeau', 'cy': 'Cape GirardeauCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Reload', 'cy': 'Parod.'}",0.0
+"{'en': 'Ephrata', 'cy': 'EphrataCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Israel', 'cy': 'IsraelCountry name (optional, but should be translated)'}",0.0
+"{'en': 'Union Square', 'cy': 'Union Square'}",0.0
+"{'en': 'Printer Default', 'cy': 'Rhagosodiad Argraffydd'}",0.0
+"{'en': 'Instance', 'cy': 'Bodolyn'}",0.0
+"{'en': 'Lobatsi', 'cy': 'LahtiCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Hanksville', 'cy': 'Hanksville'}",0.0
+"{'en': 'Dickinson', 'cy': 'Dickinson'}",0.0
+"{'en': 'Builtin', 'cy': 'Cynwysedigion'}",0.0
+"{'en': 'Tomahawk', 'cy': 'Tomahawk'}",0.0
+"{'en': 'pink', 'cy': 'pinccolor'}",0.0
+"{'en': 'North Wilkesboro', 'cy': 'North Wilkesboro'}",0.0
+"{'en': 'Tag', 'cy': 'Tag'}",0.0
+"{'en': 'Varna', 'cy': 'Varna'}",0.0
+"{'en': 'Taiwan', 'cy': 'Taiwanchina. kgm'}",0.0
+"{'en': 'Smoothing', 'cy': 'Llyfnu:'}",0.0
+"{'en': 'Saudi Arabia', 'cy': 'Saudi Arabia'}",0.0
+"{'en': 'El Cajon', 'cy': 'El CajonCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Icon Captions', 'cy': 'Pennawdau Eicon'}",0.0
+"{'en': 'Cookie Properties', 'cy': 'Priodweddau Bisgedi'}",0.0
+"{'en': 'Cursor LW', 'cy': 'Brwsh'}",0.0
+"{'en': 'Türi', 'cy': 'TüriCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Dasher Preferences', 'cy': 'Hoffterau Dasher'}",0.0
+"{'en': 'New Appointment', 'cy': 'Apwyntiad Newydd'}",0.0
+"{'en': 'Bountiful', 'cy': 'BountifulCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Port Elizabeth', 'cy': 'Port Elizabeth'}",0.0
+"{'en': 'Gujarati', 'cy': 'Gwjarati'}",0.0
+"{'en': 'Long Beach', 'cy': 'Long Beach'}",0.0
+"{'en': 'Elsenborn', 'cy': 'Elsenborn'}",0.0
+"{'en': 'Sylvania', 'cy': 'Sylvania'}",0.0
+"{'en': 'Hangul Syllables', 'cy': 'Sillafau Hangul'}",0.0
+"{'en': 'Japan', 'cy': 'SiapanName'}",0.0
+"{'en': 'Oviedo', 'cy': 'OviedoCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Standard Algebraic', 'cy': 'chess-move-format'}",0.0
+"{'en': 'Play', 'cy': 'Chwarae'}",0.0
+"{'en': 'Okata', 'cy': 'Yakataga'}",0.0
+"{'en': 'Autogenerated', 'cy': 'Awtogynhyrchwyd'}",0.0
+"{'en': 'Faßberg', 'cy': 'Faßberg'}",0.0
+"{'en': 'Envelope Feed', 'cy': 'Porthi Amlenni'}",0.0
+"{'en': 'cp', 'cy': 'Rhif:% 1'}",0.0
+"{'en': 'Nuevo Laredo', 'cy': 'Nuevo Laredo'}",0.0
+"{'en': 'Fort Smith', 'cy': 'Fort Smith'}",0.0
+"{'en': 'San Diego', 'cy': 'San Diego'}",0.0
+"{'en': 'Edit Palette', 'cy': ""Golygu'r Palet""}",0.0
+"{'en': 'Multiple vCards', 'cy': 'Mwy nag un vCard'}",0.0
+"{'en': 'German', 'cy': 'AlmaenegName'}",0.0
+"{'en': 'Cotonou', 'cy': 'Cotonou'}",0.0
+"{'en': 'Belmar', 'cy': 'Selma'}",0.0
+"{'en': 'Sharur', 'cy': 'Shaanxiasia. kgm'}",0.0
+"{'en': 'Asheboro', 'cy': 'Asheboro'}",0.0
+"{'en': 'Pesaro', 'cy': 'PesaroCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Vatican City', 'cy': 'Dinas y FaticanName'}",0.0
+"{'en': 'Altamira', 'cy': 'Altamira'}",0.0
+"{'en': 'of December', 'cy': 'o RagfyrJanuary'}",0.0
+"{'en': 'Clinton', 'cy': 'Clinton'}",0.0
+"{'en': 'Cold Bay', 'cy': 'Cold Bay'}",0.0
+"{'en': 'Mecca', 'cy': 'MedinaAl Madinah al Munawwarah'}",0.0
+"{'en': 'Libya', 'cy': 'Libia'}",0.0
+"{'en': 'IP', 'cy': 'IP'}",0.0
+"{'en': 'Bookmark Toolbar', 'cy': 'Bar Offer Nodau TudalenName'}",0.0
+"{'en': 'Ann Arbor', 'cy': 'Ann Arbor'}",0.0
+"{'en': 'BackSpace', 'cy': 'Bylchukeyboard label'}",0.0
+"{'en': 'Niš', 'cy': 'Niš'}",0.0
+"{'en': 'Miskolc', 'cy': 'Miskolc'}",0.0
+"{'en': 'CJK Compatibility', 'cy': 'Cyfaddaster CJK'}",0.0
+"{'en': 'Caribou', 'cy': 'Caribou'}",0.0
+"{'en': 'Multiple vCards', 'cy': 'Mwy nag un vCard'}",0.0
+"{'en': 'Nouadhibou', 'cy': 'Nouadhibou'}",0.0
+"{'en': 'Traverse City', 'cy': 'Traverse City'}",0.0
+"{'en': 'Server', 'cy': '_Gwasanaethwr:'}",0.0
+"{'en': 'Denton', 'cy': 'Denton'}",0.0
+"{'en': 'Select All', 'cy': 'Dewis _Popeth'}",0.0
+"{'en': 'Zweibrücken', 'cy': 'Zweibrücken'}",0.0
+"{'en': 'Network Transmission', 'cy': 'Trosglwyddiad Rhwydwaith'}",0.0
+"{'en': 'Kelowna', 'cy': 'Kelowna'}",0.0
+"{'en': 'Bar', 'cy': 'Barau'}",0.0
+"{'en': 'Dresden', 'cy': 'Dresden'}",0.0
+"{'en': 'Durango', 'cy': 'Durango'}",0.0
+"{'en': 'Telex', 'cy': 'Telecsteletype'}",0.0
+"{'en': 'Stephenville', 'cy': 'Stephenville'}",0.0
+"{'en': 'Saturday', 'cy': 'Dydd Sadwrn'}",0.0
+"{'en': 'Madison', 'cy': 'Madisonusa. kgm'}",0.0
+"{'en': 'Glendive', 'cy': 'Glendive'}",0.0
+"{'en': 'Lungi', 'cy': 'Lungi'}",0.0
+"{'en': 'Light Blue', 'cy': 'Glas YsgafnStyle name'}",0.0
+"{'en': 'Angoon', 'cy': 'Angoon'}",0.0
+"{'en': 'Charging', 'cy': 'Gwefru'}",0.0
+"{'en': 'Binghamton', 'cy': 'Binghamton'}",0.0
+"{'en': 'Browning', 'cy': 'Browning'}",0.0
+"{'en': 'unreadable', 'cy': 'annarllenadwy'}",0.0
+"{'en': 'Thunder Bay', 'cy': 'Thunder BayCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Baninah', 'cy': 'Benina'}",0.0
+"{'en': 'Current Screen', 'cy': ""Argraffu' r Sgrinlun""}",0.0
+"{'en': 'Wheaton', 'cy': 'WheatonCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Blytheville', 'cy': 'Blytheville'}",0.0
+"{'en': 'Model', 'cy': 'Model'}",0.0
+"{'en': 'Iran', 'cy': 'Iranshahr'}",0.0
+"{'en': 'Edinburgh', 'cy': 'Caer EdinCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Bella Coola', 'cy': 'Bella Coola'}",0.0
+"{'en': 'Translate', 'cy': 'Erfyn Troelliad'}",0.0
+"{'en': 'Natchez', 'cy': 'Natchez'}",0.0
+"{'en': 'Date Modified', 'cy': 'Dyddiad Addaswyd'}",0.0
+"{'en': 'Rocky Mount', 'cy': 'Rocky Mount'}",0.0
+"{'en': 'Honolulu', 'cy': 'Honoluluusa. kgm'}",0.0
+"{'en': 'Carlsbad', 'cy': 'Carlsbad'}",0.0
+"{'en': 'Devanagari Extended', 'cy': 'Defanagari'}",0.0
+"{'en': 'Rosario', 'cy': 'Rosario'}",0.0
+"{'en': 'Masjed Soleyman', 'cy': 'Masjed-Soleymanنو شهر'}",0.0
+"{'en': 'Pskov', 'cy': 'Pskov'}",0.0
+"{'en': 'Important Messages', 'cy': 'Negeseuon Pwysig'}",0.0
+"{'en': 'Kuantan', 'cy': 'Kuantan'}",0.0
+"{'en': 'Board Size', 'cy': 'Maint y Bwrdd'}",0.0
+"{'en': 'Alhena', 'cy': 'Alhenastar name'}",0.0
+"{'en': 'Cut', 'cy': 'Torri'}",0.0
+"{'en': 'Choose Frontside', 'cy': 'Dewis Ochr Flaen'}",0.0
+"{'en': 'Lacon', 'cy': 'Lacon'}",0.0
+"{'en': 'Java IDE', 'cy': 'IDE JavaName'}",0.0
+"{'en': 'Orange City', 'cy': 'Orange City'}",0.0
+"{'en': 'Peking', 'cy': 'PekingCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Kigoma', 'cy': 'Kigoma'}",0.0
+"{'en': 'Nicaragua', 'cy': 'Nicaragua'}",0.0
+"{'en': 'Mineral Wells', 'cy': 'Mineral WellsCity in Texas, United States'}",0.0
+"{'en': 'Totem Preferences', 'cy': 'Hoffterau Totem'}",0.0
+"{'en': 'Dipper Harbour', 'cy': 'Copper Harbor'}",0.0
+"{'en': 'Direct Mode', 'cy': 'Modd uniongyrchol'}",0.0
+"{'en': 'Skellefteå', 'cy': 'Skellefteå'}",0.0
+"{'en': 'Polygonize', 'cy': 'Croesrwygo'}",0.0
+"{'en': 'of', 'cy': 'o'}",0.0
+"{'en': 'Port Alsworth', 'cy': 'Port Alsworth'}",0.0
+"{'en': 'Previous Puzzle', 'cy': 'Pos _Blaenorol'}",0.0
+"{'en': 'Montserrat', 'cy': 'Monterrey'}",0.0
+"{'en': 'Cut Bank', 'cy': 'Cut Bank'}",0.0
+"{'en': 'Paphos', 'cy': 'Cahorssouthamerica. kgm'}",0.0
+"{'en': 'New Login', 'cy': 'Mewngofnodiad Newydd'}",0.0
+"{'en': 'Eastern Mongolia', 'cy': 'Mongolia Mewnol'}",0.0
+"{'en': 'South Bend', 'cy': 'South Bend'}",0.0
+"{'en': 'Berlin', 'cy': 'Berlin'}",0.0
+"{'en': 'Wasilla', 'cy': 'Wasilla'}",0.0
+"{'en': 'Global Alternate', 'cy': 'Eiledol'}",0.0
+"{'en': 'Marseille', 'cy': 'Marseille'}",0.0
+"{'en': 'Expression', 'cy': 'Mynegiant'}",0.0
+"{'en': 'Accepted', 'cy': 'DerbyniwydTentatively Accepted: Meeting NameMeeting'}",0.0
+"{'en': 'Disabled Font', 'cy': 'Dileu Wynebfath'}",0.0
+"{'en': 'Georgian Supplement', 'cy': 'Atodiad Georgeg'}",0.0
+"{'en': 'Print Memos', 'cy': 'Argraffu Memos'}",0.0
+"{'en': 'Bahia', 'cy': 'Bahiabrazil. kgm'}",0.0
+"{'en': 'Miles City', 'cy': 'Miles City'}",0.0
+"{'en': 'Jersey', 'cy': 'Jersey'}",0.0
+"{'en': 'invalid', 'cy': 'annilys'}",0.0
+"{'en': 'Lucky Lake', 'cy': 'Lucky Lake'}",0.0
+"{'en': 'Cache', 'cy': 'Celc'}",0.0
+"{'en': 'Chat', 'cy': 'Sgwrs'}",0.0
+"{'en': 'sec', 'cy': 'eil'}",0.0
+"{'en': 'Visible', 'cy': 'Gweladwy'}",0.0
+"{'en': 'KPilotDaemon', 'cy': 'KPilotGenericName'}",0.0
+"{'en': 'DeRidder', 'cy': 'De Ridder'}",0.0
+"{'en': 'Seminole', 'cy': 'Seminole'}",0.0
+"{'en': 'Vilano Beach', 'cy': 'Solana Beach'}",0.0
+"{'en': 'Radio Button', 'cy': 'heading"", ""paragraphtable"", ""combo boxstructural navigation'}",0.0
+"{'en': 'Tim Jansen', 'cy': 'Cylchfa amser:'}",0.0
+"{'en': 'Quang Nam', 'cy': 'vietnam. kgm'}",0.0
+"{'en': 'Python', 'cy': 'Python'}",0.0
+"{'en': 'Port Said', 'cy': 'Port Said'}",0.0
+"{'en': 'Spokane', 'cy': 'Spokane'}",0.0
+"{'en': 'Uppsala', 'cy': 'Uppsala'}",0.0
+"{'en': 'Mariehamn', 'cy': 'Morbihanusa. kgm'}",0.0
+"{'en': 'Oran', 'cy': 'Iranafrica. kgm'}",0.0
+"{'en': 'Kwekwe', 'cy': 'Swedenbrazil. kgm'}",0.0
+"{'en': 'Moving Failed', 'cy': 'Methodd y gosod.'}",0.0
+"{'en': 'Game paused', 'cy': ""Mae'r gêm wedi ei seibio""}",0.0
+"{'en': 'Ami', 'cy': 'Amami'}",0.0
+"{'en': 'MODULES', 'cy': 'MODYLAU'}",0.0
+"{'en': 'Grand Total', 'cy': 'Prif Gyfanswm'}",0.0
+"{'en': 'Select Driver', 'cy': 'Dewiswch Gyrrydd'}",0.0
+"{'en': 'Nuevo León', 'cy': 'Nuevo Laredo'}",0.0
+"{'en': 'Shift', 'cy': 'Shift'}",0.0
+"{'en': 'Kiruna', 'cy': 'Kiruna'}",0.0
+"{'en': 'Palau', 'cy': 'Paufrance. kgm'}",0.0
+"{'en': 'Gilmer', 'cy': 'Gilmer'}",0.0
+"{'en': 'Install again', 'cy': 'Arsefydlu'}",0.0
+"{'en': 'Dnipro', 'cy': 'ukraine. kgm'}",0.0
+"{'en': 'Skip forward', 'cy': 'Neidio ymlaen'}",0.0
+"{'en': 'Robinson', 'cy': 'Robinson'}",0.0
+"{'en': 'Mailer', 'cy': 'Ebostiwr'}",0.0
+"{'en': 'East Amazonas', 'cy': 'Pastaza/Río AmazonasBrasília TimeBrazil'}",0.0
+"{'en': 'Guernsey', 'cy': 'Guernsey'}",0.0
+"{'en': 'Hamus', 'cy': 'Seibio (Pause) Ethiopian weekday 5 - LongDayName'}",0.0
+"{'en': 'New', 'cy': 'Newydd'}",0.0
+"{'en': 'Zoom Out', 'cy': 'Crebachu'}",0.0
+"{'en': 'Fort Dodge', 'cy': 'Fort Dodge'}",0.0
+"{'en': 'Bengali', 'cy': 'Belarwsiaidd'}",0.0
+"{'en': 'Special', 'cy': 'Arbennig'}",0.0
+"{'en': 'New Appointment', 'cy': 'Apwyntiad Newydd'}",0.0
+"{'en': 'khaki', 'cy': 'cacicolor'}",0.0
+"{'en': 'Cognac', 'cy': 'Cognac'}",0.0
+"{'en': 'Sliač', 'cy': 'Sliač'}",0.0
+"{'en': 'Bloomington', 'cy': 'Bloomington'}",0.0
+"{'en': 'Paste', 'cy': '_Gludo'}",0.0
+"{'en': 'Angeles', 'cy': 'Los Angeles'}",0.0
+"{'en': 'Plait', 'cy': 'Plethu'}",0.0
+"{'en': 'Pori', 'cy': 'PoriCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'French Guiana', 'cy': 'Guyane Ffrengig'}",0.0
+"{'en': 'Kazakh', 'cy': 'KazakhName'}",0.0
+"{'en': 'Editing', 'cy': 'Golygu'}",0.0
+"{'en': 'Southend', 'cy': 'Southend'}",0.0
+"{'en': 'Little Rock', 'cy': 'Little Rock AFB'}",0.0
+"{'en': 'Human Players', 'cy': 'Chwaraewyr Dynol'}",0.0
+"{'en': 'Sabirabad', 'cy': 'Sawdi- Arabiaeurope. kgm'}",0.0
+"{'en': 'Edit Location', 'cy': 'Golygu Lleoliad'}",0.0
+"{'en': 'Current Player', 'cy': 'Chwaraewyr Dynol'}",0.0
+"{'en': 'Norway', 'cy': 'NorwyStencils'}",0.0
+"{'en': 'Cedi', 'cy': 'Sedi'}",0.0
+"{'en': 'Inner Mongolia', 'cy': 'Mongolia Mewnol'}",0.0
+"{'en': 'Boca Raton', 'cy': 'Boca Raton'}",0.0
+"{'en': 'Chinese Traditional', 'cy': 'Tsieinëeg Draddodiadol'}",0.0
+"{'en': 'Rainbow', 'cy': 'Rhes'}",0.0
+"{'en': 'Unstable', 'cy': 'Ansefydlog'}",0.0
+"{'en': 'Durham', 'cy': 'Durham'}",0.0
+"{'en': 'Lille', 'cy': 'Lille'}",0.0
+"{'en': 'Greensboro', 'cy': 'GreensboroCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'MODULE', 'cy': 'MODIWL'}",0.0
+"{'en': 'Urbana', 'cy': 'UrbanaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Kashi', 'cy': 'Kashi昆明'}",0.0
+"{'en': 'Due', 'cy': 'Amser Disgwyl'}",0.0
+"{'en': 'Hopkinsville', 'cy': 'HopkinsvilleCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Puerto Rico', 'cy': 'Puerto Rico'}",0.0
+"{'en': 'Blank Signature', 'cy': 'Llofnod Gwag'}",0.0
+"{'en': 'FLAC', 'cy': 'FLAC'}",0.0
+"{'en': 'Download Started', 'cy': 'Rheolydd LawrlwythoComment'}",0.0
+"{'en': 'Descending', 'cy': 'Disgynnol'}",0.0
+"{'en': 'Phoenix', 'cy': 'Phoenix'}",0.0
+"{'en': 'Montana', 'cy': 'Montana'}",0.0
+"{'en': 'Montpellier', 'cy': 'Montpellier'}",0.0
+"{'en': 'Neddy Harbour', 'cy': 'Bernard Harbour'}",0.0
+"{'en': 'Debugger', 'cy': 'DogfenniaethName'}",0.0
+"{'en': 'Ankarena', 'cy': 'Ankara/Esenboga'}",0.0
+"{'en': 'Diamond Bar', 'cy': 'Diamond BarCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'width', 'cy': 'lled'}",0.0
+"{'en': 'Completed', 'cy': 'CyflawnwydSTART (Due DUE)'}",0.0
+"{'en': 'Campo Grande', 'cy': 'Campo Grande'}",0.0
+"{'en': 'Required Participant', 'cy': 'Cyfranogwyr Angenrheidiol'}",0.0
+"{'en': 'Prince Albert', 'cy': 'Prince Albert'}",0.0
+"{'en': 'Guangzhou', 'cy': 'Guangzhou'}",0.0
+"{'en': 'Trieste', 'cy': 'Triesteitalyprovince. kgm'}",0.0
+"{'en': 'Shawnee', 'cy': 'ShawneeCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Red', 'cy': 'Cochcolor'}",0.0
+"{'en': 'Saint Helena', 'cy': 'Saint Helena'}",0.0
+"{'en': 'Imperial', 'cy': 'Imperial'}",0.0
+"{'en': 'Arcata', 'cy': 'Arcata'}",0.0
+"{'en': 'Guam', 'cy': 'Guam'}",0.0
+"{'en': 'No', 'cy': 'Nage'}",0.0
+"{'en': 'Shenzhen', 'cy': 'Shenzhen太原'}",0.0
+"{'en': 'Prompt Type', 'cy': 'Neges bromptio'}",0.0
+"{'en': 'Culpeper', 'cy': 'Culpeper'}",0.0
+"{'en': 'Nauru', 'cy': 'Nauru'}",0.0
+"{'en': 'Seoul', 'cy': 'Seoul'}",0.0
+"{'en': 'Bakersfield', 'cy': 'Bakersfield'}",0.0
+"{'en': 'Mataró', 'cy': 'Materafrance. kgm'}",0.0
+"{'en': 'Rieti', 'cy': 'Rieti'}",0.0
+"{'en': 'Rovaniemi', 'cy': 'Roraimaeurope. kgm'}",0.0
+"{'en': 'Global', 'cy': 'Eang'}",0.0
+"{'en': 'Houston', 'cy': 'Houston'}",0.0
+"{'en': 'Corvallis', 'cy': 'Corvallis'}",0.0
+"{'en': 'Los Alamos', 'cy': 'Los Alamos'}",0.0
+"{'en': 'Burbank', 'cy': 'Burbank'}",0.0
+"{'en': 'Very Large', 'cy': 'Mawr Iawn'}",0.0
+"{'en': 'South Bend', 'cy': 'South Bend'}",0.0
+"{'en': 'Mansfield', 'cy': 'Mansfield'}",0.0
+"{'en': 'Canada', 'cy': 'CanadaName'}",0.0
+"{'en': 'Spreadsheet', 'cy': 'Taenlen'}",0.0
+"{'en': 'Santo Domingo', 'cy': 'Sto. Domingo'}",0.0
+"{'en': 'Nauru', 'cy': 'NauruName'}",0.0
+"{'en': 'Ghana', 'cy': 'Ghana'}",0.0
+"{'en': 'Baker Lake', 'cy': 'Baker Lake'}",0.0
+"{'en': 'Saturday', 'cy': 'Sadwrnfull weekday name'}",0.0
+"{'en': 'Excite', 'cy': 'ExciteQuery'}",0.0
+"{'en': 'Haiti', 'cy': 'Haiti'}",0.0
+"{'en': 'Ogallala', 'cy': 'Ogallala'}",0.0
+"{'en': 'Spencer', 'cy': 'Spencer'}",0.0
+"{'en': 'Synchronize', 'cy': 'Cydweddu'}",0.0
+"{'en': 'Menger', 'cy': 'Menger'}",0.0
+"{'en': 'Pendleton', 'cy': 'Pendleton'}",0.0
+"{'en': 'Left', 'cy': 'Chwith'}",0.0
+"{'en': 'Port Colborne', 'cy': 'Port Colborne'}",0.0
+"{'en': 'Down', 'cy': 'I Lawr'}",0.0
+"{'en': 'Chittagong', 'cy': 'Chittagong Patengaঢাকা'}",0.0
+"{'en': 'Reinstalling', 'cy': 'Sefydlu'}",0.0
+"{'en': 'Draw Indicator', 'cy': 'Arlunio Dangosydd'}",0.0
+"{'en': 'Travel', 'cy': 'Teithioincidence category'}",0.0
+"{'en': 'Iraq', 'cy': 'Irac'}",0.0
+"{'en': 'Bonn', 'cy': 'Bonnard'}",0.0
+"{'en': 'Cape Canaveral', 'cy': 'Cape Canaveral'}",0.0
+"{'en': 'Spain', 'cy': 'Sbaen'}",0.0
+"{'en': 'No sounds', 'cy': 'Atal sain'}",0.0
+"{'en': 'Remove', 'cy': 'Tynnu'}",0.0
+"{'en': 'Cancel', 'cy': '@ action: button'}",0.0
+"{'en': 'Start Date', 'cy': 'Dyddiad Dechrau'}",0.0
+"{'en': 'Baton Rouge', 'cy': 'Baton Rouge'}",0.0
+"{'en': 'McMinnville', 'cy': 'McMinnville'}",0.0
+"{'en': 'Kashoji', 'cy': 'Kashi'}",0.0
+"{'en': 'Virgo A', 'cy': 'Virgo Aobject name (optional)'}",0.0
+"{'en': 'Le Puy', 'cy': 'Le Puy'}",0.0
+"{'en': 'Braunschweig', 'cy': 'Braunschweig'}",0.0
+"{'en': 'Konya', 'cy': 'Konya'}",0.0
+"{'en': 'Ramstein', 'cy': 'RamsteinCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Default View', 'cy': 'Golwg Rhagosodedig'}",0.0
+"{'en': 'Steamboat Springs', 'cy': 'Steamboat Springs'}",0.0
+"{'en': 'Braille Patterns', 'cy': '& # 160; BrailleKCharselect unicode block name'}",0.0
+"{'en': 'Harlingen', 'cy': 'Harlingen'}",0.0
+"{'en': 'Yamaguchi', 'cy': 'Yamaguchi Ube'}",0.0
+"{'en': 'Gustavus', 'cy': 'Gustavus'}",0.0
+"{'en': 'Meeting Cancelation', 'cy': 'Canslo Cyfarfod'}",0.0
+"{'en': 'Super', 'cy': 'Super'}",0.0
+"{'en': 'Hebrew', 'cy': 'Hebraeg'}",0.0
+"{'en': 'North Adams', 'cy': 'North Adams'}",0.0
+"{'en': 'Saskatoon', 'cy': 'Saskatoon'}",0.0
+"{'en': 'Santa Cruz', 'cy': 'Santa Cruz'}",0.0
+"{'en': 'Bulgaria', 'cy': 'Bwlgaria'}",0.0
+"{'en': 'Euclid', 'cy': 'EuclidCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Golden', 'cy': 'Golden'}",0.0
+"{'en': 'Connect', 'cy': '& Lled y llinell:'}",0.0
+"{'en': 'All related', 'cy': ""Pob un sy'n perthyn""}",0.0
+"{'en': 'Iowa City', 'cy': 'Iowa City'}",0.0
+"{'en': 'Empty', 'cy': 'Gwag'}",0.0
+"{'en': 'Decimal', 'cy': 'Degol'}",0.0
+"{'en': 'Overcast', 'cy': 'Cymylogsky conditions'}",0.0
+"{'en': 'Redmond', 'cy': 'Redmond'}",0.0
+"{'en': 'Disk Load', 'cy': 'Llwyth Disg'}",0.0
+"{'en': 'preceding', 'cy': 'blaenorol'}",0.0
+"{'en': 'minimize', 'cy': 'Dad_leihau'}",0.0
+"{'en': 'Builtin Variable', 'cy': 'Gwerthoedd Sylfaenol'}",0.0
+"{'en': 'Charge', 'cy': 'Gwefr'}",0.0
+"{'en': 'Ryazan', 'cy': 'Henanafrica. kgm'}",0.0
+"{'en': 'kcmtodosummary', 'cy': 'Crynodeb Kyswllt'}",0.0
+"{'en': 'Redwood Falls', 'cy': 'Redwood FallsCity in Minnesota, United States'}",0.0
+"{'en': 'Toolbar Style', 'cy': '_Arddull Bar Offer'}",0.0
+"{'en': 'Kitakyushu', 'cy': 'Kitakyushu'}",0.0
+"{'en': 'Fiji Dollar', 'cy': 'Doler Ffiji'}",0.0
+"{'en': 'Meadville', 'cy': 'Meadville'}",0.0
+"{'en': 'Other Tabs', 'cy': 'Cau Tabiau & Eraill'}",0.0
+"{'en': 'Retalhuleu', 'cy': 'Retalhuleun'}",0.0
+"{'en': 'Penn Yan', 'cy': 'Penn Yan'}",0.0
+"{'en': 'Downgrade', 'cy': ""Wedi'i Lawrlwytho""}",0.0
+"{'en': 'Waiting', 'cy': 'Aros'}",0.0
+"{'en': 'Installing', 'cy': 'Sefydlu'}",0.0
+"{'en': 'Iquitos', 'cy': 'Iquitos'}",0.0
+"{'en': 'Shanghai', 'cy': 'Shanghai'}",0.0
+"{'en': 'Eastern Time', 'cy': 'Eastern Time'}",0.0
+"{'en': 'Amman', 'cy': 'AmmanCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Eastern Kazakhstan', 'cy': 'Casachstan'}",0.0
+"{'en': 'Beverly', 'cy': 'Beverly'}",0.0
+"{'en': 'Wainwright', 'cy': 'Wainwright'}",0.0
+"{'en': 'Atlantic', 'cy': 'Atlantic'}",0.0
+"{'en': 'Venezuela', 'cy': 'Fenesuela'}",0.0

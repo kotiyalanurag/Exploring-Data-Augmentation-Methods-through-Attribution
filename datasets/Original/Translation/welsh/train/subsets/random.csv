@@ -1,0 +1,1001 @@
+translation,importance
+"{'en': 'Auch', 'cy': 'Auch'}",0.0
+"{'en': 'Default calendar', 'cy': 'Porwr rhagosodedig'}",0.0377358490566037
+"{'en': 'Compression ratio:', 'cy': 'Cyfradd cywasgiad:'}",0.2318059299191374
+"{'en': 'minutes', 'cy': 'llinelli'}",0.0377358490566037
+"{'en': 'Delete this occurrence', 'cy': ""Dileu'r digwyddiad yma""}",0.2560646900269542
+"{'en': 'Pixmap', 'cy': 'Picsfap'}",0.0377358490566037
+"{'en': 'The number of rows to fill', 'cy': ""Y nifer o resi i'w llenwi""}",0.3584905660377358
+"{'en': 'Ghana', 'cy': 'Ghana'}",0.0
+"{'en': 'Spellcheck', 'cy': 'Gwirio Sillafu'}",0.0
+"{'en': 'Seek to %s / %s', 'cy': 'Cyrchu hyd %s / %s'}",0.5013477088948787
+"{'en': 'Tymbou', 'cy': 'Tombouctou'}",0.0
+"{'en': 'Nashira', 'cy': 'Nashirastar name'}",0.0
+"{'en': 'Message template for new message', 'cy': 'Rhestr Negeseuon - Maes Dyddiad'}",0.3315363881401617
+"{'en': 'Kernel core', 'cy': 'Craidd cnewyllyn'}",0.0377358490566037
+"{'en': 'Piešťany', 'cy': 'Piešťany'}",0.0377358490566037
+"{'en': 'Landscape', 'cy': 'TirlunStock label'}",0.0377358490566037
+"{'en': 'Short inline quotation', 'cy': 'Dyfyniad byr mewnol'}",0.1913746630727763
+"{'en': '%1 (%2) vs. %3 (%4) - game over', 'cy': '% 1 (% 2) vs.% 3 (% 4) - gêm drosodd'}",0.3045822102425876
+"{'en': 'Bangkok', 'cy': 'Bangkok'}",0.0
+"{'en': '%s: muted', 'cy': '%s: wedi tewi'}",0.1940700808625337
+"{'en': '%s: Error starting greeter on display %s', 'cy': '%s: Gwall wrth gychwyn cyfarchwr ar y dangosydd %s'}",0.3611859838274932
+"{'en': 'Adjustment', 'cy': 'Addasiad'}",0.0377358490566037
+"{'en': 'Clear display [Escape]', 'cy': ""Clirio'r gwerth a ddangosir""}",0.3045822102425876
+"{'en': 'KWord WordPerfect Import Filter', 'cy': 'Hidlen Fewnforio WordPerfect KWord Name'}",0.1536388140161725
+"{'en': 'CJK Symbols and Punctuation', 'cy': 'Symbolau ac Atalnodau CJK'}",0.1536388140161725
+"{'en': 'FUSE Volume', 'cy': 'Cyfrol FUSE'}",0.0
+"{'en': '& Display Mode', 'cy': 'Modd & ArddangosInsert menu'}",0.2668463611859838
+"{'en': 'Subscribe to the mailing list this message belongs to', 'cy': ""Tanysgrifio â'r rhestr trafod mae'r neges hon yn perthyn iddi""}",0.3584905660377358
+"{'en': 'centered textStock label', 'cy': '_Neidio icentered textStock label'}",0.1913746630727763
+"{'en': 'Khmer Symbols', 'cy': 'Symbolau Chmereg'}",0.0
+"{'en': 'Cannot rename folder: %s: No such folder', 'cy': ""Methu ail-enwi plygell: %s: Dim plygell o'r fath""}",0.5283018867924529
+"{'en': 'Date', 'cy': 'Dyddiad'}",0.0377358490566037
+"{'en': 'Icons Only', 'cy': ""Eiconau'n Unig""}",0.0377358490566037
+"{'en': 'Lobatsi', 'cy': 'LahtiCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Hillsdale', 'cy': 'Hillsdale'}",0.0
+"{'en': 'Unable to start location', 'cy': 'Lleoliad llwytho i lawr?'}",0.2479784366576819
+"{'en': 'Whether rows should be expanded/collapsed when the pointer moves over them', 'cy': ""A ddylid ehangu/cwympo rhesi wrth i'r pwyntydd symud drostynt""}",0.5471698113207547
+"{'en': 'Kostanai', 'cy': 'Astanausa. kgm'}",0.0377358490566037
+"{'en': 'All files', 'cy': 'Pob Ffeil'}",0.1024258760107816
+"{'en': '%s - Evolution', 'cy': '%s - Evolution'}",0.2668463611859838
+"{'en': 'Kŭ mgangsan Tourist Region', 'cy': 'north_ korea. kgm'}",0.2102425876010781
+"{'en': 'The key used to move north-east.', 'cy': ""Y fysell i'w gwasgu er mwyn symud i'r dde.""}",0.5579514824797844
+"{'en': 'Mines Preferences', 'cy': 'Hoffterau Ffrwydron'}",0.0
+"{'en': 'Mount Ida', 'cy': 'Mount Ida'}",0.0
+"{'en': 'Kajaani', 'cy': 'Kajaani'}",0.0
+"{'en': '& Overwrite', 'cy': '& Trosysgrifo'}",0.1132075471698113
+"{'en': 'Open link in a new window', 'cy': 'Agor y cyswllt mewn ffenest newydd'}",0.3584905660377358
+"{'en': 'third', 'cy': 'trydydd'}",0.0
+"{'en': 'Account in use', 'cy': 'Cyfrif:'}",0.1913746630727763
+"{'en': 'State Message', 'cy': 'Neges Cyflwr'}",0.0377358490566037
+"{'en': 'Number of human players', 'cy': 'Nifer y chwaraewyr dynol'}",0.1913746630727763
+"{'en': 'Gnumeric', 'cy': 'Gnumeric'}",0.0
+"{'en': 'Cannot rename ""{0}"" to ""{1}"".', 'cy': 'Methu ailenwi ""{0}"" i ""{1}"".'}",0.5687331536388142
+"{'en': 'In this row you can customize middle click behavior when clicking into the titlebar or the frame.', 'cy': ""Yn y res yma gallwch addasu ymddygiad clic- ganol tra' n clicio ar far teitl neu ffrâm ffenestr.""}",0.7466307277628034
+"{'en': 'Server _name:', 'cy': 'Enw _gweinydd:'}",0.2318059299191374
+"{'en': '_Program:', 'cy': '_Rhaglen:'}",0.2318059299191374
+"{'en': 'Me:', 'cy': 'Fi:'}",0.1132075471698113
+"{'en': '_Preferences', 'cy': '_Hoffterau'}",0.1509433962264151
+"{'en': 'Export Work Sheet', 'cy': 'Ailosod Pob Gweithlen'}",0.1913746630727763
+"{'en': ""Can't set EUID to user UID"", 'cy': 'Methwyd gosod EUID at UID y defnyddiwr'}",0.3504043126684635
+"{'en': 'Europe/Brussels', 'cy': 'Ewrop/Brussels'}",0.1940700808625337
+"{'en': 'General Settings', 'cy': 'Gosodiadau Cyffredinol'}",0.0
+"{'en': 'Angeles', 'cy': 'Los Angeles'}",0.0
+"{'en': 'Bacău', 'cy': 'Bacău'}",0.0377358490566037
+"{'en': 'Number of colors:', 'cy': '_Nifer y chwaraewyr:'}",0.3045822102425876
+"{'en': 'Wrap', 'cy': 'Amlapio'}",0.0377358490566037
+"{'en': 'Miscellaneous Symbols', 'cy': 'Amryw Symbolau'}",0.0
+"{'en': 'The key used to move north.', 'cy': ""Y fysell i'w gwasgu er mwyn symud i'r dde.""}",0.5013477088948788
+"{'en': 'Default color of text in the terminal, as a color specification (can be HTML-style hex digits, or a color name such as ""red"").', 'cy': 'Lliw rhagosodol testun yn y derfynell, fel penodid lliw (gall fod mewn hecs-ddigidau fel yn HTML neu fel enw lliw megis ""red"").'}",0.6900269541778976
+"{'en': 'Metropolis', 'cy': 'Metropolis'}",0.0
+"{'en': '%.1f PB', 'cy': '%.1f PB'}",0.1940700808625337
+"{'en': '(Deprecated) Proxy authentication password', 'cy': 'Methiant dros dro ar ddilysu'}",0.3045822102425876
+"{'en': 'Asia/Qatar', 'cy': 'Asia/Qatar'}",0.1940700808625337
+"{'en': 'popup list', 'cy': 'rhestr naidlenni'}",0.0377358490566037
+"{'en': 'unknown type', 'cy': 'math anhysbysFD"" here means ""File Descriptor'}",0.0377358490566037
+"{'en': 'Type 1C', 'cy': 'Math 1C'}",0.1509433962264151
+"{'en': 'West Point', 'cy': 'West Point'}",0.0
+"{'en': 'Choose an application...', 'cy': 'Rhedeg Rhaglen...'}",0.5687331536388142
+"{'en': 'Folder access:', 'cy': 'dyddiad cyrchwyd'}",0.2318059299191374
+"{'en': 'Look', 'cy': 'Edrych'}",0.0
+"{'en': 'RAS image has bogus header data', 'cy': 'Mae gan y ddelwedd RAS ddata pennawd annilys'}",0.2479784366576819
+"{'en': 'Beatrice', 'cy': 'Beatrice'}",0.0377358490566037
+"{'en': 'Bakersfield', 'cy': 'Bakersfield'}",0.0
+"{'en': 'Dansville', 'cy': 'Dansville'}",0.0377358490566037
+"{'en': 'Tozeur', 'cy': 'Tozeur'}",0.0377358490566037
+"{'en': 'Enter password.', 'cy': 'Rhowch gyfrinair.'}",0.431266846361186
+"{'en': 'Wrapped search', 'cy': '& Agor Ffeil'}",0.0377358490566037
+"{'en': 'Could not load theme', 'cy': ""Methu llwytho'r thema""}",0.3504043126684635
+"{'en': 'Whether this tag affects paragraph justification', 'cy': ""A ydy'r tag hwn yn effeithio unioniad paragraffau""}",0.4150943396226415
+"{'en': 'IPA Extensions', 'cy': 'Estyniadau IPA'}",0.0377358490566037
+"{'en': 'London', 'cy': 'Llundain'}",0.0
+"{'en': ""The volume control did not find any elements and/or devices to control. This means either that you don't have the right GStreamer plugins installed, or that you don't have a sound card configured."", 'cy': ""Wnaeth rheolwr lefel y sain ddim canfod unrhyw elfennau a/neu ddyfeisiau i'w rheoli. Golyga hyn naill ai nad yw'r ategion GStreamer cywir wedi eu gosod, neu nad oes gerdyn sain wedi ei chyflunio.""}",0.7466307277628034
+"{'en': 'Optimized:', 'cy': 'Optimeiddiwyd:'}",0.1132075471698113
+"{'en': '& Policy:', 'cy': '& Polisi:'}",0.1940700808625337
+"{'en': 'Enable arrow keys', 'cy': ""Galluogi'r botymau cyfeiriad""}",0.2479784366576819
+"{'en': 'Print', 'cy': 'Argraffu'}",0.0377358490566037
+"{'en': '& List', 'cy': '& Rhestr'}",0.1509433962264151
+"{'en': '/ on %s', 'cy': '/ ar %s'}",0.3045822102425876
+"{'en': 'No Primary Key (autonumber) has been defined. Should it be automatically defined on import (recommended)? Note: An imported table without a Primary Key may not be editable (depending on database type).', 'cy': 'Add Database Primary Key to a Table'}",0.6900269541778976
+"{'en': 'Location to open', 'cy': 'Lleoliad i agor.'}",0.1913746630727763
+"{'en': 'Saved search', 'cy': 'Chwiliad wedi cadw'}",0.0377358490566037
+"{'en': 'A lightweight window manager able to attach multiple windows to one frame', 'cy': ""Trefnydd ffenestri ysgafn sy' n gallu atodi mwy nag un ffenestr at un ffrâmName""}",0.6037735849056604
+"{'en': 'Bathurst', 'cy': 'Bathurst'}",0.0377358490566037
+"{'en': 'Window manager warning:', 'cy': 'Rhybudd rheolydd ffenestri:'}",0.3045822102425876
+"{'en': 'Worland', 'cy': 'Worland'}",0.0377358490566037
+"{'en': 'Insert Send options', 'cy': 'Mewnosod opsiynau anfon'}",0.1913746630727763
+"{'en': ""different idatas found for symlinked '%s' and '%s'"", 'cy': ""idatas gwahanol wedi'u canfod ar gyfer '%s' a '%s' sydd â chyswllt symbolaidd rhyngddynt""}",0.4070080862533693
+"{'en': 'Top Floating Panel', 'cy': ""Panel Brig sy'n Arnofio""}",0.1913746630727763
+"{'en': 'The consistency checks performed on the input_token failed.', 'cy': 'Methodd y profion cysondeb a berfformiwyd ar yr input_token.'}",0.6145552560646901
+"{'en': 'Unable to create transient display:', 'cy': ""%s: methu cysylltu â'r dangosydd rhiant '%s'""}",0.2479784366576819
+"{'en': ""Cannot rename folder '%s' to '%s': Invalid mailbox name"", 'cy': ""Methu ail-enwi'r blygell `%s' i `%s': Enw blwch e-bost annilys""}",0.3504043126684635
+"{'en': 'Denied XDMCP query from host %s', 'cy': ""Gwrthodwyd cais XDMCP o'r gweinydd %s""}",0.2479784366576819
+"{'en': 'Remove the selected application from the list.', 'cy': ""Gwaredu' r cymhwysiad dewisiedig o' r rhestr.""}",0.5579514824797844
+"{'en': 'If true, buttons will be placed on each side of the panel which may be used to move the panel to edge of the screen, leaving only a button showing.', 'cy': 'Os yn wir, gosodir botymau ar naill ochr y panel gellir eu defnyddio i symud y panel i ymyl y sgrin, gan adael dim ond botwm yn dangos.'}",0.8867924528301887
+"{'en': 'Could not perform this operation on {0}.', 'cy': 'Methu gwneud y weithred.'}",0.5579514824797844
+"{'en': 'Open the template for editing', 'cy': 'Eraill...'}",0.4150943396226415
+"{'en': 'Australia', 'cy': 'Australiaworld. kgm'}",0.0
+"{'en': ""Set permissions of items enclosed in '%s'"", 'cy': 'Caniatâd y ffeil.'}",0.2938005390835579
+"{'en': 'Croatian', 'cy': 'CroategName'}",0.0
+"{'en': 'Hamamatsu', 'cy': 'Hamamatsu'}",0.0377358490566037
+"{'en': ""Failed to open file '%s': %s"", 'cy': ""Methu agor y ffeil '%s': %s""}",0.3611859838274932
+"{'en': 'Check new messages for _Junk contents', 'cy': 'Gwirio am gynnwys _Sothach yn y negeseuon newydd'}",0.2479784366576819
+"{'en': 'Mute Button', 'cy': 'Media controller element'}",0.0
+"{'en': 'Santos', 'cy': 'Santos'}",0.0377358490566037
+"{'en': 'Remove the five of diamonds.', 'cy': 'pump y diemwntau'}",0.5579514824797844
+"{'en': 'Large', 'cy': 'Mawr'}",0.0
+"{'en': 'Asia/Makassar', 'cy': 'Asia/Makassar'}",0.1940700808625337
+"{'en': 'of %d', 'cy': 'o %d'}",0.2318059299191374
+"{'en': 'Modified', 'cy': 'Newidiwyd ar:'}",0.0
+"{'en': 'Server Port', 'cy': 'St. Peter Port'}",0.0
+"{'en': 'COMBIN(5; 5) returns 1', 'cy': 'Mae COMBIN( 5; 5) yn dychwelyd 1'}",0.3045822102425876
+"{'en': '%1 unsaved document (%2)', 'cy': ""Cadw' r Ddogfen Fel""}",0.3045822102425876
+"{'en': 'Crotone', 'cy': 'Crotone'}",0.0377358490566037
+"{'en': 'Congratulations, your mail configuration is complete. You are now ready to send and receive email using Evolution. Click ""Apply"" to save your settings.', 'cy': 'Llongyfarchiadau, mae cyfluniad eich e-bost yn gyflawn. Gallwch yn awr anfon a derbyn e-bost gan ddefnyddio Evolution. Cliciwch ""Cymhwyso"" i gadw\'ch gosodiadau.'}",0.6819407008086255
+"{'en': 'Permission denied', 'cy': 'Atalwyd caniatad. Socket error code ConnectionTimedOut'}",0.0377358490566037
+"{'en': 'Internet service provider data', 'cy': 'Data darparwr gwasanaeth Rhyngrwyd'}",0.1913746630727763
+"{'en': 'Asia/Pyongyang', 'cy': 'Asia/Pyongyang'}",0.1940700808625337
+"{'en': 'Application crashed The program %appname crashed.', 'cy': 'Nid oedd yn bosib creu olrheiniad.'}",0.5121293800539084
+"{'en': 'Invalid argument value', 'cy': 'Gwerth ymresymiad annilys'}",0.1913746630727763
+"{'en': 'Slidell', 'cy': 'Slidell'}",0.0
+"{'en': 'Command not found.', 'cy': 'Ni chanfuwyd y gorchymyn.'}",0.4474393530997305
+"{'en': 'S/MIME Decrypt: No encrypted content found', 'cy': 'Dadgryptio S/MIME: Methu canfod cynnwys wedi ei amgryptio'}",0.3692722371967655
+"{'en': ""Amount to increase child's size on the top and bottom"", 'cy': ""Faint i gynyddu maint y plentyn ar y brig a'r gwaelod""}",0.4150943396226415
+"{'en': 'Use safe moves', 'cy': 'Defnyddio symudiadau diogel'}",0.2479784366576819
+"{'en': 'Always encrypt to _myself when sending encrypted messages', 'cy': ""Amgryptio fy nghopi fy _hun hefyd wrth anfon e-bost wedi'i amgryptio""}",0.3504043126684635
+"{'en': 'KAlarm autostart at login', 'cy': 'Cychwyn yr ellyll larwm KTrefnydd/ KLarwm yn ymysgogol wrth fewngofnodiGenericName'}",0.1913746630727763
+"{'en': 'Charge', 'cy': 'Gwefr'}",0.0
+"{'en': 'Prompt when replying to many recipients', 'cy': '_Promptio wrth anfon negeseuon gyda dim ond derbynwyr Bcc wedi eu diffinio'}",0.2938005390835579
+"{'en': 'Deal another hand', 'cy': 'Delio dyrnaid arall'}",0.3126684636118599
+"{'en': 'Row is an expander row, and is expanded', 'cy': ""Mae'r rhes yn rhes ehangydd, ac mae wedi ei ehangu""}",0.3584905660377358
+"{'en': 'Fingerprints', 'cy': 'Olion bysedd'}",0.0377358490566037
+"{'en': 'Former maintainer', 'cy': 'Cyn- gynhaliwr'}",0.0377358490566037
+"{'en': 'Jalisco', 'cy': 'mexico_ states. kgm'}",0.0377358490566037
+"{'en': 'Vertical cell alignment', 'cy': 'Aliniad fertigol celloedd'}",0.1913746630727763
+"{'en': '_Send Mail To…', 'cy': '_Anfon E-bost At...'}",0.3234501347708894
+"{'en': 'Resolving', 'cy': 'Gwaredu'}",0.0
+"{'en': 'The water needs changing', 'cy': 'Mae angen newid y dŵr! (Gweler dyddiad heddiw)'}",0.2560646900269542
+"{'en': 'Santa Rosa de Copán', 'cy': 'Santa Rosa De Copán'}",0.1536388140161725
+"{'en': 'Oran', 'cy': 'Iranafrica. kgm'}",0.0
+"{'en': 'XSLT — Axes', 'cy': 'XSLT - Echelinau'}",0.1536388140161725
+"{'en': 'Test options:', 'cy': 'Opsiynau profi:'}",0.2318059299191374
+"{'en': 'Valid key file could not be found in search dirs', 'cy': 'Ni ddarganfuwyd ffeil allwedd ddilys yn y plygellau data'}",0.2938005390835579
+"{'en': 'Send the selected attachments somewhere', 'cy': ""Dewiswch blygell i gadw'r atodiadau sydd wedi'u dewis...""}",0.4150943396226415
+"{'en': 'Medina', 'cy': 'Madinah'}",0.0
+"{'en': 'Unable to login. Probably the password is wrong. The server %1 replied: %2', 'cy': ""Methu mewngofnodi. Mae' n debyg fod y cyfrinair yn anghywir. Atebodd y gweinydd:% 1""}",0.6603773584905661
+"{'en': 'The version of the GpgME library you are running against is older than the one that the GpgME++ library was built against. Kleopatra will not function in this setting. Please ask your administrator for help in resolving this issue.', 'cy': '@ title'}",0.7466307277628034
+"{'en': 'Whether gedit will ensure that documents always end with a trailing newline.', 'cy': 'A ddylai gedit gynnwys pennawd dogfen wrth argraffu dogfennau.'}",0.6900269541778976
+"{'en': 'Computer', 'cy': 'Cyfrifiadur'}",0.0377358490566037
+"{'en': 'Kaunas', 'cy': 'Kaunas'}",0.0377358490566037
+"{'en': 'm', 'cy': 'm'}",0.0
+"{'en': 'Edit Database Flags', 'cy': 'Cyfeiriad'}",0.1913746630727763
+"{'en': 'Custom messages…', 'cy': 'Neges Addasiedig...'}",0.1185983827493261
+"{'en': 'fast forwardStock label, media', 'cy': 'Gadael Modd Sgrin _Lawnfast forwardStock label, media'}",0.3045822102425876
+"{'en': 'Muskogee', 'cy': 'Muskogee'}",0.0
+"{'en': 'Name=Konnector', 'cy': 'Name=Kysylltydd'}",0.2318059299191374
+"{'en': 'Issued To Organizational Unit', 'cy': 'Uned Corff (OU)'}",0.1536388140161725
+"{'en': 'Australia/Adelaide', 'cy': 'Awstralia/Adelaide'}",0.1940700808625337
+"{'en': '%s is not a valid location.', 'cy': 'Nid yw %s yn lleoliad dilys.'}",0.6145552560646901
+"{'en': 'Peterborough', 'cy': 'Peterborough'}",0.0377358490566037
+"{'en': 'Level file appears to be damaged: %s Please check your Nibbles installation', 'cy': 'Methodd Gnibbles lwytho ffeil lefel: %s Gwiriwch eich gosodiad Gnibbles os gwelwch yn dda'}",0.5390835579514824
+"{'en': '& Enable SOCKS support', 'cy': '& Galluogi cynhaliaeth SOCKS'}",0.3045822102425876
+"{'en': 'Control Center Modules', 'cy': 'Modiwlau Canolfan RheoliName'}",0.1536388140161725
+"{'en': 'Quang Nam', 'cy': 'vietnam. kgm'}",0.0
+"{'en': 'Europe/Sarajevo', 'cy': 'Ewrop/Sarajevo'}",0.1940700808625337
+"{'en': 'Play many different solitaire games', 'cy': 'Chwarae nifer o gemau amynedd gwahanol'}",0.2479784366576819
+"{'en': 'Set as _Background', 'cy': 'Gosodwch fel _Cefndir'}",0.3045822102425876
+"{'en': 'the jack of hearts', 'cy': 'jac y calonnau'}",0.3584905660377358
+"{'en': 'Disable fonts', 'cy': 'Dileu Wynebfathau'}",0.0377358490566037
+"{'en': 'Sweetwater', 'cy': 'Sweetwater'}",0.0377358490566037
+"{'en': 'Move selected file or folder to trash', 'cy': ""Symud y ffeil neu'r cyfeiriadur a ddewiswyd i'r sbwriel""}",0.3504043126684635
+"{'en': 'Music Folder', 'cy': 'Plygell Cerddoriaeth'}",0.0
+"{'en': 'GConf audio recording', 'cy': 'Recordydd sain GConf'}",0.1913746630727763
+"{'en': 'Hide if empty', 'cy': 'Cuddio os yn wag'}",0.2560646900269541
+"{'en': 'Could not contact the OpenSubtitles website', 'cy': ""Methodd Vanity gysylltu i'r camera gwe. Rheswm: %s""}",0.4150943396226415
+"{'en': 'Introduction phrase', 'cy': 'Ymadrodd cyflwyniad'}",0.0377358490566037
+"{'en': 'Africa/Maseru', 'cy': 'Affrica/Maseru'}",0.1940700808625337
+"{'en': 'A boolean that indicates whether the menu is torn-off', 'cy': ""Gwerth Boole sy'n penderfynu a chaiff y ddewislen ei rhwygo""}",0.3584905660377358
+"{'en': '_Select the language for your session to use:', 'cy': ""_Dewis iaith i'ch sesiwn i'w ddefnyddio:""}",0.5283018867924529
+"{'en': 'Yiddish', 'cy': 'YidegName'}",0.0
+"{'en': 'DLP response:', 'cy': 'Ymateb DLP:'}",0.2318059299191374
+"{'en': 'Lancaster', 'cy': 'Lancaster'}",0.0377358490566037
+"{'en': 'Lakeview', 'cy': 'Lakeview'}",0.0
+"{'en': 'Southend', 'cy': 'Southend'}",0.0
+"{'en': 'Paused', 'cy': 'Wedi seibio'}",0.0
+"{'en': 'Geneva', 'cy': 'Genoafrance. kgm'}",0.0
+"{'en': 'Move Titlebar On_screen', 'cy': 'Symud y Bar Teitl _ar y sgrin'}",0.3234501347708894
+"{'en': 'Coordinate expression contained unknown operator at the start of this text: ""%s""', 'cy': 'Mae\'r mynegiad cyfesuryn yn cynnwys gweithredwr anhysbys ar ddechrau\'r testun hwn: ""%s""'}",0.6037735849056604
+"{'en': 'Two Harbors', 'cy': 'Two Harbors'}",0.0377358490566037
+"{'en': ""Folder '%s' does not exist."", 'cy': ""Nid yw'r blygell `%s' yn bodoli.""}",0.5498652291105122
+"{'en': 'Unable to display help: %s', 'cy': 'Methwyd llwytho llun: %s'}",0.3611859838274932
+"{'en': 'Search forwards for the same text', 'cy': 'Chwilio am ymlaen am yr un llinyn'}",0.3584905660377358
+"{'en': 'Exception Handling', 'cy': 'Trin Gwall'}",0.0377358490566037
+"{'en': 'For reading and storing mail on IMAP servers.', 'cy': 'Er mwyn darllen a storio e-bost ar westeiwyr IMAP.'}",0.4932614555256065
+"{'en': 'Rhineland-Palatinate', 'cy': 'Rhineland-Palatinate'}",0.1940700808625337
+"{'en': 'Conflicting Contact:', 'cy': ""Cyswllt sy'n Gwrthdaro:""}",0.2318059299191374
+"{'en': '240x60 dpi', 'cy': '240x60 dpi'}",0.1132075471698113
+"{'en': 'Montserrat', 'cy': 'Monterrey'}",0.0
+"{'en': 'Issued To', 'cy': 'Cyhoeddwyd ar'}",0.0
+"{'en': 'The initial position of the window', 'cy': 'Safle cychwynnol y ffenestr'}",0.3584905660377358
+"{'en': '3.00', 'cy': '3. 00'}",0.1132075471698113
+"{'en': 'Polygons', 'cy': 'Polygonau'}",0.0377358490566037
+"{'en': 'Special Paste', 'cy': 'Gludo Arbennig'}",0.0
+"{'en': 'Ruby', 'cy': 'RubyCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Purposes', 'cy': 'Pwrpasau'}",0.0377358490566037
+"{'en': 'The Ziggurat', 'cy': 'Y Ziggurat'}",0.0646900269541779
+"{'en': 'Configure the browser plugins', 'cy': 'Ffurfweddu ategion y poryddName'}",0.3126684636118599
+"{'en': 'Whether tearoff menu items should be added to menus', 'cy': 'A ddylid ychwanegu eitemau dewislen rhwygo at ddewislenni'}",0.2938005390835579
+"{'en': 'America/Winnipeg', 'cy': 'America/Winnipeg'}",0.1940700808625337
+"{'en': 'Skip (Answer Known)', 'cy': 'Awdur:'}",0.2668463611859838
+"{'en': ""Couldn't allocate memory for saving BMP file"", 'cy': ""Methu dyrannu digon o gof er mwyn cadw'r ffeil BMP""}",0.3504043126684635
+"{'en': 'Skip _Forward', 'cy': 'Neidio _Ymlaen'}",0.1940700808625337
+"{'en': 'To Desktop', 'cy': ""I' r Penbwrdd""}",0.0
+"{'en': 'Mailer', 'cy': 'Ebostiwr'}",0.0
+"{'en': 'Enable caret mode, so that you can see a cursor when reading mail.', 'cy': 'Galluogi modd caret, fel eich bod yn medru gweld cyrchwr wrth ddarllen e-bost.'}",0.7466307277628034
+"{'en': 'Press this button to remove the selected color scheme. Note that this button is disabled if you do not have permission to delete the color scheme.', 'cy': ""Gwasgwch y botwm yma i waredu' r cynllun lliwiau dewisiedig. Noder bod y botwm yma' n analluog os nad oes gennych ganiatâd i ddileu' r cynllun lliwiau.""}",0.8867924528301887
+"{'en': 'Cachimbo', 'cy': 'Cachimbo'}",0.0377358490566037
+"{'en': 'Pacific/ Fakaofo', 'cy': 'Mor_ Tawel/ Ffacaoffo'}",0.1132075471698113
+"{'en': '_Visibility unit:', 'cy': 'Uned _gwelededd:meters'}",0.2318059299191374
+"{'en': 'gedit Preferences', 'cy': 'Hoffterau gedit'}",0.0377358490566037
+"{'en': '%a %m/%d/%Y %H', 'cy': '%a %d/%m/%Y %H'}",0.3692722371967655
+"{'en': 'America/Louisville', 'cy': 'America/Louisville'}",0.1940700808625337
+"{'en': 'Could not remove the source folder.', 'cy': 'Dydych chi ddim yn gallu symud y blygell sbwriel.'}",0.5579514824797844
+"{'en': 'DarkSeaGreen4', 'cy': 'MorWyrddTywyll4color'}",0.1132075471698113
+"{'en': 'TIME(10; 2; 2) returns 10:02:02', 'cy': 'Mae TIME( 10; 2; 2) yn dychwelyd 10: 02: 02'}",0.2668463611859838
+"{'en': 'Supported Extensions', 'cy': 'Estyniadau a Gynhelir'}",0.0377358490566037
+"{'en': 'United States of America', 'cy': 'abbreviated country name'}",0.1536388140161725
+"{'en': 'Pacific/ Galapagos', 'cy': 'Mor_ Tawel/ Galapagos'}",0.1132075471698113
+"{'en': 'Save board', 'cy': 'Cadw bwrdd'}",0.0377358490566037
+"{'en': 'DIV Style container', 'cy': 'Cynhwysydd arddull DIV'}",0.1913746630727763
+"{'en': '- Empathy Debugger', 'cy': 'Negesydd Parod'}",0.2668463611859838
+"{'en': '_URL:', 'cy': '_LAU:'}",0.2318059299191374
+"{'en': 'Network Settings', 'cy': 'Gosodiadau Rhwydwaith'}",0.0377358490566037
+"{'en': 'Re_place...', 'cy': '_Ailenwi...'}",0.2938005390835579
+"{'en': 'Bremen', 'cy': 'Bremen'}",0.0377358490566037
+"{'en': 'Session Name', 'cy': 'SesiwnThe number of open documents'}",0.0377358490566037
+"{'en': 'Hebrew Visual', 'cy': 'Hebraeg Gweladwy'}",0.0
+"{'en': 'Kailua', 'cy': 'Kailua-Kona'}",0.0377358490566037
+"{'en': 'The WMF image format', 'cy': 'Y fformat delwedd WMF'}",0.2560646900269542
+"{'en': 'Beginner', 'cy': 'Dechreuwr'}",0.0377358490566037
+"{'en': 'Scan', 'cy': 'Sganio'}",0.0
+"{'en': 'Thread(s) per core:', 'cy': 'Thread(s) per core:'}",0.3045822102425876
+"{'en': 'Russian Sun keymap', 'cy': 'Bysellfap Rwsieg Sun'}",0.1913746630727763
+"{'en': 'Asia/Urumqi', 'cy': 'Asia/Urumqi'}",0.1940700808625337
+"{'en': 'Graphics', 'cy': 'Graffeg'}",0.0377358490566037
+"{'en': '_Configure Login Manager...', 'cy': ""_Cyflunio'r Rheolydd Mewngofnodi...""}",0.4097035040431267
+"{'en': 'Cancel Owner Change?', 'cy': 'Diddymu Newid Perchennog?'}",0.4097035040431267
+"{'en': 'Configure the game', 'cy': ""Cyflunio'r gêm""}",0.3126684636118599
+"{'en': 'Yi', 'cy': 'Yi'}",0.0377358490566037
+"{'en': 'Re_versed Order', 'cy': 'Trefn _Wrthwynebol'}",0.1132075471698113
+"{'en': 'Supported volume units: l (liter), tsp (teaspoon), tbs (tablespoon), oz (ounce liquid), cup, pt (pint), qt (quart), gal (gallon), barrel, m3 (cubic meter), mi3 (cubic mile), Nmi3 (cubic Nautical mile), in3 (cubic inch), ft3 (cubic foot), yd3 (cubic yard), GRT or regton (gross register ton).', 'cy': 'Unedau cyfaint a gynhelir: l (litr), tsp (llwyaid de), tbs (llwyaid fwrdd), oz (owns hylifol), cwpanaid, pt (peint), qt (cwart), gal (galwyn), casgen, m3 (metr ciwbig), mi3 (milltir giwbig), Nmi3 (milltir fôr giwbig), in3 (modfedd giwbig), ft3 (troedfedd giwbig), yd3 (llathen giwbig).'}",0.6361185983827494
+"{'en': 'Remove the threes', 'cy': 'Tynnwch y trioedd'}",0.3126684636118599
+"{'en': 'Test options:', 'cy': 'Opsiynau profi:'}",0.2318059299191374
+"{'en': 'Show the second time zone', 'cy': 'Dangos y cwarel ""Rhagolwg""None'}",0.4150943396226415
+"{'en': 'Nanning', 'cy': 'Nanning'}",0.0377358490566037
+"{'en': 'Kana Supplement', 'cy': 'Atodiad Lladin-1'}",0.0
+"{'en': 'Plattsmouth', 'cy': 'Portsmouth'}",0.0377358490566037
+"{'en': 'Preparing to go offline...', 'cy': 'Cyfrif Exchange ddim ar-lein.'}",0.6064690026954179
+"{'en': 'tan', 'cy': 'tabcolor name'}",0.0
+"{'en': 'Custom Size', 'cy': 'Maint Addasedig'}",0.0
+"{'en': 'This is a fairly technical error in which an error occurred while attempting to accept an incoming network connection.', 'cy': 'Mae hwn yn wall go dechnegol, lle ddigwyddodd gwall wrth ceisio derbyn cysylltiad rhwydwaith cyrhaeddol.'}",0.7466307277628034
+"{'en': 'Show the next page', 'cy': 'Dangosir y dudalen nesaf'}",0.3584905660377358
+"{'en': 'Outgoing Message', 'cy': 'AllfyndComment'}",0.0377358490566037
+"{'en': 'Take a break!', 'cy': 'Cymerwch saib!'}",0.6711590296495957
+"{'en': 'kcmstyle', 'cy': 'kcmstyle'}",0.0
+"{'en': 'Incoming', 'cy': 'Dod I Mewn'}",0.0
+"{'en': 'Skövde', 'cy': 'Skövde'}",0.0377358490566037
+"{'en': ""_Include games you've already played in list of games to print"", 'cy': ""_Cynnwys gemau yr ydych chi wedi'u chwarae eisoes yn y rhestr o gemau i'w argraffu""}",0.5390835579514824
+"{'en': '_Speed:', 'cy': '_Cyflymder:'}",0.2318059299191374
+"{'en': 'Number of files:', 'cy': 'Ffeiliau:'}",0.3045822102425876
+"{'en': ""%s: Remote greeter not found or can't be executed by the GDM user"", 'cy': '%s: Cyfarchwr pell heb ei ganfod neu ni ellir ei weithredu gan y defnyddiwr GDM'}",0.5471698113207547
+"{'en': 'Usage', 'cy': 'Neges'}",0.0377358490566037
+"{'en': 'New layer', 'cy': 'Dim hunangadw'}",0.0377358490566037
+"{'en': '_Leave Fullscreen', 'cy': '_Gadael modd Sgrin Lawn'}",0.2506738544474393
+"{'en': 'Testing archive', 'cy': ""Yn profi'r archif""}",0.0377358490566037
+"{'en': 'Fort Wayne', 'cy': 'Fort Wayne'}",0.0
+"{'en': 'Cannot set time limit.', 'cy': 'Methu gosod cyfwng amser'}",0.6064690026954179
+"{'en': 'of May', 'cy': 'o Fai'}",0.1024258760107816
+"{'en': 'The Targa image format', 'cy': 'Y fformat delwedd Targa'}",0.2560646900269542
+"{'en': 'Local Network Browsing Here you setup your ""Network Neighborhood"". You can use either the LISa daemon and the lan: / ioslave, or the ResLISa daemon and the rlan: / ioslave. About the LAN ioslave configuration: If you select it, the ioslave, if available, will check whether the host supports this service when you open this host. Please note that paranoid people might consider even this to be an attack. Always means that you will always see the links for the services, regardless of whether they are actually offered by the host. Never means that you will never have the links to the services. In both cases you will not contact the host, so nobody will ever regard you as an attacker. More information about LISa can be found at the LISa Homepage or contact Alexander Neundorf & lt; neundorf@kde. org gt;.', 'cy': 'Pori Rhwydwaith Lleol Yma gallwch osod eich ""Bro Rhwydwaith"". Gallwch ddefnyddio naill ai\' r ellyll LISa a\' r caethwas- ma (ioslave) lan: /, neu\' r ellyll ResLISa a\' r caethwas- ma rlan: /. Am y ffurfweddiad caethwas- ma LAN: Os y\' i dewiswch, bydd y caethwas- ma, os yw ar gael, yn gwirio a yw\' r gweinydd yn cynnal y gwasanaeth yma pan agorwch y gwesteiwr yma. Noder y gallai pobl paranoiaidd ystyried hyd yn oed hyn yn ymosodiad. Golyga Bob amser y byddwch yn gweld y cysylltiadau i\' r gwasanaethau bob amser, os ydynt ar gael ar y gwesteiwr ai peidio. Golyga Byth na fydd gennych chi fyth gysylltiadau i\' r gwasanaethau. Yn y ddau fodd ni fyddwch yn cysylltu â\' r gwesteiwr, ac ni fydd neb yn eich ystyried yn ymosodwr. Mae mwy o wybodaeth ar LISa ar gael o Tudalen Gartref LISa neu cysylltwch âg Alexander Neundorf & lt; neundorf@ kde. org gt;.'}",0.8867924528301887
+"{'en': 'Evolution iCalendar importer', 'cy': 'Mewnforydd Evolution iCalendar'}",0.1913746630727763
+"{'en': 'Quality', 'cy': 'Ansawdd'}",0.0377358490566037
+"{'en': 'West Covina', 'cy': 'West Point'}",0.0
+"{'en': 'Close all Navigation windows', 'cy': 'Cau pob ffenest Llywio'}",0.3126684636118599
+"{'en': 'Inverness-shire', 'cy': 'great- britain_ counties. kgm'}",0.2318059299191374
+"{'en': 'C_onnect', 'cy': 'Cy_sylltu'}",0.1132075471698113
+"{'en': '& Insert', 'cy': 'Mewnosod Ffeil'}",0.1132075471698113
+"{'en': 'Search the web', 'cy': 'Chwilio\'r wehttp://www.google.nl"" and ""http://www.google.nl/search?q=%s'}",0.3126684636118599
+"{'en': 'Encrypt this message with PGP', 'cy': ""Amgryptio'r neges gyda PGP""}",0.4150943396226415
+"{'en': 'Browse', 'cy': 'Pori'}",0.0
+"{'en': 'The Kopete email window', 'cy': 'Y ffenestr sgwrs Kopete rhagosodName'}",0.2560646900269542
+"{'en': 'Overwrite File?', 'cy': 'Dinas:'}",0.3369272237196765
+"{'en': 'Toggle magnifier', 'cy': '_Chwyddwr'}",0.0377358490566037
+"{'en': 'Attendee status can not be updated because the item no longer exists', 'cy': 'Methu'}",0.5471698113207547
+"{'en': 'Eject the volume associated with the open folder', 'cy': 'Dewiswch y colofnau gweladwy yn y blygell hon'}",0.4150943396226415
+"{'en': 'Not embedded', 'cy': 'Heb ei Ymgorffori'}",0.0
+"{'en': 'Blues', 'cy': 'Y Felan'}",0.0377358490566037
+"{'en': 'of', 'cy': 'o'}",0.0
+"{'en': 'Set the reminder trigger time', 'cy': 'Amser larwm rhagosodedig:'}",0.3126684636118599
+"{'en': 'DeskJet 320', 'cy': 'DeskJet 320'}",0.1132075471698113
+"{'en': '_Saturation:', 'cy': '_Dirlawnder:'}",0.2318059299191374
+"{'en': 'Heading 3', 'cy': 'Pennawd H3'}",0.1132075471698113
+"{'en': 'Bountiful', 'cy': 'BountifulCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Hopkinsville', 'cy': 'HopkinsvilleCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Local changes will be lost when unsubscribing', 'cy': '@ info'}",0.2938005390835579
+"{'en': 'Enable arrows on hide buttons', 'cy': 'Galluogi saethau ar fotymau cuddio'}",0.2479784366576819
+"{'en': 'Tabas', 'cy': 'Tabasتبريز'}",0.0
+"{'en': 'Unexpected error in g_io_channel_win32_poll() reading data from a child process', 'cy': 'Gwall annisgwyl yn g_io_channel_win32_poll() wrth ddarllen data o broses plentyn'}",0.4150943396226415
+"{'en': 'Configure...', 'cy': 'Ffurfweddu...'}",0.2938005390835579
+"{'en': 'Romania', 'cy': 'Rwmania'}",0.0
+"{'en': 'Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &', 'cy': 'Ni orffennwyd yr endid gyda hanner-colon - mwy na thebyg y defnyddiwyd ampersand heb fwriadu dechrau endid - dylid defnyddio & yn lle'}",0.6037735849056604
+"{'en': 'Select a Time Zone', 'cy': 'Dewiswch Gylchfa Amser'}",0.2183288409703504
+"{'en': 'Elkins', 'cy': 'Elkins'}",0.0377358490566037
+"{'en': 'Unable to access location', 'cy': 'Methu cychwyn y rhaglen i losgi CD.'}",0.2479784366576819
+"{'en': 'Palestine', 'cy': 'Palestine'}",0.0
+"{'en': 'Use default drafts folder?', 'cy': 'Defnyddio plygell ddrafftiau rhagosodedig?'}",0.5040431266846361
+"{'en': 'Wheaton', 'cy': 'WheatonCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Print selection', 'cy': 'Dewis Wynebfath'}",0.0377358490566037
+"{'en': 'Date:', 'cy': 'Dyddiad'}",0.1509433962264151
+"{'en': 'Delete Mail', 'cy': 'Dileu Memo'}",0.0
+"{'en': 'The Pas', 'cy': 'The Pas'}",0.0646900269541779
+"{'en': 'Lights Off', 'cy': 'Wyth Bant'}",0.0
+"{'en': 'figure.xref Figure', 'cy': 'figure.xref Ffigwr'}",0.1509433962264151
+"{'en': 'October', 'cy': 'Hydref'}",0.0
+"{'en': 'jack of spades', 'cy': 'jac y rhawiau'}",0.1913746630727763
+"{'en': 'Save Calendar', 'cy': 'Calendr Newydd'}",0.0
+"{'en': 'Issued On', 'cy': 'Cyhoeddwyd ar'}",0.0
+"{'en': 'B3', 'cy': 'B3paper size'}",0.1132075471698113
+"{'en': 'Freeze', 'cy': 'RhewiDock this window'}",0.0
+"{'en': 'Alephone', 'cy': 'AlephoneComment'}",0.0377358490566037
+"{'en': 'Campo Grande', 'cy': 'Campo Grande'}",0.0
+"{'en': '_Allow', 'cy': 'Gad_ael'}",0.1132075471698113
+"{'en': 'Osceola', 'cy': 'Osceola'}",0.0
+"{'en': 'Any Printer', 'cy': 'Argraffydd'}",0.0646900269541779
+"{'en': '(%1%2: %3)', 'cy': '(% 1% 2:% 3) prefix + hours: minutes'}",0.2318059299191374
+"{'en': 'No applications found', 'cy': 'Dim Rhaglen wedi ei Gysylltu'}",0.2560646900269542
+"{'en': 'Cape Girardeau', 'cy': 'Cape GirardeauCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Braunschweig', 'cy': 'Braunschweig'}",0.0
+"{'en': '_Remember this password', 'cy': ""_Cofio'r cyfrinair yma""}",0.4258760107816711
+"{'en': ""'Sans 11'"", 'cy': 'Sans 11'}",0.1940700808625337
+"{'en': 'Hickory', 'cy': 'HickoryCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Modify Slide Transition For All Pages', 'cy': 'Cynyddu Maint Wynebfath'}",0.4150943396226415
+"{'en': 'XDG Icons', 'cy': 'Eiconau'}",0.0377358490566037
+"{'en': 'Contact List:', 'cy': 'Rhestr Gyswllt:'}",0.2318059299191374
+"{'en': 'Farmingdale', 'cy': 'Farmingdale'}",0.0
+"{'en': 'NetHack', 'cy': 'NetHackGenericName'}",0.0377358490566037
+"{'en': 'Site:', 'cy': 'Teitl:'}",0.1509433962264151
+"{'en': 'America/Rosario', 'cy': 'America/Rosario'}",0.1940700808625337
+"{'en': 'Save Gallery', 'cy': 'Cadw FfeilGallery"", and not the "".jpgGalerie-%s-%d.jpg'}",0.0
+"{'en': 'Company', 'cy': 'Cwmni'}",0.0377358490566037
+"{'en': 'Europe/Madrid', 'cy': 'Ewrop/Madrid'}",0.1940700808625337
+"{'en': 'Generate a _D-Bus message', 'cy': 'Creu neges _D-Bus'}",0.4258760107816711
+"{'en': 'Print Frame Some pages have several frames. To print only a single frame, click on it and then use this function.', 'cy': 'Argraffu FframMae gan rhai tudalennau fwy nag un ffram. I argraffu dim ond un ffram, cliciwch arno, ac wedyn defnyddiwch y ffwythiant yma.'}",0.7466307277628034
+"{'en': '100', 'cy': '100'}",0.1132075471698113
+"{'en': '_Rate:', 'cy': '_Cyfradd:'}",0.2318059299191374
+"{'en': 'Vienna', 'cy': 'Wien'}",0.0
+"{'en': 'Rome', 'cy': 'Rhufain'}",0.0
+"{'en': 'Height', 'cy': 'Uchder'}",0.0377358490566037
+"{'en': 'Match five objects of the same type in a row to score!', 'cy': ""Sgoriwch gan roi pump neu fwy o beli o'r un lliw mewn rhes!""}",0.7466307277628034
+"{'en': 'Icelandic keymap', 'cy': 'Bysellfap Islandeg'}",0.0377358490566037
+"{'en': 'Europe/Vaduz', 'cy': 'Ewrop/Vaduz'}",0.1940700808625337
+"{'en': 'Connect to', 'cy': '& Disgrifiad:'}",0.0
+"{'en': 'Absolute Value', 'cy': 'Gwerth diamod [u]'}",0.0
+"{'en': 'Taegu Ab', 'cy': 'Taegu Ab'}",0.0
+"{'en': 'Confirm Remove', 'cy': 'Golygu Rhif Ffôn'}",0.0566037735849056
+"{'en': 'Two Sided', 'cy': 'Two Sided'}",0.0
+"{'en': '_Shortcut keys:', 'cy': 'Bysellau _Byrlwybr:'}",0.2318059299191374
+"{'en': 'Error: %s is not a valid interface name', 'cy': ""dydy '%s' ddim yn enw dilys""}",0.4716981132075472
+"{'en': 'Running...', 'cy': 'Gweithredu...'}",0.2560646900269541
+"{'en': 'Not enough memory', 'cy': 'allan o gof'}",0.2938005390835579
+"{'en': 'The server is running Exchange 5.5. Exchange Connector supports Microsoft Exchange 2000 and 2003 only.', 'cy': ""Mae'r LAU gweinydd Exchange wnaethoch chi ei roi yn cyfeirio at weinydd Exchange 5.5. Dim ond Microsoft Exchange 2000 a 2003 mae Ximian Connector yn eu cynnal.""}",0.8598382749326147
+"{'en': 'Game over! The game has been won by %s!', 'cy': 'Gêm ar ben! %s wnaeth ennill!'}",0.5013477088948788
+"{'en': 'British Virgin Islands', 'cy': 'Ynysoedd y Wyryf'}",0.1536388140161725
+"{'en': 'SMTP server %s does not support %s authentication', 'cy': ""Nid yw'r gwesteiwr SMTP %s yn cynnal y modd dilysiant %s.""}",0.4636118598382749
+"{'en': 'Cannot move folder ""{0}"" to ""{1}"".', 'cy': 'Methu symud plygell ""{0}"" i ""{1}"".'}",0.6064690026954179
+"{'en': 'Theme', 'cy': 'Thema'}",0.0377358490566037
+"{'en': 'EFFECT(nominal; periods)', 'cy': 'EFFECT( enwol; cyfnodau)'}",0.2318059299191374
+"{'en': 'Due', 'cy': 'Amser Disgwyl'}",0.0
+"{'en': 'If true, the panel will occupy the entire screen width (height if this is a vertical panel). In this mode the panel can only be placed at a screen edge. If false, the panel will only be large enough to accommodate the applets, launchers and buttons on the panel.', 'cy': 'Os yn wir, fe fydd y panel yn defnyddio holl led y sgrin (uchder os mae hwn yn banel fertigol). Yn y modd yma gellir gosod y panel hwn ar ymyl sgrin yn unig. Os yn anwir, fe fydd y panel dim ond yn ddigon mawr i ddal y Rhaglenigion, lanswyr a botymau ar y panel.'}",0.8867924528301887
+"{'en': 'No filename to save to', 'cy': 'Dim enw ffeil i gadw ato.'}",0.4986522911051212
+"{'en': 'Page Setup', 'cy': 'Gosodiad Tudalen'}",0.0
+"{'en': 'Create a new proxy profile', 'cy': 'Creu apwyntiad newydd'}",0.3126684636118599
+"{'en': 'Yi', 'cy': 'Yi'}",0.0377358490566037
+"{'en': 'Could you not access ""Digital Persona U.are.U 4000/4000B', 'cy': 'Could you not access ""Digital Persona U.are.U 4000/4000B'}",0.4258760107816712
+"{'en': ""Sums'ka oblast '"", 'cy': 'ukraine. kgm'}",0.3045822102425876
+"{'en': 'Player Group', 'cy': 'Grŵp Chwaraewr'}",0.0
+"{'en': 'On battery power', 'cy': 'Ar bŵer batri'}",0.1913746630727763
+"{'en': 'Return 0 if gconfd is running, 2 if not.', 'cy': 'Dychwelyd 0 os yw gconfd yn rhedeg, 2 os nad ydyw.'}",0.5498652291105122
+"{'en': 'Horizontal rule', 'cy': 'Llinell lorweddol'}",0.0377358490566037
+"{'en': 'Are you sure you want to save the task without a summary?', 'cy': ""Ydych chi'n siŵr eich bod am anfon y dasg heb grynodeb?""}",0.7466307277628034
+"{'en': 'The event or task to be canceled could not be removed from your calendar. Maybe it has already been deleted or is not owned by you. Or it might belong to a read-only or disabled calendar.', 'cy': '@ info'}",0.8301886792452831
+"{'en': 'Selawik', 'cy': 'Selawik'}",0.0
+"{'en': 'Playlist', 'cy': 'Rhestr Chwarae'}",0.0377358490566037
+"{'en': '_Teleport', 'cy': '_Llamu'}",0.1509433962264151
+"{'en': 'Custom tabs for this text', 'cy': 'Tabiau addasedig ar gyfer y testun yma'}",0.3584905660377358
+"{'en': 'Evaluate', 'cy': 'Eval'}",0.0
+"{'en': 'All items in the Trash will be permanently deleted.', 'cy': ""Os ydych chi'n clirio'r rhestr lleoliadau, caent eu dileu am byth.""}",0.5013477088948788
+"{'en': 'Displace focus', 'cy': ""Dadleoli'r ffocws""}",0.0377358490566037
+"{'en': 'Error launching preview', 'cy': 'Gwall wrth lansio rhagolwg'}",0.1913746630727763
+"{'en': 'Open the memory maps associated with a process', 'cy': 'Agor y mapiau cof a gysylltir â phroses'}",0.4150943396226415
+"{'en': '_Title Case', 'cy': 'prif lythrennedd _Teitl'}",0.1940700808625337
+"{'en': '2nd', 'cy': '2il'}",0.1132075471698113
+"{'en': ""Proxy protocol '%s' is not supported."", 'cy': 'Dydy %s heb ei ddosbarthu'}",0.5498652291105122
+"{'en': 'German', 'cy': 'AlmaenegName'}",0.0
+"{'en': '2 pair Same Color [total]', 'cy': '2 bâr yr Un Lliw [cyfanswm]'}",0.3045822102425876
+"{'en': 'Search F_olders', 'cy': 'Chwilio _Plygellau'}",0.1509433962264151
+"{'en': 'As custom color:', 'cy': 'Fel lliw _addasedig:'}",0.3045822102425876
+"{'en': 'upsilon', 'cy': 'AustinCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Paste the text stored on the clipboard', 'cy': ""Gludo'r testun sydd ar y clipfwrdd""}",0.4150943396226415
+"{'en': 'Internet time', 'cy': 'Amser rhyngrwyd'}",0.0377358490566037
+"{'en': 'A flag to enable the toolbar', 'cy': ""Fflag i alluogi'r bar offer""}",0.4150943396226415
+"{'en': '_Close Tab', 'cy': '_Cau'}",0.1940700808625337
+"{'en': 'Gold', 'cy': 'Aur'}",0.0377358490566037
+"{'en': 'ISREF(A12) returns true', 'cy': 'Mae ISREF( A12) yn dychwelyd Gwir'}",0.2668463611859838
+"{'en': 'Linear', 'cy': 'Llinol'}",0.0
+"{'en': 'Stop sound', 'cy': 'Atal sain'}",0.0377358490566037
+"{'en': 'Level one', 'cy': 'Lefel un'}",0.0377358490566037
+"{'en': 'Enter password for PKCS12 file:', 'cy': 'Rhowch gyfrinair ar gyfer ffeil PKCS12:'}",0.3611859838274932
+"{'en': 'Full House Same Color [20 + total]', 'cy': 'Tŷ Llawn Yr Un Lliw [20 + y cyfanswm]'}",0.4070080862533693
+"{'en': 'Melilla', 'cy': 'MelillaCity name (optional, probably does not need a translation)'}",0.0
+"{'en': '_Import Bookmarks…', 'cy': 'Mewnforio Llyfrnodau'}",0.1940700808625337
+"{'en': 'TRUE if the Position property should be used', 'cy': ""TRUE os dylid defnyddio'r briodwedd Safle""}",0.3584905660377358
+"{'en': 'Default folder', 'cy': 'Darfod & # 160;...'}",0.0377358490566037
+"{'en': 'Backend display name', 'cy': 'Enw dangosydd ochr gefn'}",0.1913746630727763
+"{'en': 'Frame style already has a piece at position %s', 'cy': 'May gan arddull y ffrâm darn yn lleoliad %s yn barod'}",0.4150943396226415
+"{'en': 'Alexandroupoli', 'cy': 'Alexandroupoli'}",0.0377358490566037
+"{'en': 'Brought to you by:', 'cy': 'Daethpwyd atoch gan:'}",0.3692722371967655
+"{'en': 'Percent', 'cy': 'Canran'}",0.0377358490566037
+"{'en': 'Maximum possible value for Y', 'cy': 'Gwerth mwyaf posib Y'}",0.1913746630727763
+"{'en': 'Accelerator', 'cy': 'Analluogwyd'}",0.0
+"{'en': 'Shade', 'cy': 'Rholio'}",0.0377358490566037
+"{'en': 'Louisville', 'cy': 'Louisville'}",0.0
+"{'en': ""Key file contains key '%s' with value '%s' which is not UTF-8"", 'cy': ""Ffeil allwedd yn cynnwys yr allwedd '%s' gyda'r gwerth '%s' nad yw'n UTF-8""}",0.6522911051212937
+"{'en': 'Initialize session from savefile', 'cy': 'Cychwyn sesiwn o ffeil'}",0.1913746630727763
+"{'en': 'Darlington', 'cy': 'Darlington'}",0.0
+"{'en': '_Save', 'cy': '_Cadw'}",0.1132075471698113
+"{'en': 'No column titles specified for List dialog.', 'cy': 'Dim teitlau colofnau wedi eu penodi ar gyfer deialog Rhestr.'}",0.5013477088948788
+"{'en': ""Error saving GConf tree to '%s': %s"", 'cy': ""Gwall wrth arbed coeden GConf at '%s': %s""}",0.3611859838274932
+"{'en': 'Disappear to Left/ Bottom', 'cy': 'Dyblygu Gwrthrych'}",0.3692722371967655
+"{'en': 'Text-to-Speech Settings', 'cy': 'Pellhàu'}",0.2318059299191374
+"{'en': 'Katakana', 'cy': 'Katakana'}",0.0
+"{'en': 'Applications', 'cy': 'Rhaglenni'}",0.0377358490566037
+"{'en': '_Replace', 'cy': '_Amnewid'}",0.1132075471698113
+"{'en': 'Number to be normalized', 'cy': ""Rhif i' w normaleiddio""}",0.2938005390835579
+"{'en': 'Logo', 'cy': 'Logo'}",0.0
+"{'en': 'Window to Desktop 14', 'cy': 'Ffenestr i Benbwrdd 15'}",0.3045822102425876
+"{'en': 'Decimal number', 'cy': 'Rhif Degol'}",0.0377358490566037
+"{'en': 'Lake Minchumina', 'cy': 'Minchumina'}",0.0
+"{'en': 'Cannot start new display', 'cy': 'Ni ellir cychwyn dangosydd newydd'}",0.3504043126684635
+"{'en': 'Player Names', 'cy': 'Enwau Chwaraewyr'}",0.0
+"{'en': 'Move the whole group', 'cy': 'Dim detholiad'}",0.4150943396226415
+"{'en': 'Tali Preferences', 'cy': 'Hoffterau Tali'}",0.0
+"{'en': 'URL:', 'cy': 'URL:'}",0.1509433962264151
+"{'en': 'Installing', 'cy': 'Sefydlu'}",0.0
+"{'en': 'Signatures', 'cy': 'Llofnodion'}",0.0377358490566037
+"{'en': 'Game score from last saved session.', 'cy': ""Sgôr o'r sesiwn a gafodd ei gadw diwethaf.""}",0.4366576819407008
+"{'en': 'Treviso', 'cy': 'TrevisoCity name (optional, probably does not need a translation)'}",0.0377358490566037
+"{'en': 'Quelimane', 'cy': 'QuelimaneRangoonYangon'}",0.0
+"{'en': 'Identifier', 'cy': 'Addaswyr'}",0.0377358490566037
+"{'en': 'America/Dawson_Creek', 'cy': 'America/Dawson_Creek'}",0.1940700808625337
+"{'en': 'Keywords', 'cy': 'Allweddeiriau'}",0.0377358490566037
+"{'en': 'Australia/ Perth', 'cy': 'Awstralia/ Perth'}",0.1698113207547169
+"{'en': 'Color 6', 'cy': 'Lliwiau VIM'}",0.1132075471698113
+"{'en': 'Monospace 9', 'cy': 'Monospace 9'}",0.1509433962264151
+"{'en': 'Telephonebook Search Provider', 'cy': 'Darparydd Chwiliadau Llyfr FfônQuery'}",0.1536388140161725
+"{'en': 'Guangzhou', 'cy': 'Guangzhou'}",0.0
+"{'en': ""Folder names cannot contain '/'"", 'cy': ""Ni all enwau plygellau gynnwys '/'folder-display""}",0.2938005390835579
+"{'en': 'Graphics:', 'cy': 'Graffeg:'}",0.1509433962264151
+"{'en': 'Print version', 'cy': 'Argraffu fersiwn'}",0.0377358490566037
+"{'en': 'Copying Files', 'cy': 'Copïo ffeiliau'}",0.0566037735849056
+"{'en': 'Root Volume', 'cy': 'Cyfrol Gwraidd'}",0.0
+"{'en': 'Last Output', 'cy': 'Allbwn Diwethaf'}",0.0377358490566037
+"{'en': 'Color profiles directory (%s) is unavailable.', 'cy': ""Nid yw'r cyfeiriadur proffiliau lliw (%s) ar gael.""}",0.4474393530997305
+"{'en': 'Si_ze at most', 'cy': 'Maint _hyd at'}",0.3692722371967655
+"{'en': 'Europe/Vatican', 'cy': 'Ewrop/Fatican'}",0.1940700808625337
+"{'en': 'Terminate Applications', 'cy': 'Cymhwysiadau TerfynellComment'}",0.0943396226415094
+"{'en': 'Element is not allowed inside a name/author/date/description element', 'cy': 'Ni chaniateir yr elfen o fewn elfen name/author/date/description'}",0.3584905660377358
+"{'en': '& Export Times...', 'cy': '& Allforio'}",0.4097035040431267
+"{'en': 'Unknown Volume Control %d', 'cy': 'Rheolydd Lefel Sain Anhysbys %d'}",0.3045822102425876
+"{'en': 'Name of theme RC file to load', 'cy': ""Enw'r ffeil RC thema i'w lwytho""}",0.2938005390835579
+"{'en': 'Append to current document', 'cy': 'Atodi at y ddogfen bresennol'}",0.1913746630727763
+"{'en': 'Complete the puzzle by matching numbered tiles', 'cy': ""Gorffennwch y pos drwy baru'r teils rhif""}",0.4150943396226415
+"{'en': 'Re_fresh rate:', 'cy': 'Cyfradd _adnewyddu:'}",0.2318059299191374
+"{'en': 'Paper Source', 'cy': 'Ffynhonnell y Papur'}",0.0377358490566037
+"{'en': 'Anonymous', 'cy': 'Dienw'}",0.0
+"{'en': 'Untitled appointment', 'cy': 'Apwyntiad dideitl'}",0.0377358490566037
+"{'en': 'Welcome to the Evolution Mail Configuration Assistant. Click ""Continue"" to begin.', 'cy': 'Croeso i Gynorthwywr Cyfluniad Ebost Evolution. Cliciwch ""Ymlaen"" i ddechrau.'}",0.822102425876011
+"{'en': 'Nice', 'cy': 'Neis'}",0.0
+"{'en': 'Rename the selected lesson', 'cy': '& Mynegiad:'}",0.3126684636118599
+"{'en': 'Game choice: Regular or Colors', 'cy': 'Dewis gem: Arferol neu Liwiau'}",0.1913746630727763
+"{'en': 'c', 'cy': 'cpaper size'}",0.0377358490566037
+"{'en': 'The contrast of the video', 'cy': 'Cyferbyniad y fideo'}",0.4986522911051212
+"{'en': 'A4x4', 'cy': 'A4x4paper size'}",0.1509433962264151
+"{'en': 'Field', 'cy': 'Maes'}",0.0377358490566037
+"{'en': 'Delete Folder', 'cy': 'Dileu Plygell'}",0.0
+"{'en': ""N'Djamena"", 'cy': 'Ndjamena'}",0.1132075471698113
+"{'en': 'Center', 'cy': 'Canoli'}",0.0377358490566037
+"{'en': 'DAY(""2/ 22/ 2002 "") returns 22', 'cy': 'Mae DAY (""2/ 22/ 2002"") yn dychwelyd 22'}",0.2668463611859838
+"{'en': 'Down', 'cy': 'I Lawr'}",0.0
+"{'en': 'Kerman', 'cy': 'Kerman'}",0.0377358490566037
+"{'en': 'Please edit this group name', 'cy': 'Rhowch eich enw defnyddiwr:'}",0.4150943396226415
+"{'en': 'Porto-Novo', 'cy': 'Portorož'}",0.1940700808625337
+"{'en': 'Number of embedded objects:', 'cy': 'O Flaen'}",0.3045822102425876
+"{'en': 'Print all key/value pairs in a directory.', 'cy': 'Argraffu pob pâr allwedd/gwerth mewn cyfeiriadur.'}",0.6145552560646901
+"{'en': 'The game has been abandoned', 'cy': 'Gêm ar ben! %s wnaeth ennill!'}",0.3584905660377358
+"{'en': 'Warning message box with continue/ cancel buttons', 'cy': 'Blwch neges rybydd â botymau mynd ymlaen/ diddymu'}",0.1913746630727763
+"{'en': '%s: Cannot start greeter with gtk modules: %s. Trying without modules', 'cy': '%s: Ni ellir cychwyn y cyfarchwr gyda modylau gtk: %s. Yn ceisio heb fodylau.'}",0.6522911051212937
+"{'en': 'Cheju', 'cy': 'Cheju'}",0.0377358490566037
+"{'en': 'Dar es Salaam', 'cy': 'Dar Es Salaam'}",0.1536388140161725
+"{'en': 'Soft bevel, slightly depressed middle', 'cy': 'Befel meddal, wedi cywasgu ychydig yn y canol'}",0.1913746630727763
+"{'en': 'OnDblClick event', 'cy': ""Digwyddiad wrth glicio'n ddwbl""}",0.0377358490566037
+"{'en': 'Holzdorf', 'cy': 'Holzdorf'}",0.0
+"{'en': 'Markup column', 'cy': 'Colofn tagdestun'}",0.0377358490566037
+"{'en': 'Window Behavior Configuration Module', 'cy': 'Modiwl Ffurfweddu Ymddygiad Ffenestri'}",0.1536388140161725
+"{'en': 'Minimum height of buttons inside the box', 'cy': 'Hyd lleiaf y botymau a roddir o fewn y blwch'}",0.3584905660377358
+"{'en': '%s has replied to a task assignment.', 'cy': 'Mae %s wedi ymateb i neilltuad tasg.'}",0.6145552560646901
+"{'en': 'KOffice Word Processor', 'cy': 'Prosesydd Geiriau KWord'}",0.1536388140161725
+"{'en': 'The part %1 of the message is encrypted. Do you want to keep the encryption when saving?', 'cy': ""Mae' r rhan yma o' r neges wedi' i chêl- ysgrifo. Ydych eisiau dal y cêl- ysgrifaeth wrth gadw?""}",0.7466307277628034
+"{'en': 'Reggae', 'cy': 'Reggae'}",0.0
+"{'en': 'Val-de-Marne', 'cy': 'Val- de- Marnefrance. kgm'}",0.2318059299191374
+"{'en': '_Help', 'cy': 'C_ymorth'}",0.1132075471698113
+"{'en': 'Open with:', 'cy': 'Agor Efo:'}",0.1940700808625337
+"{'en': 'Change software repository', 'cy': 'Newid cronfa meddalwedd'}",0.2479784366576819
+"{'en': 'TrueType', 'cy': 'TrueType'}",0.0377358490566037
+"{'en': 'Key press to pause.', 'cy': 'Y fysell i wasgu er mwyn seibio.'}",0.4474393530997305
+"{'en': 'GNOME Desktop Manager', 'cy': 'Rheolydd Penbwrdd GNOME'}",0.1536388140161725
+"{'en': 'Beaufort force %.1f', 'cy': 'Grym Beaufort %.1f'}",0.3045822102425876
+"{'en': 'Dasher Preferences', 'cy': 'Hoffterau Dasher'}",0.0
+"{'en': 'Blackpool', 'cy': 'Blackpool'}",0.0
+"{'en': '_Run', 'cy': '_Gweithredu'}",0.1132075471698113
+"{'en': '%m/%d/%Y', 'cy': '%d/%m/%Y'}",0.1509433962264151
+"{'en': '& Clear List of Crashes', 'cy': '& Gwaredu Rhestr Chwalfeydd'}",0.1536388140161725
+"{'en': 'Waukesha', 'cy': 'Waukesha'}",0.0
+"{'en': 'Whether or not the status icon is visible', 'cy': ""A ydy'r eicon statws yn weladwy ai peidio""}",0.3584905660377358
+"{'en': 'Ann Arbor', 'cy': 'Ann Arbor'}",0.0
+"{'en': 'Williamsburg', 'cy': 'Williamsburg'}",0.0
+"{'en': 'Drag and drop is not supported.', 'cy': 'Ni chynhelir llusgo a gollwng.'}",0.4366576819407008
+"{'en': 'Process Name', 'cy': 'Enw Proses'}",0.0377358490566037
+"{'en': 'Key to move SW', 'cy': 'Bysell i symud DeOrll'}",0.3126684636118598
+"{'en': 'Are you sure you want to delete this contact list?', 'cy': ""Ydych chi'n siŵr eich bod am ddileu'r rhestrau cysylltiadau hyn?""}",0.5579514824797844
+"{'en': 'Move %s onto %s.', 'cy': 'Symud %s ar %s.'}",0.5498652291105122
+"{'en': 'List of audio recording profiles. The list contains strings naming subdirectories relative to /system/gstreamer/@GST_MAJORMINOR@/audio/profiles.', 'cy': ""Rhestr o broffiliau recordio sain. Mae'r rhestr yn cynnwys llinellau sy'n enwi is-gyfeiriaduron o safbwynt /system/gstreamer/@GST_MAJORMINOR@/audio/profiles.""}",0.7466307277628034
+"{'en': 'Lewistown', 'cy': 'LewistownCity name (optional, probably does not need a translation)'}",0.0377358490566037
+"{'en': 'Torrejón del Rey', 'cy': 'Torrejón'}",0.1536388140161725
+"{'en': 'By _Type', 'cy': 'Yn Ôl _Math'}",0.2318059299191374
+"{'en': 'Maximum _pending requests:', 'cy': 'Uchafrif ceisiadau fydd yn _disgwyl:'}",0.3045822102425876
+"{'en': 'vCard for %s', 'cy': 'vCard ar gyfer %s'}",0.3045822102425876
+"{'en': 'Set initial percentage', 'cy': 'Gosod y canran cychwynnol'}",0.1913746630727763
+"{'en': '- GNOME Splash Screen', 'cy': 'Delwedd y Sgrin Gychwyn'}",0.2668463611859838
+"{'en': '(c) 1999 - 2001 The Konqueror Developers', 'cy': 'Trefnu dychweliadus'}",0.3692722371967655
+"{'en': 'The startup command cannot be empty', 'cy': 'Ni chaiff y gorchymyn wrth gychwyn fod yn wag'}",0.3584905660377358
+"{'en': '100 KB', 'cy': '100 KB'}",0.1132075471698113
+"{'en': 'Certificate import failed', 'cy': ""Methwyd mewnforio'r dystysgrif""}",0.1913746630727763
+"{'en': 'Storing folder', 'cy': 'Storio plygell'}",0.0943396226415094
+"{'en': 'Faßberg', 'cy': 'Faßberg'}",0.0
+"{'en': 'Tree View Defaults', 'cy': 'Golwg Coeden Rhagosod'}",0.1913746630727763
+"{'en': 'Pontiac', 'cy': 'Pontiac'}",0.0377358490566037
+"{'en': 'Switch between workspaces', 'cy': 'Newid rhwng mannau gwaith'}",0.1913746630727763
+"{'en': 'Error verifying signature: %s', 'cy': 'Gwall wrth wirio llofnod'}",0.3045822102425876
+"{'en': 'Unselect all', 'cy': 'Sefydlu'}",0.0566037735849056
+"{'en': 'Africa/Cairo', 'cy': 'Affrica/Cairo'}",0.1940700808625337
+"{'en': 'Month Calendar', 'cy': 'Calendr Mis'}",0.0
+"{'en': 'Could not Launch Browser', 'cy': 'Methodd gychwyn Porydd'}",0.3126684636118598
+"{'en': 'Normal', 'cy': 'Arferol'}",0.0
+"{'en': 'Could not open console.', 'cy': 'Methu agor consol.'}",0.6064690026954179
+"{'en': 'Corrientes', 'cy': 'CorrientesCity in Argentina'}",0.0377358490566037
+"{'en': 'Africa/Cairo', 'cy': 'Affrica/Cairo'}",0.1940700808625337
+"{'en': 'Enter the addresses that will receive a carbon copy of the message', 'cy': ""Rhowch y cyfeiriadau fydd yn derbyn copi carbon o'r neges""}",0.6037735849056604
+"{'en': 'Ignore this word only once', 'cy': ""Anwybyddu'r gair hwn unwaith yn unig""}",0.4150943396226415
+"{'en': ""Error reading file '%s': %s"", 'cy': ""Gwall tra'n darllen y ffeil '%s': %s""}",0.3045822102425876
+"{'en': 'the four of clubs', 'cy': 'pedwar y clybiau'}",0.3584905660377358
+"{'en': 'Font size', 'cy': 'Maint y ffont'}",0.0377358490566037
+"{'en': '_2 significant places', 'cy': '_2 rhif ystyrlon'}",0.3045822102425876
+"{'en': 'Address book source', 'cy': 'Priodweddau Llyfr Cyfeiriadau'}",0.1913746630727763
+"{'en': 'Volume Applet', 'cy': 'Rhaglennig Uchder Sain'}",0.0
+"{'en': 'Check whether Evolution is the default mailer', 'cy': ""Gwirio ai Evolution yw'r rhaglen e-bost ragosodedig""}",0.3584905660377358
+"{'en': 'Find', 'cy': 'Chwilio'}",0.0
+"{'en': 'Clear', 'cy': 'ClearCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'Favorite', 'cy': 'Ffefryn'}",0.0
+"{'en': 'Central European', 'cy': 'Canol Ewrop'}",0.0
+"{'en': 'PrintPreview', 'cy': 'Dangos Bar Cyflwr@ action'}",0.0377358490566037
+"{'en': 'Ormond Beach', 'cy': 'Long Beach'}",0.0
+"{'en': 'calendar:week_start:0', 'cy': 'calendar:week_start:12000year measurement template'}",0.2318059299191374
+"{'en': 'File to transform', 'cy': 'Ffeil i agor'}",0.1913746630727763
+"{'en': ""Set this to positive values to indicate that some progress is made, but you don't know how much."", 'cy': 'Gosod hwn yn bositif i ddangos fod cynnydd wedi ei wneud, ond cynnydd o faint anhysbys.'}",0.7466307277628034
+"{'en': 'Zangilan', 'cy': 'Manilabrazil. kgm'}",0.0
+"{'en': 'Play a sound when a contact logs in', 'cy': 'Chwarae sain pan mae negeseuon yn cyrraedd'}",0.4150943396226415
+"{'en': 'UserId', 'cy': 'Dynodiad Defnyddiwr'}",0.0
+"{'en': 'Calculating percentage bars…', 'cy': 'Cyfrif y barrau canran...'}",0.2479784366576819
+"{'en': 'Prompt when mailing list hijacks private replies', 'cy': 'Promptio wrth farcio mwy nag un neges'}",0.2479784366576819
+"{'en': 'Encrypting message', 'cy': 'Amgryptio neges'}",0.0943396226415094
+"{'en': 'The theme for this game failed to render. Please check that Klotski is installed correctly.', 'cy': ""Methodd y thema ar gyfer y gêm rendro. %s Gwiriwch fod Klotski wedi ei sefydlu'n gywir.""}",0.6900269541778976
+"{'en': 'Field Name', 'cy': 'Enw Maes'}",0.0
+"{'en': 'Wheaton', 'cy': 'Wheaton'}",0.0
+"{'en': 'Now patterns remain fixed when objects are transformed (moved, scaled, rotated, or skewed).', 'cy': 'string"" in ""context_BAR_string'}",0.7385444743935311
+"{'en': 'Amman', 'cy': 'Amman'}",0.0
+"{'en': '(c) 2002 Daniel Molkentin', 'cy': '(h) (c) 2002 Daniel Molkentin'}",0.3045822102425876
+"{'en': 'two of spades', 'cy': ""dau'r rhawiau""}",0.2938005390835579
+"{'en': 'LaTeX With PSTricks macros (*.tex)', 'cy': 'LaTeX gyda macros PSTricks (*.tex)'}",0.1913746630727763
+"{'en': '_Undo Create from Template', 'cy': 'Creu Dogfen o\'r templed ""%s""'}",0.3045822102425876
+"{'en': 'Run Application...', 'cy': 'Rhedeg Rhaglen...'}",0.3369272237196765
+"{'en': 'I_mport', 'cy': '_Mewnforio'}",0.1509433962264151
+"{'en': 'Track number:', 'cy': 'Rhif trac:'}",0.2318059299191374
+"{'en': '_Decline', 'cy': '_Gwrthod'}",0.1132075471698113
+"{'en': 'Pacific/ Noumea', 'cy': 'Mor_ Tawel/ Noumea'}",0.1132075471698113
+"{'en': '_Ticker symbol:', 'cy': 'Symbol ar y _ticiwr:'}",0.2318059299191374
+"{'en': 'Forward history', 'cy': ""Rhestr o'r safleoedd yn dilyn hwn""}",0.0377358490566037
+"{'en': 'Application', 'cy': 'Rhaglen'}",0.0377358490566037
+"{'en': 'Number of units for determining when to hide tasks', 'cy': 'Nifer o unedau i benderfynu pryd i guddio tasgau.'}",0.3504043126684635
+"{'en': 'MSN Home Screen Name 1', 'cy': 'Enw Sgrin Cartref 1 MSN'}",0.1536388140161725
+"{'en': 'Move ~a onto an empty edge slot.', 'cy': 'Symud ~a i faes gwag'}",0.6711590296495957
+"{'en': 'Tarbes', 'cy': 'Tarbesfrance. kgm'}",0.0377358490566037
+"{'en': 'Vertical Forms', 'cy': 'Ffurfiau Fertigol'}",0.0377358490566037
+"{'en': 'Whether to draw the Marcus Bains Line (line at current time) in the calendar', 'cy': ""P'un ai i dynnu Llinell Marcus Bains (llinell yr amser presennol) ar y calendr.""}",0.6037735849056604
+"{'en': 'Keyboard Accessibility Status', 'cy': 'Cyflwr Hygyrchedd Bysellfwrdd'}",0.1536388140161725
+"{'en': 'Geometry (x, y, width, height): %d, %d, %d, %d', 'cy': 'family'}",0.4070080862533692
+"{'en': 'The dropdown menu', 'cy': 'Y ddewislen gostwng'}",0.2560646900269542
+"{'en': '%.1f °F', 'cy': '%.1f °F'}",0.1940700808625337
+"{'en': 'Search:', 'cy': 'Chwilio'}",0.1509433962264151
+"{'en': 'Tocumen', 'cy': 'Tocumen'}",0.0377358490566037
+"{'en': 'Unsupported Action: %1', 'cy': 'Ni Chynhelir y Gweithrediad:% 1'}",0.2668463611859838
+"{'en': 'Sender declines the counter proposal', 'cy': 'Gwrthod Gwrthgynnig'}",0.3126684636118599
+"{'en': 'You cannot remove a folder in a News store: unsubscribe instead.', 'cy': 'Fedrwch chi ddim dileu plygell mewn storfa Newyddion: dad-danysgrifiwch yn lle hyn.'}",0.7466307277628034
+"{'en': 'Choose Palette Color %d', 'cy': 'Dewis Lliw Palet %d'}",0.3045822102425876
+"{'en': 'Cannot open message', 'cy': 'Methu agor y neges'}",0.3504043126684635
+"{'en': 'GhostScript', 'cy': 'GhostScript'}",0.0
+"{'en': '_Use as it is', 'cy': '_Defnyddio fel y mae'}",0.4070080862533693
+"{'en': '_Invert Case', 'cy': '_Cyfnewid Priflythrennedd'}",0.1940700808625337
+"{'en': 'Williston', 'cy': 'Williston'}",0.0
+"{'en': 'Edit Palette', 'cy': ""Golygu'r Palet""}",0.0
+"{'en': 'Office', 'cy': 'Swyddfa'}",0.0377358490566037
+"{'en': 'Encrypt', 'cy': 'Gwall Rheolwr Tystysgrifau@ info'}",0.0377358490566037
+"{'en': 'Current File Path', 'cy': 'Ffeil cofnod:'}",0.1536388140161725
+"{'en': '_Save:', 'cy': '_Cadw:'}",0.1940700808625337
+"{'en': 'Carcassonne', 'cy': 'Carcassonne'}",0.0
+"{'en': 'Top-Left Corner', 'cy': 'Cornel Pen- chwith'}",0.2318059299191374
+"{'en': 'CD-R/DVD-RAM', 'cy': 'CD-R/DVD-RAM'}",0.2318059299191374
+"{'en': 'Ajaccio', 'cy': 'Ajaccio'}",0.0
+"{'en': 'Disable connection to session manager', 'cy': ""Anablu'r cysylltiad i'r rheolwr sesiynau""}",0.1913746630727763
+"{'en': 'Obsoleting packages', 'cy': 'Sefydlu pecynnau'}",0.0377358490566037
+"{'en': 'San Angelo', 'cy': 'San Angelo'}",0.0
+"{'en': 'Mossoró', 'cy': 'MossoróCity in Rio Grande do Norte, Brazil'}",0.0
+"{'en': '%a %b %d', 'cy': '10, 2006"" in ""Tue Mar 08 - 10, 2006'}",0.3692722371967655
+"{'en': 'Unable to search within a period which is less than a minute.', 'cy': ""Methu chwilio o fewn cyfnod sy' n fyrrach na munud.""}",0.6900269541778976
+"{'en': 'Put Evolution into offline mode', 'cy': 'Dechreuwch ym modd all-lein'}",0.3504043126684635
+"{'en': 'Unable to load image-loading module: %s: %s', 'cy': 'Methu llwytho modiwl llwytho delweddau: %s: %s'}",0.3611859838274932
+"{'en': 'Kano', 'cy': 'Kano'}",0.0377358490566037
+"{'en': 'Show multiple pages', 'cy': 'Dangos fwy nag un tudalen'}",0.2479784366576819
+"{'en': 'List of active plugins. It contains the ""Location"" of the active plugins. See the .gedit-plugin file for obtaining the ""Location"" of a given plugin.', 'cy': 'Rhestr o ategion gweithredol. Mae\'n cynnwys ""Lleoliad"" yr ategion gweithredol. Gweler y ffeil .gedit-plugin er mwyn cael ""Lleoliad"" ategyn arbennig.'}",1.0
+"{'en': 'dash', 'cy': 'llinell doriad'}",0.0377358490566037
+"{'en': 'Operation has been canceled', 'cy': 'Gweithred wedi ei diddymu'}",0.2938005390835579
+"{'en': 'Add a C_olumn...', 'cy': '_Ychwanegu Colofn...'}",0.5687331536388142
+"{'en': 'The default width of the window, used when initially showing the window', 'cy': 'Lled rhagosodedig y ffenestr, a ddefnyddir wrth gychwyn dangos y ffenestr'}",0.6037735849056604
+"{'en': 'Creat_e a sent item to track information', 'cy': ""_Creu eitem wedi'i anfon er mwyn dilyn gwybodaeth""}",0.4150943396226415
+"{'en': 'of Elul', 'cy': 'o Orfennaf'}",0.0377358490566037
+"{'en': '_OK', 'cy': '_Iawn'}",0.1132075471698113
+"{'en': 'Choose a score slot.', 'cy': 'Dewiswch slot sgorio.'}",0.5687331536388142
+"{'en': 'Open new windows:', 'cy': 'Agor ffenestri newydd:'}",0.3611859838274932
+"{'en': 'color chooser', 'cy': 'dewiswr lliw'}",0.0377358490566037
+"{'en': 'If the application in the terminal sets the title (most typically people have their shell set up to do this), the dynamically-set title can erase the configured title, go before it, go after it, or replace it. The possible values are ""replace"", ""before"", ""after"", and ""ignore"".', 'cy': 'Os mae\'r rhaglen yn y derfynell yn gosod y teitl (gan amlaf mae pobl yn gosod eu cragen i wneud hyn), fe fydd y teitl a osodwyd yn ddynamig yn gallu dileu\'r teitl a gyfluniwyd, mynd cyn y teitl, mynd ar ei ôl, neu gymryd ei le. Y gwerthoedd posib: ""replace"", ""before"", ""after"" ac ""ignore"".'}",0.7466307277628034
+"{'en': 'number', 'cy': 'rhif'}",0.0377358490566037
+"{'en': 'Decline', 'cy': 'Gwrthod'}",0.0377358490566037
+"{'en': 'Preprocessor directive', 'cy': 'Diffiniadau Cyn-brosesydd'}",0.0377358490566037
+"{'en': '_Settings', 'cy': '_Gosodiadau'}",0.1509433962264151
+"{'en': 'Whether menus may display an icon next to a menu entry.', 'cy': 'A ydy dewislenni yn cael rhoi eiconau ar bwys eitem dewislen'}",0.7466307277628034
+"{'en': 'Connection type:', 'cy': '& Math cysylltiad:'}",0.2318059299191374
+"{'en': 'Define New View', 'cy': 'Diffinio Golwg Newydd'}",0.2102425876010781
+"{'en': 'Ontario', 'cy': 'Ontario'}",0.0377358490566037
+"{'en': '_Global Catalog server name:', 'cy': 'Enw gweinydd _Global Catalog:'}",0.3045822102425876
+"{'en': 'Find previous occurrence of the word or phrase', 'cy': 'Canfod digwyddiad blaenorol y gair neu frawddeg'}",0.4150943396226415
+"{'en': 'You must take the file out of the trash before being able to use it.', 'cy': 'Galluoga ddatddewis eitemau ffeil neu blygell ar sail masg a roddwyd'}",0.7466307277628034
+"{'en': 'The article contains no data.', 'cy': 'does dim data yn yr erthygl'}",0.5579514824797844
+"{'en': 'Server unexpectedly disconnected: %s', 'cy': 'Gwesteiwr wedi datgysylltu yn annisgwyl: %s'}",0.2668463611859838
+"{'en': 'SAH', 'cy': 'Yr Unol Daleithiau AmericaConstellation name (optional)'}",0.0377358490566037
+"{'en': '_When convenient', 'cy': '_Pan yn gyfleus'}",0.1940700808625337
+"{'en': 'You do not have permission to create files in this directory.', 'cy': 'Does ddim caniatâd gennych chi i greu ffeiliau o fewn y cyfeiriadur hwn.'}",0.7466307277628034
+"{'en': 'The full path to the file to be used to store and read the list', 'cy': ""Y llwybr llawn i'r ffeil a ddefnyddir i storio a darllen y rhestr""}",0.7439353099730458
+"{'en': 'Observe power management', 'cy': ""Arsylwi'r rheoli pŵer""}",0.1913746630727763
+"{'en': ""This is a failsafe session that will log you into a terminal. No startup scripts will be read and it is only to be used when you can't log in otherwise. To exit the terminal, type 'exit'."", 'cy': ""Mae hwn yn sesiwn ddifethiant gwnaiff adael i chi fewngofnodi i'r derfynell. Fydd ddim sgriptiau cychwyn yn cael eu darllen; defnyddiwch hwn ddim ond pam na allwch fewngofnodi fel arall. I adael y derfynell, teipiwch 'exit'.""}",0.7466307277628034
+"{'en': 'Generic metainformation', 'cy': 'Gwybodaeth feta gyffredinol'}",0.0377358490566037
+"{'en': 'Show type field in the event/task/meeting editor', 'cy': 'Dangos y maes math yn y golygydd digwyddiadau/tasgau/cyfarfodydd'}",0.3584905660377358
+"{'en': '_Close Preview', 'cy': ""_Cau'r Rhagolwg""}",0.2506738544474393
+"{'en': 'San Jose', 'cy': 'San Jose'}",0.0
+"{'en': 'Fit Window to Movie', 'cy': ""Ffitio'r Ffenest i'r Fideo""}",0.1536388140161725
+"{'en': 'Please authorize Ubuntu to access your %s account:', 'cy': ""Caniatau Ubuntu mynedfa i'ch cyfrif %s:""}",0.4636118598382749
+"{'en': 'Terminals have a 16-color palette that applications inside the terminal can use. This is that palette, in the form of a colon-separated list of color names. Color names should be in hex format e.g. ""#FF00FF""', 'cy': 'Mae gan derfynellau balet 16 lliw gall rhaglenni o fewn y derfynell ddefnyddio. Dyma\'r palet hwnnw, yn y ffurf rhestr colon-whanedig enwau lliwiau. Dylai enwau lliwiau fod mewn ffurf hecs, e.e. ""#F00FF""'}",0.6037735849056604
+"{'en': '_Add Files…', 'cy': 'Ychwanegu Ffeiliau'}",0.2506738544474393
+"{'en': 'Delivered:', 'cy': 'Anfonwyd:'}",0.1132075471698113
+"{'en': 'Georgian Supplement', 'cy': 'Atodiad Georgeg'}",0.0
+"{'en': 'Palau', 'cy': 'Palau'}",0.0
+"{'en': 'Documentation comment element', 'cy': 'string'}",0.1913746630727763
+"{'en': 'Underline', 'cy': 'Tanlinellu'}",0.0377358490566037
+"{'en': 'Error writing to file: %s', 'cy': 'Gwall wrth ysgrifennu i ffeil: %s'}",0.3045822102425876
+"{'en': 'Subtract [-]', 'cy': 'Tynnu'}",0.2318059299191374
+"{'en': 'Two Sided', 'cy': 'Two Sided'}",0.0
+"{'en': 'Special Dates', 'cy': 'Amser & DyddiadComment'}",0.0377358490566037
+"{'en': ""Can't find the GDM user '%s'. Aborting!"", 'cy': ""%s: Methu canfod y defnyddiwr GDM '%s'. Wrthi'n atal!""}",0.6711590296495957
+"{'en': ""Cannot create folder '%s': Invalid mailbox name"", 'cy': ""Methu creu plygell `%s': Enw blwch e-bost annilys""}",0.3504043126684635
+"{'en': 'Contact Editor - %s', 'cy': 'Golygydd Cysylltiadau - %s'}",0.3045822102425876
+"{'en': '& Key size:', 'cy': '& Allweddi'}",0.3045822102425876
+"{'en': 'Montana', 'cy': 'Montana'}",0.0
+"{'en': 'Pacific/Easter', 'cy': 'Pasiffig/Pasg'}",0.1940700808625337
+"{'en': 'application', 'cy': 'rhaglen'}",0.0377358490566037
+"{'en': 'Kiruna', 'cy': 'Kiruna'}",0.0
+"{'en': 'Wrong number of tokens (%d)', 'cy': 'Nifer anghywir o docynnau (%d)'}",0.1913746630727763
+"{'en': 'There was an error displaying help: %s', 'cy': 'Bu gwall wrth ddangos cymorth: %s'}",0.4716981132075472
+"{'en': 'P_review...', 'cy': '_Argraffu...'}",0.2938005390835579
+"{'en': 'Klipper - clipboard tool', 'cy': 'Klipper - erfyn gludfwrdd'}",0.3045822102425876
+"{'en': 'Temporary authentication failure', 'cy': 'Methiant dros dro ar ddilysu'}",0.1913746630727763
+"{'en': 'Savonlinna', 'cy': 'Savonlinna'}",0.0377358490566037
+"{'en': 'New Task List', 'cy': 'Rhestr Tasgau Newydd'}",0.1536388140161725
+"{'en': 'Recipients', 'cy': 'Derbynwyr'}",0.0377358490566037
+"{'en': 'Whether the label text can be selected with the mouse', 'cy': ""A gellir dewis testun y label gyda'r llygoden""}",0.3584905660377358
+"{'en': 'E_nable history-based auto completion', 'cy': '_Galluogi cwblhad awtomatig yn seiliedig ar yr hanes'}",0.3045822102425876
+"{'en': 'Shenzhen', 'cy': 'Shenzhen'}",0.0
+"{'en': 'Printers', 'cy': 'Pwyntyddion'}",0.0377358490566037
+"{'en': 'Process i_nformation shown in list:', 'cy': '_Gwybodaeth proses a ddangosir yn y rhestr:'}",0.3045822102425876
+"{'en': 'Interval timeout to check mount point status', 'cy': 'Yr ysbaid diweddaru statws pwynt gosod'}",0.2479784366576819
+"{'en': 'dark grey', 'cy': 'llwyd tywyll'}",0.0
+"{'en': 'Tali Preferences', 'cy': 'Hoffterau Tali'}",0.0
+"{'en': 'Magnifier', 'cy': 'X MagnifierComment'}",0.0
+"{'en': 'The path from which the menu contents is contructed. If empty, the menu will be the default applications menu.', 'cy': 'Y llwybr caiff cynnwys y ddewislen eu creu ohoni. Mae’r allwedd yma ond yn berthnasol os mae\'r allwedd use_menu_path yn wir ac mae\'r allwedd object_type yn ""menu-object"".'}",0.8301886792452831
+"{'en': 'Chat Window', 'cy': 'Ffenest Sgwrsio'}",0.0
+"{'en': 'No shade', 'cy': 'Dim cysgod'}",0.1024258760107816
+"{'en': 'frame', 'cy': 'ffrâm'}",0.0377358490566037
+"{'en': 'Europe/Istanbul', 'cy': 'Ewrop/Istanbul'}",0.1940700808625337
+"{'en': 'Forest Hill', 'cy': 'South Hill'}",0.0
+"{'en': '_Details', 'cy': '_Manylion'}",0.1509433962264151
+"{'en': 'collapses the row in the ETree containing this cell', 'cy': ""ymgwympo'r rhes yn yr ETree sy'n cynnwys y gell""}",0.4150943396226415
+"{'en': 'Set to true to be able to mark squares as unknown.', 'cy': ""Gosod yn wir er mwyn gallu marcio sgwariau'n anhysbys""}",0.6819407008086255
+"{'en': 'Stop loading the current location', 'cy': ""Atal llwytho'r lleoliad yma""}",0.3126684636118599
+"{'en': 'Symbol <', 'cy': 'Symbol <'}",0.1132075471698113
+"{'en': 'To Do Icon', 'cy': '< neges >'}",0.3504043126684635
+"{'en': 'Africa/Conakry', 'cy': 'Affrica/Conakry'}",0.1940700808625337
+"{'en': 'Receiving LDAP search results...', 'cy': 'Derbyn canlyniadau chwilio LDAP...'}",0.5040431266846361
+"{'en': 'Action Group', 'cy': 'Grŵp Gweithred'}",0.0
+"{'en': 'Scores', 'cy': 'Sgôr'}",0.0377358490566037
+"{'en': 'Change the name of this folder', 'cy': ""Newid enw'r blygell""}",0.4150943396226415
+"{'en': 'Boca Raton', 'cy': 'Boca Raton'}",0.0
+"{'en': 'A filename extension to be used when storing files encoded with this profile.', 'cy': ""Estyniad enw ffeil i'w ddefnyddio wrth gadw ffeiliau wedi'u hamgodio gyda'r proffil hwn.""}",0.7466307277628034
+"{'en': 'Kitakyushu', 'cy': 'Kitakyushu'}",0.0
+"{'en': 'Cryptography', 'cy': 'KTicerNewyddionGenericName'}",0.0377358490566037
+"{'en': 'Saving image locally...', 'cy': 'Cadw delwedd %s'}",0.5040431266846361
+"{'en': 'No sane value to bitwise shift', 'cy': ""Dim gwerth synhwyrol i'w storio""}",0.3584905660377358
+"{'en': 'Ukrainian', 'cy': 'WcranegHebrew, Visual'}",0.0
+"{'en': 'Grab Focus', 'cy': 'Cipio Ffocws'}",0.0
+"{'en': 'No', 'cy': 'Nabattery0'}",0.0
+"{'en': 'Time maximum:\\t%s ms', 'cy': 'Uchafrif amser:\\t%s ms'}",0.3045822102425876
+"{'en': '_Restore Previous Configuration', 'cy': 'Cyfluniad Dirprwy'}",0.3611859838274932
+"{'en': 'Camera Brand', 'cy': 'Gwneuthurwr y Camera'}",0.0377358490566037
+"{'en': 'Price', 'cy': 'Pris'}",0.0377358490566037
+"{'en': 'Total Sent', 'cy': 'Cyfanswm'}",0.0
+"{'en': 'Select all replies to the currently selected message', 'cy': ""Dewis pob neges o fewn yr un trywydd â'r neges a ddewiswyd""}",0.3584905660377358
+"{'en': 'Cisco - Content Service Switch 1100', 'cy': 'Cisco - Swits Gwasanaeth Cynnwys 1100Stencils'}",0.2668463611859838
+"{'en': ""An application wants access to the private key '%s', but it is locked"", 'cy': ""Mae rhaglen anhysbys am gyrchu'r cylch allweddi '%s', ond mae ar glo""}",0.6037735849056604
+"{'en': 'No ""%s"" attribute on element', 'cy': 'Dim priodwedd ""x"" gan elfen'}",0.3584905660377358
+"{'en': 'Cus_tom arguments:', 'cy': 'Larwm Addasedig:'}",0.2318059299191374
+"{'en': 'Cannot delete system folder ""{0}"".', 'cy': 'Methu dileu plygell system ""{0}"".'}",0.4932614555256065
+"{'en': 'Extensions', 'cy': 'EstyniadauOU = VeriSign Trust Network'}",0.0377358490566037
+"{'en': 'Are you sure you want to permanently delete the selected files?', 'cy': 'Ydych chi\'n siŵr eich bod am ddileu ""%s"" yn barhaol?'}",0.7466307277628034
+"{'en': 'Set x-position of actual selection', 'cy': '& Codi'}",0.1913746630727763
+"{'en': 'As check _pattern', 'cy': 'Fel patrwm _brith'}",0.3045822102425876
+"{'en': 'Do you want to activate Sticky Keys?', 'cy': 'Ydych chi eisiau troi Bysellau Gludiog ymlaen?'}",0.4555256064690027
+"{'en': '_Pause', 'cy': '_Seibio'}",0.1509433962264151
+"{'en': 'Mark the selected messages as unimportant', 'cy': ""Marcio'r neges(euon) ddewiswyd fel rhai sydd ddim yn bwysig""}",0.4150943396226415
+"{'en': 'Evolution Reminders', 'cy': 'Prawf Evolution'}",0.0377358490566037
+"{'en': 'Wasilla', 'cy': 'Wasilla'}",0.0
+"{'en': 'In Process', 'cy': 'Mewn Proses'}",0.0377358490566037
+"{'en': 'Previous Block', 'cy': 'Bloc Cynt'}",0.0377358490566037
+"{'en': 'Cisco - PC Router Card', 'cy': 'Cisco - Cerdyn Llwybrydd PCStencils'}",0.1536388140161725
+"{'en': 'Sort Bookmarks Menu', 'cy': 'Gosod & Tudnod'}",0.1536388140161725
+"{'en': 'Unified Canadian Aboriginal Syllabics Extended', 'cy': '& # 160; Bodorol CanadaKCharselect unicode block name'}",0.1536388140161725
+"{'en': 'Westhaven', 'cy': 'Westhaven'}",0.0
+"{'en': 'Nibbles newbie', 'cy': 'Dechreuwr Nibbles'}",0.0377358490566037
+"{'en': 'Order:', 'cy': 'Tablydd De'}",0.1509433962264151
+"{'en': 'S_ubtitles', 'cy': '_Isdeitlau'}",0.1509433962264151
+"{'en': 'The selected color', 'cy': 'Gorffen y broses a ddewiswyd?'}",0.2560646900269542
+"{'en': 'Select System', 'cy': 'Dewis Delwedd Defnyddiwr'}",0.0
+"{'en': 'Slovenian', 'cy': 'Slofeneg'}",0.0
+"{'en': 'Mail delivery via the sendmail program', 'cy': ""Anfon ebost drwy'r rhaglen sendmail.""}",0.3584905660377358
+"{'en': 'Log out of this session to log in as a different user', 'cy': ""Allgofnodi o'r sesiwn gyfredol er mwyn mewngofnodi fel defnyddiwr gwahanol""}",0.5471698113207547
+"{'en': 'Create _Folder', 'cy': 'Creu _Plygell'}",0.2884097035040431
+"{'en': 'Replace With', 'cy': 'Amnewid Efo'}",0.0
+"{'en': 'Every 10 Minutes', 'cy': 'Bob 10 Munud'}",0.3692722371967655
+"{'en': 'Flush (all same color) [35]', 'cy': 'Fflys (yr un lliw i gyd) [35]'}",0.4716981132075472
+"{'en': 'Secret', 'cy': 'Cyfrinach'}",0.0
+"{'en': 'Shut Down...', 'cy': 'Cau i Lawr...'}",0.3369272237196765
+"{'en': 'Invalid seek request', 'cy': 'Enw rhaglen annilys: %s'}",0.2479784366576819
+"{'en': 'Login sound requested on non-local display or the play software cannot be run or the sound does not exist', 'cy': ""Gofynnwyd am sain mewngofnodi ar ddangosydd sydd ddim yn lleol, neu ni ellir rhedeg y meddalwedd chwarae neu nid yw'r sain yn bodoli""}",0.5471698113207547
+"{'en': 'Key press to rotate.', 'cy': 'Y fysell i wasgu er mwyn troelli.'}",0.4474393530997305
+"{'en': '_Group Reply', 'cy': '_Dosbarthu Wrth...'}",0.1940700808625337
+"{'en': 'Yahoo! Home Screen Name 3', 'cy': 'Enw Sgrin Cartref 3 Yahoo!'}",0.2668463611859838
+"{'en': 'Privacy', 'cy': 'Preifatrwydd'}",0.0377358490566037
+"{'en': 'Some panel items are no longer available', 'cy': ""Dyw rhai o eitemau'r panel ddim bellach ar gael""}",0.3584905660377358
+"{'en': 'San Pedro', 'cy': 'San Marinosouthamerica. kgm'}",0.0
+"{'en': 'Confirm _when expunging a folder', 'cy': '_Cadarnhau wrth chwynnu plygell'}",0.4150943396226415
+"{'en': 'Show the photo of the sender in the message reading pane.', 'cy': 'Dangos cyfeiriad e-bost yr anfonwr o fewn colofn gyfansawdd y negeseuon yn y rhestr negeseuon'}",0.7466307277628034
+"{'en': 'Popup Notes Component', 'cy': 'Ategyn Golwg KLlyfrCyfeiriadauComment'}",0.1536388140161725
+"{'en': 'Steamboat Springs', 'cy': 'Steamboat Springs'}",0.0
+"{'en': 'Palmer Station (Chile Time)', 'cy': 'Antarctica'}",0.2668463611859838
+"{'en': 'Nickname', 'cy': 'Llysenw'}",0.0
+"{'en': 'Islip', 'cy': 'Islip'}",0.0
+"{'en': 'Ankarena', 'cy': 'Ankara/Esenboga'}",0.0
+"{'en': 'Port Alexander', 'cy': 'Port Alexander'}",0.0
+"{'en': 'Address book:', 'cy': 'Anfon Negeseuon yn y Rhes'}",0.2318059299191374
+"{'en': 'Iowa City', 'cy': 'Iowa City'}",0.0
+"{'en': 'New', 'cy': 'Dim Te'}",0.0
+"{'en': 'Asia/Shanghai', 'cy': 'Asia/Shanghai'}",0.1940700808625337
+"{'en': 'Jom', 'cy': 'JomShanbe short'}",0.0
+"{'en': 'CORBA CosNaming service.', 'cy': 'Gwasanaeth CosNaming CORBA.'}",0.5040431266846361
+"{'en': ""The message's date will be compared against a time relative to when filtering occurs."", 'cy': ""Bydd amser y neges yn cael ei gymharu ag amser perthynol pryd mae hidlo'n digwydd.""}",0.6900269541778976
+"{'en': 'Failed to find duplicate messages.', 'cy': 'Methwyd anfon %d o %d neges.'}",0.3908355795148248
+"{'en': 'Illesheim', 'cy': 'Illesheim'}",0.0377358490566037
+"{'en': 'Move ~a onto the three of diamonds.', 'cy': ""tri'r diemwntau""}",0.6711590296495957
+"{'en': 'Hide the column from this', 'cy': ""Cuddio' r golofn.""}",0.4150943396226415
+"{'en': 'Thumbnail command for TrueType fonts', 'cy': 'Gorchymyn lluniau cryno ar gyfer ffontiau TrueType'}",0.1913746630727763
+"{'en': '6.250', 'cy': '6. 250'}",0.1132075471698113
+"{'en': 'No sane value to store', 'cy': ""Dim gwerth synhwyrol i'w storio""}",0.3584905660377358
+"{'en': 'Mist', 'cy': 'Niwl'}",0.0377358490566037
+"{'en': 'Character Table', 'cy': 'Tabl Nodau'}",0.0
+"{'en': 'Could not authenticate to the Exchange server. Make sure the username and password are correct and try again. You may need to specify the Windows domain name as part of your username (eg, ""MY-DOMAIN\\\\%s"").', 'cy': 'Methu dilysu â\'r gweinydd Exchange. Gwnewch yn siŵr fod yr enw defnyddiwr a\'r cyfrinair yn gywir cyn ceisio eto. Mae\'n bosib fod rhaid i chi roi enw parth Windows fel rhan o\'ch enw defnyddiwr (e.e. ""FY-MHARTH\\\\%s"").'}",0.7466307277628034
+"{'en': 'Taskbar', 'cy': 'Bar Tasgau'}",0.0377358490566037
+"{'en': 'Custom Location', 'cy': 'Unioniad'}",0.0
+"{'en': 'You may not import keys with this cipher', 'cy': ""Fedrwch chi ddim mewnforio allweddi gyda'r seiffr hwn""}",0.4150943396226415
+"{'en': 'Server challenge contained invalid ""Quality of Protection"" token', 'cy': 'Sialens y gwesteiwr yn cynnwys tocyn ""Ansawdd Diogelwch"" annilys'}",0.3611859838274932
+"{'en': 'Number of rows', 'cy': 'Ni weithredolir eto'}",0.1913746630727763
+"{'en': 'Stock label', 'cy': '_DiweddaruStock label'}",0.0377358490566037
+"{'en': 'Move selected contacts to another address book', 'cy': 'Symud y cysylltiadau a ddewiswyd i blygell arall...'}",0.4150943396226415
+"{'en': 'Move the open folder out of the trash to “%s”', 'cy': ""Symud y blygell agored i'r Sbwriel""}",0.4150943396226415
+"{'en': 'Fujigane', 'cy': 'FujiganeCity name (optional, probably does not need a translation)'}",0.0377358490566037
+"{'en': 'Keywords', 'cy': '_Allweddair:'}",0.0377358490566037
+"{'en': 'Nunavut', 'cy': 'Nunavut'}",0.0
+"{'en': 'The server, while currently connected to the Internet, may not be running the requested service (%1).', 'cy': ""Efallai nad yw' r gweinydd, er ei fod yn gysylltiedig i' r Rhyngrwyd ar hyn o bryd, yn rhedeg y wasanaeth a ofynwyd amdani (% 1).""}",0.7466307277628034
+"{'en': 'Grosseto', 'cy': 'Grosseto'}",0.0
+"{'en': '%1 options:', 'cy': '% 1 o ddewisiadau'}",0.2318059299191374
+"{'en': 'Serial number:', 'cy': 'Rhif cyfresol:'}",0.2318059299191374
+"{'en': 'Group Name: %s', 'cy': 'something has been set'}",0.3045822102425876
+"{'en': ""Can't do a raw read in g_io_channel_read_to_end"", 'cy': 'Methu gwneud darlleniad crai yn g_io_channel_read_to_end'}",0.5283018867924529
+"{'en': 'Cardiff', 'cy': 'Caerdydd'}",0.0377358490566037
+"{'en': 'Forwarded messages', 'cy': 'Negeseuon a yrrwyd ymlaen'}",0.0377358490566037
+"{'en': '& Sharpen', 'cy': '& Miniogi'}",0.1132075471698113
+"{'en': 'Filename', 'cy': 'Enw Ffeil'}",0.0
+"{'en': 'Do not lock current screen', 'cy': ""Peidio â chloi'r sgrin gyfredol""}",0.3504043126684635
+"{'en': 'Helgoland', 'cy': 'HelgolandCity name (optional, probably does not need a translation)'}",0.0377358490566037
+"{'en': ""Root login disallowed on display '%s'"", 'cy': ""Mewngofnodiad root wedi ei wahardd ar y dangosydd '%s'""}",0.1913746630727763
+"{'en': 'All cookies from this domain', 'cy': ""Pob cookie o' r & parth yma""}",0.3584905660377358
+"{'en': 'Graphics Theme', 'cy': ""Thema'r Graffeg""}",0.0377358490566037
+"{'en': 'Cape Dyer', 'cy': 'Cape Dyer'}",0.0
+"{'en': 'The BETAINV() function returns the inverse of BETADIST(x; alpha; beta; a; b; TRUE()).', 'cy': ""Mae' r ffwythiant BESSELJ () yn dychwelyd y ffwythiant Bessel.""}",0.8598382749326147
+"{'en': 'learn', 'cy': ""You are about to translate the 'Reset' COMMAND, there are some rules on how to translate it. Please see http: // edu. kde. org/ kturtle/ translator. php to learn how to properly translate it.""}",0.0
+"{'en': 'Could not open recently used document ""%s""', 'cy': 'Methu agor y ddogfen ""%s"" a ddefnyddiwyd yn ddiweddar'}",0.3504043126684635
+"{'en': '_%d. %s', 'cy': '_%d. %s'}",0.2318059299191374
+"{'en': 'Normal', 'cy': ""Cliciwch a llusgo i leoli' ch siap eich hun.""}",0.0
+"{'en': 'Invalid sequence in conversion input', 'cy': 'Dilyniant annilys ym mewnbwn trawsnewidiad'}",0.1913746630727763
+"{'en': 'Pond Inlet', 'cy': 'Pond Inlet'}",0.0
+"{'en': 'Virtual desktop ten is selected', 'cy': 'Dewiswyd Rhith- benbwrdd SaithName'}",0.2938005390835579
+"{'en': '5 of a Kind [50 + total]', 'cy': '5 o Fath [50 + cyfanswm]'}",0.4716981132075472
+"{'en': 'GNOME Terminal', 'cy': 'Terfynell GNOME'}",0.0
+"{'en': '_Value:', 'cy': '_Gwerth:'}",0.2318059299191374
+"{'en': '_Available Categories:', 'cy': 'Categorïau _Ar Gael:'}",0.2318059299191374
+"{'en': 'Paragraph background color name', 'cy': 'Enw lliw cefndir paragraff'}",0.1913746630727763
+"{'en': 'Montgauch', 'cy': 'Montauk'}",0.0
+"{'en': 'Melfort', 'cy': 'Belfort'}",0.0377358490566037
+"{'en': 'Cannot attach CMS data object', 'cy': 'Methu atodi gwrthrych data CMS'}",0.3504043126684635
+"{'en': 'Privileges', 'cy': 'Breintiau'}",0.0377358490566037
+"{'en': 'Increase Volume', 'cy': ""Cynyddu' r Lefel Sŵn""}",0.0
+"{'en': 'Time and Date Settings', 'cy': 'Gosodiadau Dyddiad ac Amser'}",0.1913746630727763
+"{'en': 'Reset the text to its original size', 'cy': ""Adfer y testun i'w faint gwreiddiol""}",0.4150943396226415
+"{'en': 'Function:', 'cy': 'Ffwythiant'}",0.1509433962264151
+"{'en': 'Enable silence _detection', 'cy': 'Galluogi _darganfod distawrwydd'}",0.3611859838274932
+"{'en': 'ancestor-or-self', 'cy': 'hynafiad-neu-hunan'}",0.2318059299191374
+"{'en': 'Oregon', 'cy': 'Oregon'}",0.0
+"{'en': '(c) 1999-2003, The KHelpCenter developers', 'cy': '(h) 1999- 2003, Datblygwyr KHelpCenter'}",0.3692722371967655
+"{'en': 'Type, module or object keyword', 'cy': 'Gwarchodeiriau Math, Gwrthrych a Dosbarth'}",0.1913746630727763
+"{'en': '_Use custom format', 'cy': '_Defnyddio fformat addasedig'}",0.3611859838274932
+"{'en': 'Command to execute on click', 'cy': ""Gorchymyn i'w weithredu pan gaiff ei glicio""}",0.2560646900269541
+"{'en': 'Narsarsuaq', 'cy': 'Narsarsuaq'}",0.0377358490566037
+"{'en': 'The link you clicked needs the sidebar extension to be installed.', 'cy': ""Mae'r cyswllt a glicioch yn mynnu fod yr estyniad bar ochr wedi ei sefydlu.""}",0.6900269541778976
+"{'en': 'Mount point:', 'cy': 'Man gosod:'}",0.2318059299191374
+"{'en': 'Sandstorm', 'cy': 'Storm dywod'}",0.0
+"{'en': 'Cisco - PAD', 'cy': 'Cisco - PADStencils'}",0.2668463611859838
+"{'en': 'Vidalia', 'cy': 'Vidalia'}",0.0
+"{'en': 'Group Automation', 'cy': 'komposer, kyfansoddyddName'}",0.0
+"{'en': 'day', 'cy': 'diwrnod'}",0.0377358490566037
+"{'en': 'Game level to start on.', 'cy': 'Lefel y gêm i ddechrau arno.'}",0.4366576819407008
+"{'en': 'Network - A Mobile Phone', 'cy': 'Rhwydwaith - Ffôn SymudolStencils'}",0.1536388140161725
+"{'en': 'Replace hue by two colors', 'cy': 'Disodli arlliw â dau liw'}",0.3504043126684635
+"{'en': '& Copy Text', 'cy': '& Copïo Testun'}",0.2668463611859838
+"{'en': 'Nuevo Laredo', 'cy': 'Nuevo Laredo'}",0.0
+"{'en': 'Nice', 'cy': 'Neis'}",0.0
+"{'en': 'Mountain View', 'cy': 'Mountain View'}",0.0
+"{'en': 'Barnaul', 'cy': 'BarnaulБрацк'}",0.0377358490566037
+"{'en': '_Cell...', 'cy': 'Cell'}",0.3746630727762803
+"{'en': 'Swirl', 'cy': 'Chwyrlïo'}",0.0377358490566037
+"{'en': ""You cannot attach the file `{0}' to this message."", 'cy': ""Fedrwch chi ddim atodi'r ffeil `{0}' at y neges hon.""}",0.5579514824797844
+"{'en': 'Keyboard shortcut to close a window', 'cy': 'Byrlwybr bysellfwrdd er mwyn cau ffenest'}",0.4150943396226415
+"{'en': 'Browse the web', 'cy': ""Pori'r we""}",0.3126684636118599
+"{'en': 'Failed to stream mail message content to SpamAssassin:', 'cy': ""Hidlo negeseuon sothach drwy SpamAssassin. Rhaid i SpamAssassin gael ei osod cyn i'r ategyn hwn weithio.""}",0.3504043126684635
+"{'en': 'Movie Properties', 'cy': '& Priodweddau'}",0.0377358490566037
+"{'en': ""Unexpected attribute '%s' for element '%s'"", 'cy': ""Priodwedd annisgwyl '%s' i'r elfen '%s'""}",0.3045822102425876
+"{'en': 'Cannot drop database - name not specified.', 'cy': 'Methu gollwng y gronfa ddata - ni roddwyd enw.'}",0.6064690026954179
+"{'en': 'Forecast not currently available for this location.', 'cy': 'Nid oes rhagolwg ar gael ar gyfer y lleoliad hwn ar hyn o bryd.'}",0.5013477088948788
+"{'en': 'Creil', 'cy': 'Creil Fafb'}",0.0
+"{'en': 'Invalid spool', 'cy': 'Pwrpas annilys'}",0.0377358490566037
+"{'en': 'Colombian Peso', 'cy': 'ColombiaName'}",0.0377358490566037
+"{'en': 'St. Michales', 'cy': 'St. MichalesCity name (optional, probably does not need a translation)'}",0.1132075471698113
+"{'en': 'You are connecting to an unsupported GroupWise server and may encounter problems using Evolution. For best results, the server should be upgraded to a supported version.', 'cy': ""Rydych yn cysylltu â gweinydd GroupWise sydd heb ei gynnal. Hwyrach y cewch chi broblemau gyda Evolution. Dylid uwchraddio'r gweinydd at fersiwn sydd wedi ei gynnal, i gael y canlyniadau gorau.""}",0.7466307277628034
+"{'en': 'salmon3', 'cy': 'eogliwcolor'}",0.1132075471698113
+"{'en': '_Redo Change Permissions', 'cy': 'Nam wrth osod Caniatadau'}",0.3045822102425876
+"{'en': 'VARPA(6; 7; 8) equals 0.6666667...', 'cy': 'Mae VARPA( 6; 7; 8) yn dychwelyd 0. 6666667...'}",0.4663072776280323
+"{'en': '& Indentation Mode:', 'cy': 'Modd Dewis'}",0.2668463611859838
+"{'en': 'Cannot add CMS Signer information', 'cy': 'Methu ychwanegu gwybodaeth Arwyddwr CMS'}",0.3504043126684635
+"{'en': '%s: Got KEEPALIVE from banned host %s', 'cy': '%s: Cafwyd KEEPALIVE o westeiwr gwaharddedig %s'}",0.3611859838274932
+"{'en': 'Cr_ying', 'cy': '_Crio'}",0.1132075471698113
+"{'en': 'You must have at least one <locale> entry in a <schema>', 'cy': ""Mae'n rhaid i chi gael o leiaf un cofnod <locale> mewn <schema>""}",0.6037735849056604
+"{'en': 'Screen %d on display ""%s"" already has a window manager; try using the --replace option to replace the current window manager.', 'cy': 'Y mae gan sgrin %d ar y dangosydd ""%s"" drefnydd ffenestri yn barod; ceisiwch yr opsiwn --replace i amnewid y rheolydd ffenestri cyfredol.'}",0.7466307277628034
+"{'en': 'Move ~a onto the king of spades.', 'cy': 'brenin y rhawiau'}",0.6711590296495957
+"{'en': 'Wisconsin', 'cy': 'Wisconsin'}",0.0
+"{'en': 'Minnesota', 'cy': 'MinnesotaRegion/ state name (optional, rarely needs a translation)'}",0.0
+"{'en': ""Date format of note's title"", 'cy': 'Ffurf dyddiad teitl nodyn'}",0.2938005390835579
+"{'en': 'Please enter a name and try again.', 'cy': 'Rhowch enw a cheisiwch eto.'}",0.5579514824797844
+"{'en': 'Current maintainer', 'cy': 'Awdur & cynhaliwr'}",0.0377358490566037
+"{'en': 'Minimum Y', 'cy': 'Y Lleiaf'}",0.0377358490566037
+"{'en': 'Top Centered Panel', 'cy': 'Panel Brig wedi ei Ganoli'}",0.1913746630727763
+"{'en': 'Font Size', 'cy': 'Maint Ffont'}",0.0
+"{'en': 'Cannot get message %s: %s', 'cy': 'Methu cael neges %s: %s'}",0.4636118598382749
+"{'en': 'Choose a l_anguage:', 'cy': 'Dewiswch _iaith:'}",0.4258760107816711
+"{'en': 'male', 'cy': 'Gorchymyn ar & gyfer llafaru testunau:'}",0.0377358490566037
+"{'en': 'Roseau', 'cy': 'Roseau'}",0.0377358490566037
+"{'en': 'Connected to server', 'cy': ""Cysylltu i'r gweinydd""}",0.1536388140161725
+"{'en': 'Could not open source', 'cy': 'Methwyd agor y ffynhonnell'}",0.3504043126684635
+"{'en': 'Prague', 'cy': 'Prâg'}",0.0
+"{'en': 'Jobs of %1', 'cy': 'Swyddi o% 1'}",0.3045822102425876
+"{'en': 'Display color selection dialog', 'cy': 'Dangos deialog dewis ffeil'}",0.1913746630727763
+"{'en': 'Cannes', 'cy': 'Cannes'}",0.0377358490566037
+"{'en': 'Contact information', 'cy': 'Gwybodaeth gyswllt'}",0.0377358490566037
+"{'en': 'America/Boise', 'cy': 'America/Boise'}",0.1940700808625337
+"{'en': '%S of %S', 'cy': '%S o %S2 bytes"" or ""3 MB2 minutes"". So the whole thing will be something like ""2 kb of 4 MB -- 2 hours left (4kb/sec)'}",0.444743935309973
+"{'en': 'Zoom factor ""%g"" is too small, using %g', 'cy': 'Mae\'r ffactor chwyddo ""%g"" yn rhy fach; defnyddir %g yn lle'}",0.4636118598382749
+"{'en': 'Symbol em-dash ---', 'cy': 'Symbol cysylltnod ---'}",0.3045822102425876
+"{'en': '%.1f mmHg', 'cy': '%.1f mmHg'}",0.1940700808625337
+"{'en': 'PostScript Documents', 'cy': 'Dogfennau PostScript'}",0.0377358490566037
+"{'en': 'Should not have ""resize"" attribute on element for maximized states', 'cy': 'Ni ddylid cael priodwedd ""resize"" ar elfen mewn cyflwr wedi\'i ehangu'}",0.3504043126684635
+"{'en': 'Closes the current project.', 'cy': ""Cau' r cywaith cyfredol""}",0.5687331536388142
+"{'en': 'Empty', 'cy': 'Gwag'}",0.0
+"{'en': 'Display and edit bookmarks', 'cy': 'Golygu Llyfrnodau'}",0.1913746630727763
+"{'en': 'Visited link color', 'cy': 'Lliw cyswllt ymwelwyd ag ef'}",0.1913746630727763
+"{'en': 'Ma_ximize All', 'cy': '_Ehangu'}",0.1132075471698113
+"{'en': 'User', 'cy': 'Defnyddiwr'}",0.0377358490566037
+"{'en': 'Sevilla', 'cy': 'SevillaCity name (optional, probably does not need a translation)'}",0.0377358490566037
+"{'en': 'html container', 'cy': 'cynhwysydd html'}",0.0
+"{'en': 'Snooze _time:', 'cy': 'Amser _hepian:Purge events older than <<spin\\-button>> days'}",0.2318059299191374
+"{'en': 'Inserts a cell from the clipboard into the spreadsheet', 'cy': ""Mewnosod cell o' r gludfwrdd yn y daenlen.""}",0.3584905660377358
+"{'en': 'Show Desktop Button', 'cy': 'Botwm Dangos y Penbwrdd'}",0.2102425876010781
+"{'en': 'PostScript Documents', 'cy': 'Dogfennau PostScript'}",0.0377358490566037
+"{'en': 'Add a Column', 'cy': '_Ychwanegu Colofn...'}",0.3126684636118599
+"{'en': ""Delete link to '%s'"", 'cy': 'Cyswllt %d i %s'}",0.3045822102425876
+"{'en': 'Name=KitchenSync Manipulator', 'cy': 'Comment=Ategyn KitchenSync'}",0.2318059299191374
+"{'en': 'Cobija', 'cy': 'Cobija'}",0.0377358490566037
+"{'en': 'gdmaskpass only runs as root', 'cy': 'gdmaskpass ond yn rhedeg fel root'}",0.2938005390835579
+"{'en': 'De_fault:', 'cy': '_Rhagosodedig:'}",0.1132075471698113
+"{'en': 'The program on your computer which provides access to the %1 protocol has reported an internal error.', 'cy': ""Mae' r rhaglen ar eich cyfrifiadur sy' n darparu cyrchiad i' r protocol% 1 wedi adrodd gwall mewnol.""}",0.7466307277628034
+"{'en': 'Choose Frontside', 'cy': 'Dewis Ochr Flaen'}",0.0
+"{'en': ""Set the terminal's zoom factor (1.0 = normal size)"", 'cy': ""Gosod ffactor chwyddo'r derfynell (1.0 = maint arferol)""}",0.5283018867924529
+"{'en': '_Resize', 'cy': 'Newid _Maint'}",0.1132075471698113
+"{'en': 'Show Methods', 'cy': '& Golygu...'}",0.0377358490566037
+"{'en': '_Recurrence', 'cy': '_Ail-ddigwyddiad'}",0.1132075471698113
+"{'en': '%s: remove %s (write-protected) %s?', 'cy': '%s: remove %s (write-protected) %s?'}",0.5040431266846361
+"{'en': 'MediumSlateBlue', 'cy': 'LlwydGolaucolor'}",0.0377358490566037
+"{'en': '_Prioritize Message', 'cy': '_Gosod Blaenoriaeth y Neges'}",0.2884097035040431
+"{'en': 'No such user {0}', 'cy': ""Dim defnyddiwr o'r enw {0}""}",0.4716981132075472
+"{'en': 'Manistique', 'cy': 'Manistique'}",0.0
+"{'en': 'Ulleungdo', 'cy': 'UlleungdoCity name (optional, probably does not need a translation)'}",0.0
+"{'en': 'OWNER', 'cy': 'PERCHENNOG'}",0.0
+"{'en': 'Turks and Caicos Islands', 'cy': 'Ynysoedd Turks a CaicosCountry name (optional, but should be translated)'}",0.1536388140161725
+"{'en': 'Select Date', 'cy': 'Dewis Dyddiad'}",0.0
+"{'en': 'Moderate snow grains', 'cy': 'Grawn eira cymedrol'}",0.1913746630727763
+"{'en': 'Configuration is not correct', 'cy': ""Nid yw'r cyfluniad yn gywir""}",0.2938005390835579
+"{'en': 'Robinson', 'cy': 'Robinson'}",0.0
+"{'en': 'Only 18 steps', 'cy': '18 Cam yn Unig'}",0.3045822102425876
+"{'en': '_Name:', 'cy': '_Enw:'}",0.2318059299191374
