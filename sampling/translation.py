@@ -1,6 +1,6 @@
 import pandas as pd
 
-def get_stratified_subsets(df, importance_col="importance", label_col="label", frac=0.1, random_state=42):
+def get_stratified_subsets(df, importance_col="importance", frac=0.1, random_state=42):
     """
     Selects top-10%, bottom-10%, and random-10% samples from each class based on the importance scores.
 
@@ -21,3 +21,10 @@ def get_stratified_subsets(df, importance_col="importance", label_col="label", f
     random_subset = df.apply(lambda x: x.sample(frac=frac, random_state=random_state))
 
     return top_subset, bottom_subset, random_subset
+
+if __name__ == "__main__":
+    
+    train_file = "path to train file"
+    train = pd.read_csv(train_file)
+    
+    top_subset, bottom_subset, random_subset = get_stratified_subsets(df=train)

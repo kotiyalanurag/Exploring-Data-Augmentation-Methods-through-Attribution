@@ -21,3 +21,10 @@ def get_stratified_subsets(df, importance_col="importance", label_col="label", f
     random_subset = df.groupby(label_col, group_keys=False).apply(lambda x: x.sample(frac=frac, random_state=random_state))
 
     return top_subset, bottom_subset, random_subset
+
+if __name__ == "__main__":
+    
+    train_file = "path to train file"
+    train = pd.read_csv(train_file)
+    
+    top_subset, bottom_subset, random_subset = get_stratified_subsets(df=train)
